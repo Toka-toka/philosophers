@@ -16,10 +16,11 @@ typedef struct	s_lim
 
 typedef struct	s_philo
 {
-	pthread_t		ptr;
-    int             number;
-	pthread_mutex_t	*mutex;
+	int             number;
+	pthread_t		ptr; 
+	pthread_mutex_t	*input;
 	t_lim			*lim;
+	struct timeval	hungry;
 /*	struct timeval	start;
 	struct timeval	t_die;
 	t_forks			*left;
@@ -37,7 +38,8 @@ typedef struct	s_all
 	struct timeval	start;
 //	t_forks			*forks;
 	t_philo			*philo_ptr;
-    pthread_mutex_t	mutex;
+	pthread_t		wizard;
+    pthread_mutex_t	input;
 	t_lim			*lim;
 /*	pthread_t		checker;
 	pthread_mutex_t	display; */

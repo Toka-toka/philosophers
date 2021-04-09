@@ -26,6 +26,49 @@ void	*work(void *data)
 	return (NULL);
 }
 
+void	start_party(t_all *all)
+{
+	int	i;
+	
+	i = 0;
+	while (i < all->lim->philo)
+	{
+		if (i % 2 == 0)
+		{
+			pthread_create(&all->philo_ptr[i].ptr, NULL, life,
+				(void *)&all->philo_ptr[i]);
+			i++;
+		}
+	}
+	i = 0;
+	while (i < all->lim->philo)
+	{
+		if (i % 2 != 0)
+		{
+			pthread_create(&all->philo_ptr[i].ptr, NULL, life,
+				(void *)&all->philo_ptr[i]);
+			i++;
+		}
+	}
+	pthread_create(&all->wizard, NULL, death_catch,(void *)&all->philo_ptr[i]);
+	pthread_join(all->wizard, NULL);
+	return (0);
+}
+
+int		init(t_all *all)
+{
+	int	i;
+	
+	i = 0;
+	all->philo_ptr = malloc(all->lim->philo * sizeof(t_philo));
+	while (i < all->lim->philo)
+	{
+		all->philo_ptr[i].number = i;
+		all->philo_ptr[i].input = &all->input;
+		i++;
+	}
+}
+/*
 void	create_phylo(t_all *all)
 {
 	int	i;
@@ -36,11 +79,9 @@ void	create_phylo(t_all *all)
 	{
 		all->philo_ptr[i].number = i;
 		all->philo_ptr[i].mutex = &all->mutex;
-		pthread_create(&all->philo_ptr[i].ptr, NULL, work,
-			(void *)&all->philo_ptr[i]);
-		i++;
+
 	}
-}
+}*/
 
 int	pars_argv(int i, int value, t_all *all)
 {
@@ -54,7 +95,8 @@ int	pars_argv(int i, int value, t_all *all)
 		all->lim->sleep = value;
 	else if (i == 5)
 		all->lim->num_eat = value;
-	if (all->lim->philo < 1 || all->lim->philo > 200 || all->lim->die < 60 || all->lim->eat < 60 || all->lim->sleep < 60)
+	if (all->lim->philo < 1 || all->lim->philo > 200
+		|| all->lim->die < 60 || all->lim->eat < 60 || all->lim->sleep < 60)
 		return (1);
 	else
 		return (0);
@@ -91,19 +133,9 @@ int	check_argv(char **argv, t_all *all)
 
 int	main(int argc, char **argv)
 {
-//	struct timeval start, end;
 	t_all	all;
 	t_lim	lim;
-/*    int i;
-	i = 0;
-	all.philo_num = 100000;
-	pthread_mutex_init(&all.mutex, NULL);
-	create_phylo(&all);
-	while (i < all.philo_num)
-	{
-		pthread_join(all.philo_ptr[i].ptr, NULL);
-		i++;
-	}*/	
+
 	all.lim = &lim;
 	lim.philo = 2;
 	lim.die = 60;
@@ -117,11 +149,9 @@ int	main(int argc, char **argv)
 	}
 	if(check_argv(argv, &all) != 0)
 		return(1);
-/*	gettimeofday(&start, NULL);
-	usleep(10000*1000);
-//    waid(1000*1000); // микро
-	gettimeofday(&end, NULL);
-	printf("%ld mill seconds\n",
+	init(all);
+	gettimeofday(&all.start, NULL);
+
 	(end.tv_sec * 1000 + end.tv_usec / 1000) - (start.tv_sec * 1000 + start.tv_usec / 1000)); */
 	return(0);
 }
