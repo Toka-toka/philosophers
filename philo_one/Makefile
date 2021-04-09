@@ -1,18 +1,18 @@
 NAME = philo_one
 
-SRC = 	*.s
+SRC = *.c
 
-OBJ = $(SRC:.s=.o)
+OBJ = $(SRC:.c=.o)
 
-FLAGS = -Wall -Wextra -Werror
+FLAGS = -Wall -Wextra -Werror -pthread
 
 all: $(NAME)
 
 $(NAME): $(OBJ)
-	gcc $(FLAGS) $(OBJ) -o $(NAME)
+	gcc $(FLAGS) $(SRC) -o $(NAME) -g
 
-%.o: %.c $(INCLUDE)
-		@clang $(FLAGS) -c $< -o $@
+#%.o: %.c $(INCLUDE)
+#	@gcc $(FLAGS) -c $< -o $@
 
 clean:
 	rm -f $(OBJ)
