@@ -4,11 +4,22 @@
 #include <pthread.h>
 #include <stdlib.h>
 
+typedef struct	s_lim
+{
+	struct timeval	start;
+	int				philo;
+	int				die;
+	int				eat;
+	int				sleep;
+	int				num_eat;
+}				t_lim;
+
 typedef struct	s_philo
 {
 	pthread_t		ptr;
     int             number;
 	pthread_mutex_t	*mutex;
+	t_lim			*lim;
 /*	struct timeval	start;
 	struct timeval	t_die;
 	t_forks			*left;
@@ -27,11 +38,7 @@ typedef struct	s_all
 //	t_forks			*forks;
 	t_philo			*philo_ptr;
     pthread_mutex_t	mutex;
-	int				philo_num;
-	int				die_speed;
-	int				eat_speed;
-	int				sleep_speed;
-	int				times_eat;
+	t_lim			*lim;
 /*	pthread_t		checker;
 	pthread_mutex_t	display; */
 }				t_all;

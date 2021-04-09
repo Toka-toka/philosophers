@@ -31,8 +31,8 @@ void	create_phylo(t_all *all)
 	int	i;
 
 	i = 0;
-	all->philo_ptr = malloc(all->philo_num * sizeof(t_philo));
-	while (i < all->philo_num)
+	all->philo_ptr = malloc(all->lim->philo * sizeof(t_philo));
+	while (i < all->lim->philo)
 	{
 		all->philo_ptr[i].number = i;
 		all->philo_ptr[i].mutex = &all->mutex;
@@ -45,16 +45,16 @@ void	create_phylo(t_all *all)
 int	pars_argv(int i, int value, t_all *all)
 {
 	if (i == 1)
-		all->philo_num = value;
+		all->lim->philo = value;
 	else if (i == 2)
-		all->die_speed = value;
+		all->lim->die = value;
 	else if (i == 3)
-		all->eat_speed = value;
+		all->lim->eat = value;
 	else if (i == 4)
-		all->sleep_speed = value;
+		all->lim->sleep = value;
 	else if (i == 5)
-		all->times_eat = value;
-	if (all->philo_num < 1 || all->philo_num > 200 || all->die_speed < 60 || all->eat_speed < 60 || all->sleep_speed < 60)
+		all->lim->num_eat = value;
+	if (all->lim->philo < 1 || all->lim->philo > 200 || all->lim->die < 60 || all->lim->eat < 60 || all->lim->sleep < 60)
 		return (1);
 	else
 		return (0);
@@ -65,24 +65,26 @@ int	check_argv(char **argv, t_all *all)
 	int		i;
 	int		value;
 	char	*temp;
+	int		status;
 
 	i = 1;
 	while (argv[i] != NULL)
 	{
+		status = 0;
 		value = ft_atoi(argv[i]);
 		temp = ft_itoa(value);
 		if (ft_strncmp(argv[i], temp, ft_strlen(argv[i])) != 0 || value <= 0)
-		{
-			free(temp);
-			printf("%d argument is invalid \n", i);
-			return (1);
-		}
-		if (pars_argv(i, value, all) != 0)
-		{
+			status = 1;
+		else if (pars_argv(i, value, all) != 0)
+			status = 2;
+		free(temp);
+		if (status == 0 && i++)
+			continue;
+		else if (status == 1)
+			printf("%d argument is invalid\n", i);
+		else if (status == 2)
 			printf("%d argument is out of rulls of simulation\n", i);
-			return (1);
-		}
-		i++;
+		return(1);
 	}
 	return (0);
 }
@@ -91,8 +93,8 @@ int	main(int argc, char **argv)
 {
 //	struct timeval start, end;
 	t_all	all;
+	t_lim	lim;
 /*    int i;
-
 	i = 0;
 	all.philo_num = 100000;
 	pthread_mutex_init(&all.mutex, NULL);
@@ -102,11 +104,12 @@ int	main(int argc, char **argv)
 		pthread_join(all.philo_ptr[i].ptr, NULL);
 		i++;
 	}*/	
-	all.philo_num = 2;
-	all.die_speed = 60;
-	all.eat_speed = 60;
-	all.sleep_speed = 60;
-	all.times_eat = -1;
+	all.lim = &lim;
+	lim.philo = 2;
+	lim.die = 60;
+	lim.eat = 60;
+	lim.sleep = 60;
+	lim.num_eat = -1;
 	if (argc < 5 || argc > 6)
 	{
 		printf("Invalid number of arguments\n");
