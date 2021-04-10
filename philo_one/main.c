@@ -15,43 +15,75 @@ void	waid(useconds_t time)
 	}
 }*/
 
-void	*work(void *data)
+long	get_time(struct timeval p_time)
+{
+	struct timeval	time;
+
+	gettimeofday(&time, NULL);
+	return (((time.tv_sec * 1000 + time.tv_usec / 1000) - (p_time.tv_sec * 1000 + p_time.tv_usec / 1000)));
+}
+
+void	*life(void *data)
 {
 	t_philo	*philo;
 
 	philo = (t_philo *)data;
-	pthread_mutex_lock(philo->mutex);
-	printf("Hello, im philo №%d\n", philo->number);
-	pthread_mutex_unlock(philo->mutex);
+	pthread_mutex_lock(philo->out);
+	printf("%ld Hello, im philo №%d\n", get_time(philo->hungry), philo->number + 1);
+	usleep(1000 * 1000);
+	pthread_mutex_unlock(philo->out);
 	return (NULL);
 }
+/*
+void	*death_catch(void *data)
+{
+//	t_philo	*philo;
 
-void	start_party(t_all *all)
+//	philo = (t_philo *)data;
+//	printf("number = %d\n", philo->number);
+	sleep(20);
+//	printf("Hello, im wizard\n");
+	return(NULL);
+	}*/
+
+int	start_party(t_all *all)
 {
 	int	i;
 	
 	i = 0;
+//	gettimeofday(&all->start, NULL);
 	while (i < all->lim->philo)
 	{
 		if (i % 2 == 0)
 		{
+//			all->philo_ptr[i].hungry = all->start;
+			gettimeofday(&all->philo_ptr[i].hungry, NULL);
 			pthread_create(&all->philo_ptr[i].ptr, NULL, life,
 				(void *)&all->philo_ptr[i]);
-			i++;
 		}
+		i++;
 	}
 	i = 0;
+//	usleep(100);
 	while (i < all->lim->philo)
 	{
 		if (i % 2 != 0)
 		{
+//			all->philo_ptr[i].hungry = all->start;
+			gettimeofday(&all->philo_ptr[i].hungry, NULL);
 			pthread_create(&all->philo_ptr[i].ptr, NULL, life,
 				(void *)&all->philo_ptr[i]);
-			i++;
 		}
+		i++;
 	}
-	pthread_create(&all->wizard, NULL, death_catch,(void *)&all->philo_ptr[i]);
-	pthread_join(all->wizard, NULL);
+//	pthread_create(&all->wizard, NULL, death_catch,(void *)&all->philo_ptr[i]);
+	i = 0;
+	while (i < all->lim->philo)
+	{
+		pthread_join(all->philo_ptr[i].ptr, NULL);
+		i++;
+	}
+//	pthread_join(all->wizard, NULL);
 	return (0);
 }
 
@@ -61,12 +93,14 @@ int		init(t_all *all)
 	
 	i = 0;
 	all->philo_ptr = malloc(all->lim->philo * sizeof(t_philo));
+	pthread_mutex_init(&all->out, NULL);
 	while (i < all->lim->philo)
 	{
 		all->philo_ptr[i].number = i;
-		all->philo_ptr[i].input = &all->input;
+		all->philo_ptr[i].out = &all->out;
 		i++;
 	}
+	return(0);
 }
 /*
 void	create_phylo(t_all *all)
@@ -78,8 +112,8 @@ void	create_phylo(t_all *all)
 	while (i < all->lim->philo)
 	{
 		all->philo_ptr[i].number = i;
-		all->philo_ptr[i].mutex = &all->mutex;
-
+//		all->philo_ptr[i].mutex = &all->mutex;
+		i++;
 	}
 }*/
 
@@ -149,9 +183,8 @@ int	main(int argc, char **argv)
 	}
 	if(check_argv(argv, &all) != 0)
 		return(1);
-	init(all);
-	gettimeofday(&all.start, NULL);
-
-	(end.tv_sec * 1000 + end.tv_usec / 1000) - (start.tv_sec * 1000 + start.tv_usec / 1000)); */
+	init(&all);
+	start_party(&all);
+//	(end.tv_sec * 1000 + end.tv_usec / 1000) - (start.tv_sec * 1000 + start.tv_usec / 1000)); */
 	return(0);
 }
