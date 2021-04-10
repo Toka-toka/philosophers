@@ -19,6 +19,8 @@ typedef struct	s_philo
 	int             number;
 	pthread_t		ptr; 
 	pthread_mutex_t	*input;
+	pthread_mutex_t	*left;
+	pthread_mutex_t	*right;
 	t_lim			*lim;
 	struct timeval	hungry;
 	pthread_mutex_t	*out;
@@ -41,6 +43,7 @@ typedef struct	s_all
 	t_philo			*philo_ptr;
 	pthread_t		wizard;
     pthread_mutex_t	out;
+	pthread_mutex_t *fork;
 	t_lim			*lim;
 /*	pthread_t		checker;
 	pthread_mutex_t	display; */
