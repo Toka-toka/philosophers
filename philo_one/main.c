@@ -13,20 +13,24 @@ int		init(t_all *all)
 	int	i;
 	
 	i = 0;
-	all->philo_ptr = malloc(all->lim->philo * sizeof(t_philo));
+	all->philo = malloc(all->lim->philo * sizeof(t_philo));
 	all->fork = malloc(all->lim->philo * sizeof(pthread_mutex_t));
 	pthread_mutex_init(&all->out, NULL);
 	while (i < all->lim->philo)
 	{
 		pthread_mutex_init(&all->fork[i], NULL);
-		all->philo_ptr[i].number = i;
-		all->philo_ptr[i].out = &all->out;
-		all->philo_ptr[i].left = &all->fork[i];
+		all->philo[i].lim = all->lim;
+		all->philo[i].out = &all->out;
+		all->philo[i].index = i;
+		all->philo[i].out = &all->out;
+		all->philo[i].stop = 0;
+		all->philo[i].left = &all->fork[i];
+		all->philo[i].eat = all->lim->num_eat;
 		if (i != 0)
-			all->philo_ptr[i].right = &all->fork[i - 1];
+			all->philo[i].right = &all->fork[i - 1];
 		i++;
 	}
-	all->philo_ptr[0].right = &all->fork[i - 1];
+	all->philo[0].right = &all->fork[i - 1];
 	return(0);
 }
 
@@ -82,13 +86,13 @@ int	main(int argc, char **argv)
 {
 	t_all	all;
 	t_lim	lim;
-
+	
 	all.lim = &lim;
-	lim.philo = 2;
-	lim.die = 60;
-	lim.eat = 60;
-	lim.sleep = 60;
-	lim.num_eat = -1;
+	all.lim->philo = 2;
+	all.lim->die = 60;
+	all.lim->eat = 60;
+	all.lim->sleep = 60;
+	all.lim->num_eat = -1;
 	if (argc < 5 || argc > 6)
 	{
 		printf("Invalid number of arguments\n");

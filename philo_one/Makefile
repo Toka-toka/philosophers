@@ -4,7 +4,9 @@ SRC = *.c
 
 OBJ = $(SRC:.c=.o)
 
-FLAGS = -Wall -Wextra -Werror -pthread -Os
+FLAGS = -pthread -Os
+
+#-Wall -Wextra -Werror 
 
 all: $(NAME)
 
