@@ -8,75 +8,6 @@ long	get_time(struct timeval p_time)
 	return (((time.tv_sec * 1000 + time.tv_usec / 1000) - (p_time.tv_sec * 1000 + p_time.tv_usec / 1000)));
 }
 
-void	*life(void *data)
-{
-	t_philo	*philo;
-
-	philo = (t_philo *)data;
-	if (philo->out)
-	{
-		pthread_mutex_lock(philo->out);
-		printf("%10.ld Hello, im philo №%d\n", get_time(philo->hungry), philo->number + 1);
-		usleep(60 * 1000);
-		pthread_mutex_unlock(philo->out);
-	}
-	return (NULL);
-}
-
-void	*death_catch(void *data)
-{
-	t_philo	*philo;
-
-	philo = (t_philo *)data;
-	printf("number = %d\n", philo->number);
-	usleep(200);
-//	printf("Hello, im wizard\n");
-//	pthread_mutex_destroy(philo->out);
-	return(NULL);
-}
-
-int	start_party(t_all *all)
-{
-	int	i;
-	
-	i = 0;
-//	gettimeofday(&all->start, NULL);
-	while (i < all->lim->philo)
-	{
-		if (i % 2 == 0)
-		{
-//			all->philo_ptr[i].hungry = all->start;
-			gettimeofday(&all->philo_ptr[i].hungry, NULL);
-			pthread_create(&all->philo_ptr[i].ptr, NULL, life,
-				(void *)&all->philo_ptr[i]);
-		}
-		i++;
-	}
-	i = 0;
-	usleep(60);
-	while (i < all->lim->philo)
-	{
-		if (i % 2 != 0)
-		{
-//			all->philo_ptr[i].hungry = all->start;
-			gettimeofday(&all->philo_ptr[i].hungry, NULL);
-			pthread_create(&all->philo_ptr[i].ptr, NULL, life,
-				(void *)&all->philo_ptr[i]);
-		}
-		i++;
-	}
-	pthread_create(&all->wizard, NULL, death_catch,(void *)&all);
-	pthread_join(all->wizard, NULL);
-	i = 0;
-	while (i < all->lim->philo)
-	{
-		pthread_join(all->philo_ptr[i].ptr, NULL);
-		i++;
-	}
-	free(all->philo_ptr);
-	return (0);
-}
-
 int		init(t_all *all)
 {
 	int	i;
@@ -87,28 +18,17 @@ int		init(t_all *all)
 	pthread_mutex_init(&all->out, NULL);
 	while (i < all->lim->philo)
 	{
+		pthread_mutex_init(&all->fork[i], NULL);
 		all->philo_ptr[i].number = i;
 		all->philo_ptr[i].out = &all->out;
 		all->philo_ptr[i].left = &all->fork[i];
-		all->philo_ptr[i].right = &all->fork[i];
+		if (i != 0)
+			all->philo_ptr[i].right = &all->fork[i - 1];
 		i++;
 	}
+	all->philo_ptr[0].right = &all->fork[i - 1];
 	return(0);
 }
-/*
-void	create_phylo(t_all *all)
-{
-	int	i;
-
-	i = 0;
-	all->philo_ptr = malloc(all->lim->philo * sizeof(t_philo));
-	while (i < all->lim->philo)
-	{
-		all->philo_ptr[i].number = i;
-//		all->philo_ptr[i].mutex = &all->mutex;
-		i++;
-	}
-}*/
 
 int	pars_argv(int i, int value, t_all *all)
 {
