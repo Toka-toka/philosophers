@@ -12,10 +12,15 @@ int	block_print(t_philo *philo, char *str, char *color)
 		pthread_mutex_unlock(philo->right);
 		return (1);
 	}
-	if (philo->lim->die == 0)
+	if (str[0] == 'd' || str[0] == 'p')
 		end = 1;
-	printf("%10.1ld %3.3d %s%s%s\n",
-		get_time(philo->lim->start), philo->index + 1, color, str, NRM);
+	if (philo->eat == -1 || str[3] != 'e')
+		printf("%10.1ld %3.3d %s%s%s\n",
+			get_time(philo->lim->start), philo->index + 1, color, str, NRM);
+	else
+		printf("%10.1ld %3.3d %s%s (%d)%s\n",
+			get_time(philo->lim->start), philo->index + 1, color,
+			str, philo->lim->num_eat - philo->eat + 1, NRM);
 	pthread_mutex_unlock(philo->out);
 	return (0);
 }
@@ -43,7 +48,7 @@ void	*life(void *data)
 	philo = (t_philo *)data;
 	if (philo->index % 2 != 0)
 		usleep(philo->lim->eat * 0.9 * 1000);
-	while (philo->eat != 0)
+	while (1)
 	{
 		forks_move(philo, 0);
 		gettimeofday(&philo->hungry, NULL);
@@ -65,29 +70,29 @@ void	*life(void *data)
 int	death_catch(t_all *all)
 {
 	int		i;
-	int		max_i;
+	int		max_eat;
 
 	i = 0;
 	while (i < all->lim->philo)
 	{
-		max_i = -1;
+		if (max_eat != -1)
+			max_eat = 0;
 		if (get_time(all->philo[i].hungry) > all->lim->die)
 		{
-			all->lim->die = 0;
 			block_print(&all->philo[i], "died", RED);
 			return (0);
 		}
-		if (max_i < all->philo[i].eat)
-			max_i = all->philo[i].eat;
+		if (max_eat < all->philo[i].eat)
+			max_eat = all->philo[i].eat;
 		i++;
 	}
-	usleep(100);
-	if (max_i == 0)
+	if (max_eat == 0)
 	{
-		all->lim->die = 0;
-		block_print(&all->philo[i - 1], "over on me", BLU);
+		usleep(100);
+		block_print(&all->philo[all->lim->philo - 1], "philos are full", BLU);
 		return (0);
 	}
+	usleep(100);
 	return (1);
 }
 
