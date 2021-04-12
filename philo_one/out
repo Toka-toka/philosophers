@@ -1,0 +1,4951 @@
+         0 001 [0mhas taken a left fork[0m
+         0 001 [0mhas taken a right fork[0m
+         0 001 [32mis eating[0m
+         0 003 [0mhas taken a left fork[0m
+         0 003 [0mhas taken a right fork[0m
+         0 003 [32mis eating[0m
+         0 005 [0mhas taken a left fork[0m
+         0 005 [0mhas taken a right fork[0m
+         0 005 [32mis eating[0m
+         0 007 [0mhas taken a left fork[0m
+         0 007 [0mhas taken a right fork[0m
+         0 007 [32mis eating[0m
+         0 009 [0mhas taken a left fork[0m
+         0 009 [0mhas taken a right fork[0m
+         0 009 [32mis eating[0m
+         0 011 [0mhas taken a left fork[0m
+         0 011 [0mhas taken a right fork[0m
+         0 011 [32mis eating[0m
+         0 013 [0mhas taken a left fork[0m
+         0 013 [0mhas taken a right fork[0m
+         0 013 [32mis eating[0m
+         0 015 [0mhas taken a left fork[0m
+         0 015 [0mhas taken a right fork[0m
+         0 015 [32mis eating[0m
+         1 017 [0mhas taken a left fork[0m
+         1 017 [0mhas taken a right fork[0m
+         1 017 [32mis eating[0m
+         1 021 [0mhas taken a left fork[0m
+         1 021 [0mhas taken a right fork[0m
+         1 021 [32mis eating[0m
+         1 019 [0mhas taken a left fork[0m
+         1 019 [0mhas taken a right fork[0m
+         1 019 [32mis eating[0m
+         1 025 [0mhas taken a left fork[0m
+         1 023 [0mhas taken a left fork[0m
+         1 023 [0mhas taken a right fork[0m
+         1 023 [32mis eating[0m
+         1 025 [0mhas taken a right fork[0m
+         1 025 [32mis eating[0m
+         1 027 [0mhas taken a left fork[0m
+         1 027 [0mhas taken a right fork[0m
+         1 027 [32mis eating[0m
+         1 029 [0mhas taken a left fork[0m
+         1 029 [0mhas taken a right fork[0m
+         1 029 [32mis eating[0m
+         1 031 [0mhas taken a left fork[0m
+         1 031 [0mhas taken a right fork[0m
+         1 031 [32mis eating[0m
+         1 033 [0mhas taken a left fork[0m
+         1 033 [0mhas taken a right fork[0m
+         1 033 [32mis eating[0m
+         1 037 [0mhas taken a left fork[0m
+         1 037 [0mhas taken a right fork[0m
+         1 037 [32mis eating[0m
+         1 041 [0mhas taken a left fork[0m
+         1 039 [0mhas taken a left fork[0m
+         1 035 [0mhas taken a left fork[0m
+         1 035 [0mhas taken a right fork[0m
+         1 035 [32mis eating[0m
+         1 039 [0mhas taken a right fork[0m
+         1 039 [32mis eating[0m
+         1 043 [0mhas taken a left fork[0m
+         1 043 [0mhas taken a right fork[0m
+         1 043 [32mis eating[0m
+         1 041 [0mhas taken a right fork[0m
+         1 041 [32mis eating[0m
+         1 045 [0mhas taken a left fork[0m
+         1 045 [0mhas taken a right fork[0m
+         1 045 [32mis eating[0m
+         1 047 [0mhas taken a left fork[0m
+         1 047 [0mhas taken a right fork[0m
+         1 047 [32mis eating[0m
+         1 049 [0mhas taken a left fork[0m
+         1 049 [0mhas taken a right fork[0m
+         1 049 [32mis eating[0m
+         2 051 [0mhas taken a left fork[0m
+         2 051 [0mhas taken a right fork[0m
+         2 051 [32mis eating[0m
+         2 053 [0mhas taken a left fork[0m
+         2 053 [0mhas taken a right fork[0m
+         2 053 [32mis eating[0m
+         2 055 [0mhas taken a left fork[0m
+         2 055 [0mhas taken a right fork[0m
+         2 055 [32mis eating[0m
+         2 057 [0mhas taken a left fork[0m
+         2 057 [0mhas taken a right fork[0m
+         2 057 [32mis eating[0m
+         2 059 [0mhas taken a left fork[0m
+         2 059 [0mhas taken a right fork[0m
+         2 059 [32mis eating[0m
+         2 061 [0mhas taken a left fork[0m
+         2 061 [0mhas taken a right fork[0m
+         2 061 [32mis eating[0m
+         2 063 [0mhas taken a left fork[0m
+         2 063 [0mhas taken a right fork[0m
+         2 063 [32mis eating[0m
+         2 065 [0mhas taken a left fork[0m
+         2 065 [0mhas taken a right fork[0m
+         2 065 [32mis eating[0m
+         2 067 [0mhas taken a left fork[0m
+         2 067 [0mhas taken a right fork[0m
+         2 067 [32mis eating[0m
+         2 069 [0mhas taken a left fork[0m
+         2 069 [0mhas taken a right fork[0m
+         2 069 [32mis eating[0m
+         2 071 [0mhas taken a left fork[0m
+         2 071 [0mhas taken a right fork[0m
+         2 071 [32mis eating[0m
+         2 073 [0mhas taken a left fork[0m
+         2 073 [0mhas taken a right fork[0m
+         2 073 [32mis eating[0m
+         2 075 [0mhas taken a left fork[0m
+         2 075 [0mhas taken a right fork[0m
+         2 075 [32mis eating[0m
+         2 077 [0mhas taken a left fork[0m
+         2 077 [0mhas taken a right fork[0m
+         2 077 [32mis eating[0m
+         3 079 [0mhas taken a left fork[0m
+         3 079 [0mhas taken a right fork[0m
+         3 079 [32mis eating[0m
+         3 081 [0mhas taken a left fork[0m
+         3 081 [0mhas taken a right fork[0m
+         3 081 [32mis eating[0m
+         3 083 [0mhas taken a left fork[0m
+         3 083 [0mhas taken a right fork[0m
+         3 083 [32mis eating[0m
+         3 085 [0mhas taken a left fork[0m
+         3 085 [0mhas taken a right fork[0m
+         3 085 [32mis eating[0m
+         3 087 [0mhas taken a left fork[0m
+         3 087 [0mhas taken a right fork[0m
+         3 087 [32mis eating[0m
+         3 089 [0mhas taken a left fork[0m
+         3 089 [0mhas taken a right fork[0m
+         3 089 [32mis eating[0m
+         3 099 [0mhas taken a left fork[0m
+         3 099 [0mhas taken a right fork[0m
+         3 099 [32mis eating[0m
+         3 097 [0mhas taken a left fork[0m
+         3 097 [0mhas taken a right fork[0m
+         3 097 [32mis eating[0m
+         3 095 [0mhas taken a left fork[0m
+         3 095 [0mhas taken a right fork[0m
+         3 095 [32mis eating[0m
+         3 091 [0mhas taken a left fork[0m
+         3 091 [0mhas taken a right fork[0m
+         3 091 [32mis eating[0m
+         3 093 [0mhas taken a left fork[0m
+         3 093 [0mhas taken a right fork[0m
+         3 093 [32mis eating[0m
+       200 001 [0mis sleeping[0m
+       200 005 [0mis sleeping[0m
+       200 004 [0mhas taken a left fork[0m
+       200 004 [0mhas taken a right fork[0m
+       200 004 [32mis eating[0m
+       200 003 [0mis sleeping[0m
+       200 007 [0mis sleeping[0m
+       200 002 [0mhas taken a left fork[0m
+       200 002 [0mhas taken a right fork[0m
+       200 002 [32mis eating[0m
+       200 006 [0mhas taken a left fork[0m
+       200 006 [0mhas taken a right fork[0m
+       200 006 [32mis eating[0m
+       200 100 [0mhas taken a left fork[0m
+       200 009 [0mis sleeping[0m
+       200 011 [0mis sleeping[0m
+       200 010 [0mhas taken a left fork[0m
+       200 010 [0mhas taken a right fork[0m
+       200 010 [32mis eating[0m
+       200 008 [0mhas taken a left fork[0m
+       200 008 [0mhas taken a right fork[0m
+       200 008 [32mis eating[0m
+       200 013 [0mis sleeping[0m
+       200 012 [0mhas taken a left fork[0m
+       200 012 [0mhas taken a right fork[0m
+       200 012 [32mis eating[0m
+       200 015 [0mis sleeping[0m
+       200 014 [0mhas taken a left fork[0m
+       200 014 [0mhas taken a right fork[0m
+       200 014 [32mis eating[0m
+       201 017 [0mis sleeping[0m
+       201 016 [0mhas taken a left fork[0m
+       201 016 [0mhas taken a right fork[0m
+       201 016 [32mis eating[0m
+       201 021 [0mis sleeping[0m
+       201 020 [0mhas taken a left fork[0m
+       201 019 [0mis sleeping[0m
+       201 020 [0mhas taken a right fork[0m
+       201 020 [32mis eating[0m
+       201 027 [0mis sleeping[0m
+       201 023 [0mis sleeping[0m
+       201 026 [0mhas taken a left fork[0m
+       201 022 [0mhas taken a left fork[0m
+       201 022 [0mhas taken a right fork[0m
+       201 022 [32mis eating[0m
+       201 025 [0mis sleeping[0m
+       201 026 [0mhas taken a right fork[0m
+       201 026 [32mis eating[0m
+       201 024 [0mhas taken a left fork[0m
+       201 024 [0mhas taken a right fork[0m
+       201 024 [32mis eating[0m
+       201 018 [0mhas taken a left fork[0m
+       201 018 [0mhas taken a right fork[0m
+       201 018 [32mis eating[0m
+       201 029 [0mis sleeping[0m
+       201 028 [0mhas taken a left fork[0m
+       201 028 [0mhas taken a right fork[0m
+       201 028 [32mis eating[0m
+       201 031 [0mis sleeping[0m
+       201 030 [0mhas taken a left fork[0m
+       201 030 [0mhas taken a right fork[0m
+       201 030 [32mis eating[0m
+       201 033 [0mis sleeping[0m
+       201 032 [0mhas taken a left fork[0m
+       201 032 [0mhas taken a right fork[0m
+       201 032 [32mis eating[0m
+       201 037 [0mis sleeping[0m
+       201 036 [0mhas taken a left fork[0m
+       201 035 [0mis sleeping[0m
+       201 034 [0mhas taken a left fork[0m
+       201 036 [0mhas taken a right fork[0m
+       201 036 [32mis eating[0m
+       201 034 [0mhas taken a right fork[0m
+       201 042 [0mhas taken a left fork[0m
+       201 034 [32mis eating[0m
+       201 043 [0mis sleeping[0m
+       201 039 [0mis sleeping[0m
+       201 038 [0mhas taken a left fork[0m
+       201 038 [0mhas taken a right fork[0m
+       201 038 [32mis eating[0m
+       201 045 [0mis sleeping[0m
+       201 042 [0mhas taken a right fork[0m
+       201 044 [0mhas taken a left fork[0m
+       201 044 [0mhas taken a right fork[0m
+       201 044 [32mis eating[0m
+       201 042 [32mis eating[0m
+       201 040 [0mhas taken a left fork[0m
+       201 040 [0mhas taken a right fork[0m
+       201 040 [32mis eating[0m
+       201 041 [0mis sleeping[0m
+       201 047 [0mis sleeping[0m
+       201 046 [0mhas taken a left fork[0m
+       201 046 [0mhas taken a right fork[0m
+       201 046 [32mis eating[0m
+       202 049 [0mis sleeping[0m
+       202 048 [0mhas taken a left fork[0m
+       202 048 [0mhas taken a right fork[0m
+       202 048 [32mis eating[0m
+       202 051 [0mis sleeping[0m
+       202 053 [0mis sleeping[0m
+       202 050 [0mhas taken a left fork[0m
+       202 050 [0mhas taken a right fork[0m
+       202 050 [32mis eating[0m
+       202 052 [0mhas taken a left fork[0m
+       202 052 [0mhas taken a right fork[0m
+       202 052 [32mis eating[0m
+       202 055 [0mis sleeping[0m
+       202 054 [0mhas taken a left fork[0m
+       202 054 [0mhas taken a right fork[0m
+       202 054 [32mis eating[0m
+       202 057 [0mis sleeping[0m
+       202 056 [0mhas taken a left fork[0m
+       202 056 [0mhas taken a right fork[0m
+       202 056 [32mis eating[0m
+       202 059 [0mis sleeping[0m
+       202 058 [0mhas taken a left fork[0m
+       202 058 [0mhas taken a right fork[0m
+       202 058 [32mis eating[0m
+       202 061 [0mis sleeping[0m
+       202 060 [0mhas taken a left fork[0m
+       202 060 [0mhas taken a right fork[0m
+       202 060 [32mis eating[0m
+       202 063 [0mis sleeping[0m
+       202 062 [0mhas taken a left fork[0m
+       202 062 [0mhas taken a right fork[0m
+       202 062 [32mis eating[0m
+       202 067 [0mis sleeping[0m
+       202 065 [0mis sleeping[0m
+       202 064 [0mhas taken a left fork[0m
+       202 064 [0mhas taken a right fork[0m
+       202 064 [32mis eating[0m
+       202 066 [0mhas taken a left fork[0m
+       202 066 [0mhas taken a right fork[0m
+       202 066 [32mis eating[0m
+       202 069 [0mis sleeping[0m
+       202 068 [0mhas taken a left fork[0m
+       202 068 [0mhas taken a right fork[0m
+       202 068 [32mis eating[0m
+       202 071 [0mis sleeping[0m
+       202 070 [0mhas taken a left fork[0m
+       202 070 [0mhas taken a right fork[0m
+       202 070 [32mis eating[0m
+       202 073 [0mis sleeping[0m
+       202 072 [0mhas taken a left fork[0m
+       202 072 [0mhas taken a right fork[0m
+       202 072 [32mis eating[0m
+       202 075 [0mis sleeping[0m
+       202 074 [0mhas taken a left fork[0m
+       202 074 [0mhas taken a right fork[0m
+       202 074 [32mis eating[0m
+       203 079 [0mis sleeping[0m
+       203 077 [0mis sleeping[0m
+       203 078 [0mhas taken a left fork[0m
+       203 078 [0mhas taken a right fork[0m
+       203 078 [32mis eating[0m
+       203 076 [0mhas taken a left fork[0m
+       203 076 [0mhas taken a right fork[0m
+       203 076 [32mis eating[0m
+       203 081 [0mis sleeping[0m
+       203 080 [0mhas taken a left fork[0m
+       203 080 [0mhas taken a right fork[0m
+       203 080 [32mis eating[0m
+       203 083 [0mis sleeping[0m
+       203 082 [0mhas taken a left fork[0m
+       203 082 [0mhas taken a right fork[0m
+       203 082 [32mis eating[0m
+       203 085 [0mis sleeping[0m
+       203 084 [0mhas taken a left fork[0m
+       203 084 [0mhas taken a right fork[0m
+       203 084 [32mis eating[0m
+       203 087 [0mis sleeping[0m
+       203 086 [0mhas taken a left fork[0m
+       203 086 [0mhas taken a right fork[0m
+       203 086 [32mis eating[0m
+       203 089 [0mis sleeping[0m
+       203 088 [0mhas taken a left fork[0m
+       203 088 [0mhas taken a right fork[0m
+       203 088 [32mis eating[0m
+       203 095 [0mis sleeping[0m
+       203 099 [0mis sleeping[0m
+       203 094 [0mhas taken a left fork[0m
+       203 098 [0mhas taken a left fork[0m
+       203 100 [0mhas taken a right fork[0m
+       203 096 [0mhas taken a left fork[0m
+       203 098 [0mhas taken a right fork[0m
+       203 098 [32mis eating[0m
+       203 097 [0mis sleeping[0m
+       203 100 [32mis eating[0m
+       203 096 [0mhas taken a right fork[0m
+       203 096 [32mis eating[0m
+       203 091 [0mis sleeping[0m
+       203 090 [0mhas taken a left fork[0m
+       203 090 [0mhas taken a right fork[0m
+       203 090 [32mis eating[0m
+       204 094 [0mhas taken a right fork[0m
+       204 092 [0mhas taken a left fork[0m
+       204 094 [32mis eating[0m
+       204 093 [0mis sleeping[0m
+       204 092 [0mhas taken a right fork[0m
+       204 092 [32mis eating[0m
+       400 005 [33mis thinking[0m
+       400 001 [33mis thinking[0m
+       400 010 [0mis sleeping[0m
+       400 011 [33mis thinking[0m
+       400 007 [33mis thinking[0m
+       400 002 [0mis sleeping[0m
+       400 007 [0mhas taken a left fork[0m
+       400 003 [33mis thinking[0m
+       400 003 [0mhas taken a left fork[0m
+       400 003 [0mhas taken a right fork[0m
+       400 003 [32mis eating[0m
+       400 004 [0mis sleeping[0m
+       400 005 [0mhas taken a left fork[0m
+       400 005 [0mhas taken a right fork[0m
+       400 005 [32mis eating[0m
+       400 001 [0mhas taken a left fork[0m
+       400 008 [0mis sleeping[0m
+       400 007 [0mhas taken a right fork[0m
+       400 007 [32mis eating[0m
+       400 009 [33mis thinking[0m
+       400 009 [0mhas taken a left fork[0m
+       400 009 [0mhas taken a right fork[0m
+       400 009 [32mis eating[0m
+       400 006 [0mis sleeping[0m
+       400 013 [33mis thinking[0m
+       400 012 [0mis sleeping[0m
+       400 011 [0mhas taken a left fork[0m
+       400 011 [0mhas taken a right fork[0m
+       400 011 [32mis eating[0m
+       401 015 [33mis thinking[0m
+       401 014 [0mis sleeping[0m
+       401 013 [0mhas taken a left fork[0m
+       401 013 [0mhas taken a right fork[0m
+       401 013 [32mis eating[0m
+       401 017 [33mis thinking[0m
+       401 016 [0mis sleeping[0m
+       401 015 [0mhas taken a left fork[0m
+       401 015 [0mhas taken a right fork[0m
+       401 021 [33mis thinking[0m
+       401 015 [32mis eating[0m
+       401 019 [33mis thinking[0m
+       401 025 [33mis thinking[0m
+       401 022 [0mis sleeping[0m
+       401 019 [0mhas taken a left fork[0m
+       401 020 [0mis sleeping[0m
+       401 021 [0mhas taken a left fork[0m
+       401 021 [0mhas taken a right fork[0m
+       401 021 [32mis eating[0m
+       401 027 [33mis thinking[0m
+       401 023 [33mis thinking[0m
+       401 026 [0mis sleeping[0m
+       401 025 [0mhas taken a left fork[0m
+       401 024 [0mis sleeping[0m
+       401 023 [0mhas taken a left fork[0m
+       401 023 [0mhas taken a right fork[0m
+       401 023 [32mis eating[0m
+       401 019 [0mhas taken a right fork[0m
+       401 019 [32mis eating[0m
+       401 018 [0mis sleeping[0m
+       401 025 [0mhas taken a right fork[0m
+       401 025 [32mis eating[0m
+       401 017 [0mhas taken a left fork[0m
+       401 017 [0mhas taken a right fork[0m
+       401 017 [32mis eating[0m
+       401 029 [33mis thinking[0m
+       401 031 [33mis thinking[0m
+       401 029 [0mhas taken a left fork[0m
+       401 027 [0mhas taken a left fork[0m
+       401 027 [0mhas taken a right fork[0m
+       401 027 [32mis eating[0m
+       401 030 [0mis sleeping[0m
+       401 028 [0mis sleeping[0m
+       401 029 [0mhas taken a right fork[0m
+       401 029 [32mis eating[0m
+       401 033 [33mis thinking[0m
+       401 032 [0mis sleeping[0m
+       401 031 [0mhas taken a left fork[0m
+       401 031 [0mhas taken a right fork[0m
+       401 031 [32mis eating[0m
+       401 037 [33mis thinking[0m
+       401 035 [33mis thinking[0m
+       401 035 [0mhas taken a left fork[0m
+       401 036 [0mis sleeping[0m
+       401 035 [0mhas taken a right fork[0m
+       401 034 [0mis sleeping[0m
+       401 035 [32mis eating[0m
+       401 038 [0mis sleeping[0m
+       401 039 [33mis thinking[0m
+       401 043 [33mis thinking[0m
+       401 045 [33mis thinking[0m
+       401 033 [0mhas taken a left fork[0m
+       401 033 [0mhas taken a right fork[0m
+       401 033 [32mis eating[0m
+       401 037 [0mhas taken a left fork[0m
+       401 037 [0mhas taken a right fork[0m
+       401 037 [32mis eating[0m
+       401 044 [0mis sleeping[0m
+       401 042 [0mis sleeping[0m
+       401 043 [0mhas taken a left fork[0m
+       401 041 [33mis thinking[0m
+       401 040 [0mis sleeping[0m
+       401 041 [0mhas taken a left fork[0m
+       401 041 [0mhas taken a right fork[0m
+       401 043 [0mhas taken a right fork[0m
+       401 043 [32mis eating[0m
+       401 039 [0mhas taken a left fork[0m
+       401 039 [0mhas taken a right fork[0m
+       401 039 [32mis eating[0m
+       401 041 [32mis eating[0m
+       402 047 [33mis thinking[0m
+       402 049 [33mis thinking[0m
+       402 046 [0mis sleeping[0m
+       402 045 [0mhas taken a left fork[0m
+       402 045 [0mhas taken a right fork[0m
+       402 045 [32mis eating[0m
+       402 048 [0mis sleeping[0m
+       402 047 [0mhas taken a left fork[0m
+       402 047 [0mhas taken a right fork[0m
+       402 047 [32mis eating[0m
+       402 051 [33mis thinking[0m
+       402 054 [0mis sleeping[0m
+       402 053 [33mis thinking[0m
+       402 053 [0mhas taken a left fork[0m
+       402 055 [33mis thinking[0m
+       402 049 [0mhas taken a left fork[0m
+       402 049 [0mhas taken a right fork[0m
+       402 049 [32mis eating[0m
+       402 052 [0mis sleeping[0m
+       402 050 [0mis sleeping[0m
+       402 051 [0mhas taken a left fork[0m
+       402 051 [0mhas taken a right fork[0m
+       402 051 [32mis eating[0m
+       402 053 [0mhas taken a right fork[0m
+       402 053 [32mis eating[0m
+       402 057 [33mis thinking[0m
+       402 056 [0mis sleeping[0m
+       402 055 [0mhas taken a left fork[0m
+       402 055 [0mhas taken a right fork[0m
+       402 055 [32mis eating[0m
+       402 059 [33mis thinking[0m
+       402 058 [0mis sleeping[0m
+       402 057 [0mhas taken a left fork[0m
+       402 057 [0mhas taken a right fork[0m
+       402 057 [32mis eating[0m
+       402 061 [33mis thinking[0m
+       402 060 [0mis sleeping[0m
+       402 059 [0mhas taken a left fork[0m
+       402 059 [0mhas taken a right fork[0m
+       402 059 [32mis eating[0m
+       402 063 [33mis thinking[0m
+       402 062 [0mis sleeping[0m
+       402 061 [0mhas taken a left fork[0m
+       402 061 [0mhas taken a right fork[0m
+       402 061 [32mis eating[0m
+       402 065 [33mis thinking[0m
+       402 067 [33mis thinking[0m
+       402 064 [0mis sleeping[0m
+       402 066 [0mis sleeping[0m
+       402 065 [0mhas taken a left fork[0m
+       402 065 [0mhas taken a right fork[0m
+       402 065 [32mis eating[0m
+       402 063 [0mhas taken a left fork[0m
+       402 063 [0mhas taken a right fork[0m
+       402 063 [32mis eating[0m
+       402 069 [33mis thinking[0m
+       402 068 [0mis sleeping[0m
+       402 067 [0mhas taken a left fork[0m
+       402 067 [0mhas taken a right fork[0m
+       402 067 [32mis eating[0m
+       402 071 [33mis thinking[0m
+       402 070 [0mis sleeping[0m
+       402 069 [0mhas taken a left fork[0m
+       402 069 [0mhas taken a right fork[0m
+       402 069 [32mis eating[0m
+       402 073 [33mis thinking[0m
+       402 072 [0mis sleeping[0m
+       402 071 [0mhas taken a left fork[0m
+       402 071 [0mhas taken a right fork[0m
+       402 071 [32mis eating[0m
+       402 075 [33mis thinking[0m
+       402 074 [0mis sleeping[0m
+       402 073 [0mhas taken a left fork[0m
+       402 073 [0mhas taken a right fork[0m
+       402 073 [32mis eating[0m
+       403 078 [0mis sleeping[0m
+       403 079 [33mis thinking[0m
+       403 077 [33mis thinking[0m
+       403 077 [0mhas taken a left fork[0m
+       403 076 [0mis sleeping[0m
+       403 075 [0mhas taken a left fork[0m
+       403 075 [0mhas taken a right fork[0m
+       403 075 [32mis eating[0m
+       403 077 [0mhas taken a right fork[0m
+       403 077 [32mis eating[0m
+       403 081 [33mis thinking[0m
+       403 080 [0mis sleeping[0m
+       403 079 [0mhas taken a left fork[0m
+       403 079 [0mhas taken a right fork[0m
+       403 079 [32mis eating[0m
+       403 083 [33mis thinking[0m
+       403 082 [0mis sleeping[0m
+       403 083 [0mhas taken a left fork[0m
+       403 081 [0mhas taken a left fork[0m
+       403 081 [0mhas taken a right fork[0m
+       403 081 [32mis eating[0m
+       403 083 [0mhas taken a right fork[0m
+       403 083 [32mis eating[0m
+       403 084 [0mis sleeping[0m
+       403 085 [33mis thinking[0m
+       403 087 [33mis thinking[0m
+       403 089 [33mis thinking[0m
+       403 086 [0mis sleeping[0m
+       403 088 [0mis sleeping[0m
+       403 087 [0mhas taken a left fork[0m
+       403 087 [0mhas taken a right fork[0m
+       403 087 [32mis eating[0m
+       403 085 [0mhas taken a left fork[0m
+       403 085 [0mhas taken a right fork[0m
+       403 085 [32mis eating[0m
+       404 099 [33mis thinking[0m
+       404 095 [33mis thinking[0m
+       404 098 [0mis sleeping[0m
+       404 096 [0mis sleeping[0m
+       404 097 [33mis thinking[0m
+       404 097 [0mhas taken a left fork[0m
+       404 091 [33mis thinking[0m
+       404 095 [0mhas taken a left fork[0m
+       404 089 [0mhas taken a left fork[0m
+       404 089 [0mhas taken a right fork[0m
+       404 089 [32mis eating[0m
+       404 100 [0mis sleeping[0m
+       404 090 [0mis sleeping[0m
+       404 001 [0mhas taken a right fork[0m
+       404 001 [32mis eating[0m
+       404 099 [0mhas taken a left fork[0m
+       404 092 [0mis sleeping[0m
+       404 093 [33mis thinking[0m
+       404 093 [0mhas taken a left fork[0m
+       404 094 [0mis sleeping[0m
+       404 093 [0mhas taken a right fork[0m
+       404 099 [0mhas taken a right fork[0m
+       404 099 [32mis eating[0m
+       404 093 [32mis eating[0m
+       404 091 [0mhas taken a left fork[0m
+       404 091 [0mhas taken a right fork[0m
+       404 091 [32mis eating[0m
+       404 095 [0mhas taken a right fork[0m
+       404 095 [32mis eating[0m
+       404 097 [0mhas taken a right fork[0m
+       404 097 [32mis eating[0m
+       600 010 [33mis thinking[0m
+       600 005 [0mis sleeping[0m
+       600 003 [0mis sleeping[0m
+       600 002 [33mis thinking[0m
+       600 002 [0mhas taken a left fork[0m
+       600 004 [33mis thinking[0m
+       600 004 [0mhas taken a left fork[0m
+       600 004 [0mhas taken a right fork[0m
+       600 004 [32mis eating[0m
+       600 009 [0mis sleeping[0m
+       600 008 [33mis thinking[0m
+       600 008 [0mhas taken a left fork[0m
+       601 011 [0mis sleeping[0m
+       601 010 [0mhas taken a left fork[0m
+       601 010 [0mhas taken a right fork[0m
+       601 010 [32mis eating[0m
+       601 013 [0mis sleeping[0m
+       601 012 [33mis thinking[0m
+       601 007 [0mis sleeping[0m
+       601 006 [33mis thinking[0m
+       601 006 [0mhas taken a left fork[0m
+       601 006 [0mhas taken a right fork[0m
+       601 006 [32mis eating[0m
+       601 014 [33mis thinking[0m
+       601 012 [0mhas taken a left fork[0m
+       601 012 [0mhas taken a right fork[0m
+       601 012 [32mis eating[0m
+       601 008 [0mhas taken a right fork[0m
+       601 008 [32mis eating[0m
+       601 016 [33mis thinking[0m
+       601 015 [0mis sleeping[0m
+       601 014 [0mhas taken a left fork[0m
+       601 014 [0mhas taken a right fork[0m
+       601 014 [32mis eating[0m
+       601 022 [33mis thinking[0m
+       601 020 [33mis thinking[0m
+       601 026 [33mis thinking[0m
+       601 020 [0mhas taken a left fork[0m
+       601 021 [0mis sleeping[0m
+       601 024 [33mis thinking[0m
+       601 023 [0mis sleeping[0m
+       601 022 [0mhas taken a left fork[0m
+       601 022 [0mhas taken a right fork[0m
+       601 022 [32mis eating[0m
+       601 017 [0mis sleeping[0m
+       601 016 [0mhas taken a left fork[0m
+       601 016 [0mhas taken a right fork[0m
+       601 016 [32mis eating[0m
+       601 020 [0mhas taken a right fork[0m
+       601 020 [32mis eating[0m
+       601 018 [33mis thinking[0m
+       601 018 [0mhas taken a left fork[0m
+       601 019 [0mis sleeping[0m
+       601 018 [0mhas taken a right fork[0m
+       601 018 [32mis eating[0m
+       601 025 [0mis sleeping[0m
+       601 024 [0mhas taken a left fork[0m
+       601 024 [0mhas taken a right fork[0m
+       601 024 [32mis eating[0m
+       601 027 [0mis sleeping[0m
+       601 026 [0mhas taken a left fork[0m
+       601 026 [0mhas taken a right fork[0m
+       601 026 [32mis eating[0m
+       601 030 [33mis thinking[0m
+       601 028 [33mis thinking[0m
+       601 029 [0mis sleeping[0m
+       601 028 [0mhas taken a left fork[0m
+       601 028 [0mhas taken a right fork[0m
+       601 028 [32mis eating[0m
+       601 032 [33mis thinking[0m
+       601 031 [0mis sleeping[0m
+       601 030 [0mhas taken a left fork[0m
+       601 030 [0mhas taken a right fork[0m
+       601 030 [32mis eating[0m
+       601 036 [33mis thinking[0m
+       601 038 [33mis thinking[0m
+       601 034 [33mis thinking[0m
+       601 035 [0mis sleeping[0m
+       601 033 [0mis sleeping[0m
+       601 042 [33mis thinking[0m
+       601 034 [0mhas taken a left fork[0m
+       601 037 [0mis sleeping[0m
+       601 036 [0mhas taken a left fork[0m
+       601 036 [0mhas taken a right fork[0m
+       601 036 [32mis eating[0m
+       601 034 [0mhas taken a right fork[0m
+       601 044 [33mis thinking[0m
+       601 034 [32mis eating[0m
+       601 032 [0mhas taken a left fork[0m
+       601 040 [33mis thinking[0m
+       602 032 [0mhas taken a right fork[0m
+       602 032 [32mis eating[0m
+       602 043 [0mis sleeping[0m
+       602 042 [0mhas taken a left fork[0m
+       602 039 [0mis sleeping[0m
+       602 038 [0mhas taken a left fork[0m
+       602 038 [0mhas taken a right fork[0m
+       602 038 [32mis eating[0m
+       602 041 [0mis sleeping[0m
+       602 040 [0mhas taken a left fork[0m
+       602 040 [0mhas taken a right fork[0m
+       602 040 [32mis eating[0m
+       602 042 [0mhas taken a right fork[0m
+       602 042 [32mis eating[0m
+       602 046 [33mis thinking[0m
+       602 045 [0mis sleeping[0m
+       602 044 [0mhas taken a left fork[0m
+       602 044 [0mhas taken a right fork[0m
+       602 044 [32mis eating[0m
+       602 048 [33mis thinking[0m
+       602 047 [0mis sleeping[0m
+       602 046 [0mhas taken a left fork[0m
+       602 046 [0mhas taken a right fork[0m
+       602 046 [32mis eating[0m
+       602 054 [33mis thinking[0m
+       602 052 [33mis thinking[0m
+       602 049 [0mis sleeping[0m
+       602 048 [0mhas taken a left fork[0m
+       602 048 [0mhas taken a right fork[0m
+       602 052 [0mhas taken a left fork[0m
+       602 048 [32mis eating[0m
+       602 050 [33mis thinking[0m
+       602 051 [0mis sleeping[0m
+       602 050 [0mhas taken a left fork[0m
+       602 050 [0mhas taken a right fork[0m
+       602 050 [32mis eating[0m
+       602 056 [33mis thinking[0m
+       602 052 [0mhas taken a right fork[0m
+       602 052 [32mis eating[0m
+       602 053 [0mis sleeping[0m
+       602 055 [0mis sleeping[0m
+       602 054 [0mhas taken a left fork[0m
+       602 054 [0mhas taken a right fork[0m
+       602 054 [32mis eating[0m
+       602 058 [33mis thinking[0m
+       602 057 [0mis sleeping[0m
+       602 056 [0mhas taken a left fork[0m
+       602 056 [0mhas taken a right fork[0m
+       602 056 [32mis eating[0m
+       602 060 [33mis thinking[0m
+       602 059 [0mis sleeping[0m
+       602 058 [0mhas taken a left fork[0m
+       602 058 [0mhas taken a right fork[0m
+       602 058 [32mis eating[0m
+       602 062 [33mis thinking[0m
+       602 061 [0mis sleeping[0m
+       602 060 [0mhas taken a left fork[0m
+       602 060 [0mhas taken a right fork[0m
+       602 060 [32mis eating[0m
+       602 064 [33mis thinking[0m
+       602 063 [0mis sleeping[0m
+       602 062 [0mhas taken a left fork[0m
+       602 062 [0mhas taken a right fork[0m
+       602 062 [32mis eating[0m
+       602 066 [33mis thinking[0m
+       602 065 [0mis sleeping[0m
+       602 064 [0mhas taken a left fork[0m
+       602 064 [0mhas taken a right fork[0m
+       602 064 [32mis eating[0m
+       602 068 [33mis thinking[0m
+       602 067 [0mis sleeping[0m
+       602 066 [0mhas taken a left fork[0m
+       602 066 [0mhas taken a right fork[0m
+       602 066 [32mis eating[0m
+       602 070 [33mis thinking[0m
+       602 069 [0mis sleeping[0m
+       602 068 [0mhas taken a left fork[0m
+       602 068 [0mhas taken a right fork[0m
+       602 068 [32mis eating[0m
+       602 072 [33mis thinking[0m
+       602 071 [0mis sleeping[0m
+       602 070 [0mhas taken a left fork[0m
+       602 070 [0mhas taken a right fork[0m
+       602 070 [32mis eating[0m
+       602 074 [33mis thinking[0m
+       602 073 [0mis sleeping[0m
+       603 072 [0mhas taken a left fork[0m
+       603 072 [0mhas taken a right fork[0m
+       603 072 [32mis eating[0m
+       603 078 [33mis thinking[0m
+       603 076 [33mis thinking[0m
+       603 075 [0mis sleeping[0m
+       603 074 [0mhas taken a left fork[0m
+       603 074 [0mhas taken a right fork[0m
+       603 074 [32mis eating[0m
+       603 077 [0mis sleeping[0m
+       603 076 [0mhas taken a left fork[0m
+       603 076 [0mhas taken a right fork[0m
+       603 076 [32mis eating[0m
+       603 080 [33mis thinking[0m
+       603 079 [0mis sleeping[0m
+       603 078 [0mhas taken a left fork[0m
+       603 078 [0mhas taken a right fork[0m
+       603 078 [32mis eating[0m
+       603 082 [33mis thinking[0m
+       603 081 [0mis sleeping[0m
+       603 080 [0mhas taken a left fork[0m
+       603 080 [0mhas taken a right fork[0m
+       603 080 [32mis eating[0m
+       603 083 [0mis sleeping[0m
+       603 082 [0mhas taken a left fork[0m
+       603 082 [0mhas taken a right fork[0m
+       603 082 [32mis eating[0m
+       603 084 [33mis thinking[0m
+       603 086 [33mis thinking[0m
+       603 088 [33mis thinking[0m
+       603 087 [0mis sleeping[0m
+       603 085 [0mis sleeping[0m
+       603 084 [0mhas taken a left fork[0m
+       603 084 [0mhas taken a right fork[0m
+       603 084 [32mis eating[0m
+       603 086 [0mhas taken a left fork[0m
+       603 086 [0mhas taken a right fork[0m
+       603 086 [32mis eating[0m
+       604 098 [33mis thinking[0m
+       604 096 [33mis thinking[0m
+       604 089 [0mis sleeping[0m
+       604 088 [0mhas taken a left fork[0m
+       604 088 [0mhas taken a right fork[0m
+       604 088 [32mis eating[0m
+       604 092 [33mis thinking[0m
+       604 090 [33mis thinking[0m
+       604 100 [33mis thinking[0m
+       604 094 [33mis thinking[0m
+       604 100 [0mhas taken a left fork[0m
+       604 001 [0mis sleeping[0m
+       604 002 [0mhas taken a right fork[0m
+       604 002 [32mis eating[0m
+       604 099 [0mis sleeping[0m
+       604 093 [0mis sleeping[0m
+       604 098 [0mhas taken a left fork[0m
+       604 100 [0mhas taken a right fork[0m
+       604 100 [32mis eating[0m
+       604 092 [0mhas taken a left fork[0m
+       604 091 [0mis sleeping[0m
+       604 092 [0mhas taken a right fork[0m
+       604 092 [32mis eating[0m
+       604 090 [0mhas taken a left fork[0m
+       604 090 [0mhas taken a right fork[0m
+       604 090 [32mis eating[0m
+       604 095 [0mis sleeping[0m
+       604 094 [0mhas taken a left fork[0m
+       604 094 [0mhas taken a right fork[0m
+       604 094 [32mis eating[0m
+       604 098 [0mhas taken a right fork[0m
+       604 098 [32mis eating[0m
+       604 097 [0mis sleeping[0m
+       604 096 [0mhas taken a left fork[0m
+       604 096 [0mhas taken a right fork[0m
+       604 096 [32mis eating[0m
+       801 005 [33mis thinking[0m
+       801 010 [0mis sleeping[0m
+       801 013 [33mis thinking[0m
+       801 003 [33mis thinking[0m
+       801 011 [33mis thinking[0m
+       801 004 [0mis sleeping[0m
+       801 003 [0mhas taken a left fork[0m
+       801 009 [33mis thinking[0m
+       801 007 [33mis thinking[0m
+       801 006 [0mis sleeping[0m
+       801 009 [0mhas taken a left fork[0m
+       801 012 [0mis sleeping[0m
+       801 011 [0mhas taken a left fork[0m
+       801 005 [0mhas taken a left fork[0m
+       801 011 [0mhas taken a right fork[0m
+       801 011 [32mis eating[0m
+       801 007 [0mhas taken a left fork[0m
+       801 005 [0mhas taken a right fork[0m
+       801 005 [32mis eating[0m
+       801 007 [0mhas taken a right fork[0m
+       801 007 [32mis eating[0m
+       801 009 [0mhas taken a right fork[0m
+       801 009 [32mis eating[0m
+       801 008 [0mis sleeping[0m
+       801 015 [33mis thinking[0m
+       801 014 [0mis sleeping[0m
+       801 013 [0mhas taken a left fork[0m
+       801 013 [0mhas taken a right fork[0m
+       801 013 [32mis eating[0m
+       801 021 [33mis thinking[0m
+       801 023 [33mis thinking[0m
+       801 018 [0mis sleeping[0m
+       801 021 [0mhas taken a left fork[0m
+       801 017 [33mis thinking[0m
+       801 015 [0mhas taken a left fork[0m
+       801 015 [0mhas taken a right fork[0m
+       801 015 [32mis eating[0m
+       801 024 [0mis sleeping[0m
+       801 023 [0mhas taken a left fork[0m
+       801 019 [33mis thinking[0m
+       801 025 [33mis thinking[0m
+       801 023 [0mhas taken a right fork[0m
+       801 023 [32mis eating[0m
+       801 016 [0mis sleeping[0m
+       801 021 [0mhas taken a right fork[0m
+       801 021 [32mis eating[0m
+       801 019 [0mhas taken a left fork[0m
+       801 020 [0mis sleeping[0m
+       801 019 [0mhas taken a right fork[0m
+       801 019 [32mis eating[0m
+       801 017 [0mhas taken a left fork[0m
+       801 017 [0mhas taken a right fork[0m
+       801 017 [32mis eating[0m
+       801 022 [0mis sleeping[0m
+       801 027 [33mis thinking[0m
+       801 029 [33mis thinking[0m
+       801 026 [0mis sleeping[0m
+       801 025 [0mhas taken a left fork[0m
+       801 025 [0mhas taken a right fork[0m
+       801 025 [32mis eating[0m
+       801 028 [0mis sleeping[0m
+       801 027 [0mhas taken a left fork[0m
+       801 027 [0mhas taken a right fork[0m
+       801 027 [32mis eating[0m
+       801 031 [33mis thinking[0m
+       801 030 [0mis sleeping[0m
+       801 029 [0mhas taken a left fork[0m
+       801 029 [0mhas taken a right fork[0m
+       801 029 [32mis eating[0m
+       802 035 [33mis thinking[0m
+       802 037 [33mis thinking[0m
+       802 039 [33mis thinking[0m
+       802 040 [0mis sleeping[0m
+       802 041 [33mis thinking[0m
+       802 041 [0mhas taken a left fork[0m
+       802 041 [0mhas taken a right fork[0m
+       802 036 [0mis sleeping[0m
+       802 032 [0mis sleeping[0m
+       802 042 [0mis sleeping[0m
+       802 039 [0mhas taken a left fork[0m
+       802 039 [0mhas taken a right fork[0m
+       802 039 [32mis eating[0m
+       802 043 [33mis thinking[0m
+       802 031 [0mhas taken a left fork[0m
+       802 031 [0mhas taken a right fork[0m
+       802 031 [32mis eating[0m
+       802 035 [0mhas taken a left fork[0m
+       802 035 [0mhas taken a right fork[0m
+       802 035 [32mis eating[0m
+       802 037 [0mhas taken a left fork[0m
+       802 037 [0mhas taken a right fork[0m
+       802 045 [33mis thinking[0m
+       802 037 [32mis eating[0m
+       802 041 [32mis eating[0m
+       802 038 [0mis sleeping[0m
+       802 044 [0mis sleeping[0m
+       802 043 [0mhas taken a left fork[0m
+       802 043 [0mhas taken a right fork[0m
+       802 033 [33mis thinking[0m
+       802 034 [0mis sleeping[0m
+       802 033 [0mhas taken a left fork[0m
+       802 033 [0mhas taken a right fork[0m
+       802 033 [32mis eating[0m
+       802 043 [32mis eating[0m
+       802 047 [33mis thinking[0m
+       802 046 [0mis sleeping[0m
+       802 045 [0mhas taken a left fork[0m
+       802 045 [0mhas taken a right fork[0m
+       802 045 [32mis eating[0m
+       802 049 [33mis thinking[0m
+       802 051 [33mis thinking[0m
+       802 048 [0mis sleeping[0m
+       802 049 [0mhas taken a left fork[0m
+       802 049 [0mhas taken a right fork[0m
+       802 049 [32mis eating[0m
+       802 050 [0mis sleeping[0m
+       802 053 [33mis thinking[0m
+       802 055 [33mis thinking[0m
+       802 054 [0mis sleeping[0m
+       802 053 [0mhas taken a left fork[0m
+       802 051 [0mhas taken a left fork[0m
+       802 047 [0mhas taken a left fork[0m
+       802 047 [0mhas taken a right fork[0m
+       802 047 [32mis eating[0m
+       802 051 [0mhas taken a right fork[0m
+       802 052 [0mis sleeping[0m
+       802 051 [32mis eating[0m
+       802 053 [0mhas taken a right fork[0m
+       802 053 [32mis eating[0m
+       802 057 [33mis thinking[0m
+       802 056 [0mis sleeping[0m
+       802 055 [0mhas taken a left fork[0m
+       802 055 [0mhas taken a right fork[0m
+       802 055 [32mis eating[0m
+       802 059 [33mis thinking[0m
+       802 057 [0mhas taken a left fork[0m
+       802 057 [0mhas taken a right fork[0m
+       802 057 [32mis eating[0m
+       802 058 [0mis sleeping[0m
+       802 061 [33mis thinking[0m
+       802 060 [0mis sleeping[0m
+       802 059 [0mhas taken a left fork[0m
+       802 059 [0mhas taken a right fork[0m
+       802 059 [32mis eating[0m
+       802 063 [33mis thinking[0m
+       802 062 [0mis sleeping[0m
+       802 061 [0mhas taken a left fork[0m
+       802 061 [0mhas taken a right fork[0m
+       802 061 [32mis eating[0m
+       802 065 [33mis thinking[0m
+       802 064 [0mis sleeping[0m
+       802 063 [0mhas taken a left fork[0m
+       802 063 [0mhas taken a right fork[0m
+       802 063 [32mis eating[0m
+       802 067 [33mis thinking[0m
+       802 066 [0mis sleeping[0m
+       802 065 [0mhas taken a left fork[0m
+       802 065 [0mhas taken a right fork[0m
+       802 065 [32mis eating[0m
+       802 069 [33mis thinking[0m
+       802 068 [0mis sleeping[0m
+       802 067 [0mhas taken a left fork[0m
+       802 067 [0mhas taken a right fork[0m
+       802 067 [32mis eating[0m
+       802 071 [33mis thinking[0m
+       802 070 [0mis sleeping[0m
+       802 069 [0mhas taken a left fork[0m
+       802 069 [0mhas taken a right fork[0m
+       802 069 [32mis eating[0m
+       803 073 [33mis thinking[0m
+       803 072 [0mis sleeping[0m
+       803 071 [0mhas taken a left fork[0m
+       803 071 [0mhas taken a right fork[0m
+       803 071 [32mis eating[0m
+       803 076 [0mis sleeping[0m
+       803 074 [0mis sleeping[0m
+       803 073 [0mhas taken a left fork[0m
+       803 073 [0mhas taken a right fork[0m
+       803 073 [32mis eating[0m
+       803 077 [33mis thinking[0m
+       803 075 [33mis thinking[0m
+       803 075 [0mhas taken a left fork[0m
+       803 075 [0mhas taken a right fork[0m
+       803 075 [32mis eating[0m
+       803 079 [33mis thinking[0m
+       803 078 [0mis sleeping[0m
+       803 077 [0mhas taken a left fork[0m
+       803 077 [0mhas taken a right fork[0m
+       803 077 [32mis eating[0m
+       803 081 [33mis thinking[0m
+       803 080 [0mis sleeping[0m
+       803 079 [0mhas taken a left fork[0m
+       803 082 [0mis sleeping[0m
+       803 079 [0mhas taken a right fork[0m
+       803 081 [0mhas taken a left fork[0m
+       803 081 [0mhas taken a right fork[0m
+       803 081 [32mis eating[0m
+       803 079 [32mis eating[0m
+       803 083 [33mis thinking[0m
+       803 087 [33mis thinking[0m
+       803 085 [33mis thinking[0m
+       803 084 [0mis sleeping[0m
+       803 085 [0mhas taken a left fork[0m
+       803 085 [0mhas taken a right fork[0m
+       803 085 [32mis eating[0m
+       803 086 [0mis sleeping[0m
+       803 083 [0mhas taken a left fork[0m
+       803 083 [0mhas taken a right fork[0m
+       803 083 [32mis eating[0m
+       804 089 [33mis thinking[0m
+       804 002 [0mis sleeping[0m
+       804 003 [0mhas taken a right fork[0m
+       804 003 [32mis eating[0m
+       804 088 [0mis sleeping[0m
+       804 093 [33mis thinking[0m
+       804 001 [33mis thinking[0m
+       804 099 [33mis thinking[0m
+       804 001 [0mhas taken a left fork[0m
+       804 100 [0mis sleeping[0m
+       804 001 [0mhas taken a right fork[0m
+       804 001 [32mis eating[0m
+       804 099 [0mhas taken a left fork[0m
+       804 087 [0mhas taken a left fork[0m
+       804 087 [0mhas taken a right fork[0m
+       804 087 [32mis eating[0m
+       804 091 [33mis thinking[0m
+       804 097 [33mis thinking[0m
+       804 092 [0mis sleeping[0m
+       804 091 [0mhas taken a left fork[0m
+       804 091 [0mhas taken a right fork[0m
+       804 091 [32mis eating[0m
+       804 090 [0mis sleeping[0m
+       804 089 [0mhas taken a left fork[0m
+       804 089 [0mhas taken a right fork[0m
+       804 089 [32mis eating[0m
+       804 095 [33mis thinking[0m
+       804 094 [0mis sleeping[0m
+       804 098 [0mis sleeping[0m
+       804 097 [0mhas taken a left fork[0m
+       804 093 [0mhas taken a left fork[0m
+       804 093 [0mhas taken a right fork[0m
+       804 093 [32mis eating[0m
+       804 099 [0mhas taken a right fork[0m
+       804 099 [32mis eating[0m
+       804 097 [0mhas taken a right fork[0m
+       804 095 [0mhas taken a left fork[0m
+       804 095 [0mhas taken a right fork[0m
+       804 095 [32mis eating[0m
+       804 097 [32mis eating[0m
+       804 096 [0mis sleeping[0m
+      1001 006 [33mis thinking[0m
+      1001 011 [0mis sleeping[0m
+      1001 012 [33mis thinking[0m
+      1001 010 [33mis thinking[0m
+      1001 010 [0mhas taken a left fork[0m
+      1001 008 [33mis thinking[0m
+      1001 007 [0mis sleeping[0m
+      1001 004 [33mis thinking[0m
+      1001 005 [0mis sleeping[0m
+      1001 006 [0mhas taken a left fork[0m
+      1001 004 [0mhas taken a left fork[0m
+      1001 006 [0mhas taken a right fork[0m
+      1001 006 [32mis eating[0m
+      1001 009 [0mis sleeping[0m
+      1001 008 [0mhas taken a left fork[0m
+      1001 014 [33mis thinking[0m
+      1001 008 [0mhas taken a right fork[0m
+      1001 008 [32mis eating[0m
+      1001 010 [0mhas taken a right fork[0m
+      1001 010 [32mis eating[0m
+      1001 013 [0mis sleeping[0m
+      1001 012 [0mhas taken a left fork[0m
+      1001 012 [0mhas taken a right fork[0m
+      1001 012 [32mis eating[0m
+      1001 018 [33mis thinking[0m
+      1001 019 [0mis sleeping[0m
+      1001 023 [0mis sleeping[0m
+      1001 018 [0mhas taken a left fork[0m
+      1001 024 [33mis thinking[0m
+      1001 016 [33mis thinking[0m
+      1001 015 [0mis sleeping[0m
+      1001 021 [0mis sleeping[0m
+      1001 014 [0mhas taken a left fork[0m
+      1001 014 [0mhas taken a right fork[0m
+      1001 017 [0mis sleeping[0m
+      1001 016 [0mhas taken a left fork[0m
+      1001 016 [0mhas taken a right fork[0m
+      1001 016 [32mis eating[0m
+      1001 022 [33mis thinking[0m
+      1001 022 [0mhas taken a left fork[0m
+      1001 022 [0mhas taken a right fork[0m
+      1001 022 [32mis eating[0m
+      1001 020 [33mis thinking[0m
+      1001 020 [0mhas taken a left fork[0m
+      1001 020 [0mhas taken a right fork[0m
+      1001 020 [32mis eating[0m
+      1001 014 [32mis eating[0m
+      1001 018 [0mhas taken a right fork[0m
+      1001 018 [32mis eating[0m
+      1001 030 [33mis thinking[0m
+      1001 026 [33mis thinking[0m
+      1001 026 [0mhas taken a left fork[0m
+      1001 026 [0mhas taken a right fork[0m
+      1001 026 [32mis eating[0m
+      1001 025 [0mis sleeping[0m
+      1001 024 [0mhas taken a left fork[0m
+      1001 024 [0mhas taken a right fork[0m
+      1001 024 [32mis eating[0m
+      1001 028 [33mis thinking[0m
+      1001 028 [0mhas taken a left fork[0m
+      1001 028 [0mhas taken a right fork[0m
+      1001 028 [32mis eating[0m
+      1001 027 [0mis sleeping[0m
+      1001 029 [0mis sleeping[0m
+      1002 040 [33mis thinking[0m
+      1002 036 [33mis thinking[0m
+      1002 035 [0mis sleeping[0m
+      1002 032 [33mis thinking[0m
+      1002 042 [33mis thinking[0m
+      1002 039 [0mis sleeping[0m
+      1002 034 [33mis thinking[0m
+      1002 031 [0mis sleeping[0m
+      1002 037 [0mis sleeping[0m
+      1002 034 [0mhas taken a left fork[0m
+      1002 041 [0mis sleeping[0m
+      1002 044 [33mis thinking[0m
+      1002 040 [0mhas taken a left fork[0m
+      1002 040 [0mhas taken a right fork[0m
+      1002 040 [32mis eating[0m
+      1002 030 [0mhas taken a left fork[0m
+      1002 030 [0mhas taken a right fork[0m
+      1002 030 [32mis eating[0m
+      1002 038 [33mis thinking[0m
+      1002 043 [0mis sleeping[0m
+      1002 042 [0mhas taken a left fork[0m
+      1002 033 [0mis sleeping[0m
+      1002 046 [33mis thinking[0m
+      1002 038 [0mhas taken a left fork[0m
+      1002 045 [0mis sleeping[0m
+      1002 036 [0mhas taken a left fork[0m
+      1002 036 [0mhas taken a right fork[0m
+      1002 036 [32mis eating[0m
+      1002 034 [0mhas taken a right fork[0m
+      1002 038 [0mhas taken a right fork[0m
+      1002 034 [32mis eating[0m
+      1002 032 [0mhas taken a left fork[0m
+      1002 032 [0mhas taken a right fork[0m
+      1002 032 [32mis eating[0m
+      1002 044 [0mhas taken a left fork[0m
+      1002 042 [0mhas taken a right fork[0m
+      1002 038 [32mis eating[0m
+      1002 042 [32mis eating[0m
+      1002 044 [0mhas taken a right fork[0m
+      1002 044 [32mis eating[0m
+      1002 048 [33mis thinking[0m
+      1002 050 [33mis thinking[0m
+      1002 048 [0mhas taken a left fork[0m
+      1002 049 [0mis sleeping[0m
+      1002 052 [33mis thinking[0m
+      1002 051 [0mis sleeping[0m
+      1002 048 [0mhas taken a right fork[0m
+      1002 050 [0mhas taken a left fork[0m
+      1002 054 [33mis thinking[0m
+      1002 046 [0mhas taken a left fork[0m
+      1002 046 [0mhas taken a right fork[0m
+      1002 053 [0mis sleeping[0m
+      1002 048 [32mis eating[0m
+      1002 052 [0mhas taken a left fork[0m
+      1002 046 [32mis eating[0m
+      1002 050 [0mhas taken a right fork[0m
+      1002 050 [32mis eating[0m
+      1002 047 [0mis sleeping[0m
+      1002 052 [0mhas taken a right fork[0m
+      1002 052 [32mis eating[0m
+      1002 056 [33mis thinking[0m
+      1002 058 [33mis thinking[0m
+      1002 055 [0mis sleeping[0m
+      1002 054 [0mhas taken a left fork[0m
+      1002 054 [0mhas taken a right fork[0m
+      1002 054 [32mis eating[0m
+      1002 057 [0mis sleeping[0m
+      1002 056 [0mhas taken a left fork[0m
+      1002 056 [0mhas taken a right fork[0m
+      1002 056 [32mis eating[0m
+      1002 060 [33mis thinking[0m
+      1002 059 [0mis sleeping[0m
+      1002 058 [0mhas taken a left fork[0m
+      1002 058 [0mhas taken a right fork[0m
+      1002 058 [32mis eating[0m
+      1002 062 [33mis thinking[0m
+      1002 061 [0mis sleeping[0m
+      1002 063 [0mis sleeping[0m
+      1002 060 [0mhas taken a left fork[0m
+      1002 060 [0mhas taken a right fork[0m
+      1002 060 [32mis eating[0m
+      1002 064 [33mis thinking[0m
+      1002 062 [0mhas taken a left fork[0m
+      1002 062 [0mhas taken a right fork[0m
+      1002 062 [32mis eating[0m
+      1002 066 [33mis thinking[0m
+      1002 065 [0mis sleeping[0m
+      1002 064 [0mhas taken a left fork[0m
+      1002 064 [0mhas taken a right fork[0m
+      1002 064 [32mis eating[0m
+      1002 068 [33mis thinking[0m
+      1002 067 [0mis sleeping[0m
+      1002 066 [0mhas taken a left fork[0m
+      1002 066 [0mhas taken a right fork[0m
+      1002 066 [32mis eating[0m
+      1002 070 [33mis thinking[0m
+      1002 069 [0mis sleeping[0m
+      1002 068 [0mhas taken a left fork[0m
+      1002 068 [0mhas taken a right fork[0m
+      1002 068 [32mis eating[0m
+      1003 072 [33mis thinking[0m
+      1003 071 [0mis sleeping[0m
+      1003 070 [0mhas taken a left fork[0m
+      1003 070 [0mhas taken a right fork[0m
+      1003 070 [32mis eating[0m
+      1003 076 [33mis thinking[0m
+      1003 074 [33mis thinking[0m
+      1003 073 [0mis sleeping[0m
+      1003 072 [0mhas taken a left fork[0m
+      1003 072 [0mhas taken a right fork[0m
+      1003 072 [32mis eating[0m
+      1003 075 [0mis sleeping[0m
+      1003 074 [0mhas taken a left fork[0m
+      1003 074 [0mhas taken a right fork[0m
+      1003 074 [32mis eating[0m
+      1003 077 [0mis sleeping[0m
+      1003 078 [33mis thinking[0m
+      1003 076 [0mhas taken a left fork[0m
+      1003 076 [0mhas taken a right fork[0m
+      1003 076 [32mis eating[0m
+      1003 080 [33mis thinking[0m
+      1003 082 [33mis thinking[0m
+      1003 081 [0mis sleeping[0m
+      1003 080 [0mhas taken a left fork[0m
+      1003 080 [0mhas taken a right fork[0m
+      1003 080 [32mis eating[0m
+      1003 078 [0mhas taken a left fork[0m
+      1003 078 [0mhas taken a right fork[0m
+      1003 078 [32mis eating[0m
+      1003 079 [0mis sleeping[0m
+      1003 084 [33mis thinking[0m
+      1003 086 [33mis thinking[0m
+      1003 083 [0mis sleeping[0m
+      1003 085 [0mis sleeping[0m
+      1003 084 [0mhas taken a left fork[0m
+      1003 084 [0mhas taken a right fork[0m
+      1003 084 [32mis eating[0m
+      1003 082 [0mhas taken a left fork[0m
+      1003 082 [0mhas taken a right fork[0m
+      1003 082 [32mis eating[0m
+      1004 088 [33mis thinking[0m
+      1004 002 [33mis thinking[0m
+      1004 003 [0mis sleeping[0m
+      1004 100 [33mis thinking[0m
+      1004 087 [0mis sleeping[0m
+      1004 086 [0mhas taken a left fork[0m
+      1004 002 [0mhas taken a left fork[0m
+      1004 086 [0mhas taken a right fork[0m
+      1004 002 [0mhas taken a right fork[0m
+      1004 002 [32mis eating[0m
+      1004 086 [32mis eating[0m
+      1004 100 [0mhas taken a left fork[0m
+      1004 001 [0mis sleeping[0m
+      1004 004 [0mhas taken a right fork[0m
+      1004 004 [32mis eating[0m
+      1004 092 [33mis thinking[0m
+      1004 091 [0mis sleeping[0m
+      1004 098 [33mis thinking[0m
+      1004 089 [0mis sleeping[0m
+      1004 097 [0mis sleeping[0m
+      1004 094 [33mis thinking[0m
+      1004 090 [33mis thinking[0m
+      1004 090 [0mhas taken a left fork[0m
+      1004 090 [0mhas taken a right fork[0m
+      1004 090 [32mis eating[0m
+      1004 092 [0mhas taken a left fork[0m
+      1004 092 [0mhas taken a right fork[0m
+      1004 092 [32mis eating[0m
+      1004 096 [33mis thinking[0m
+      1004 096 [0mhas taken a left fork[0m
+      1004 088 [0mhas taken a left fork[0m
+      1004 093 [0mis sleeping[0m
+      1004 094 [0mhas taken a left fork[0m
+      1004 094 [0mhas taken a right fork[0m
+      1004 098 [0mhas taken a left fork[0m
+      1004 094 [32mis eating[0m
+      1004 099 [0mis sleeping[0m
+      1004 088 [0mhas taken a right fork[0m
+      1004 088 [32mis eating[0m
+      1004 095 [0mis sleeping[0m
+      1004 098 [0mhas taken a right fork[0m
+      1004 098 [32mis eating[0m
+      1004 096 [0mhas taken a right fork[0m
+      1004 096 [32mis eating[0m
+      1004 100 [0mhas taken a right fork[0m
+      1004 100 [32mis eating[0m
+      1201 011 [33mis thinking[0m
+      1201 007 [33mis thinking[0m
+      1201 013 [33mis thinking[0m
+      1201 005 [33mis thinking[0m
+      1201 006 [0mis sleeping[0m
+      1201 005 [0mhas taken a left fork[0m
+      1201 009 [33mis thinking[0m
+      1201 008 [0mis sleeping[0m
+      1201 007 [0mhas taken a left fork[0m
+      1201 007 [0mhas taken a right fork[0m
+      1201 007 [32mis eating[0m
+      1201 010 [0mis sleeping[0m
+      1201 009 [0mhas taken a left fork[0m
+      1201 009 [0mhas taken a right fork[0m
+      1201 012 [0mis sleeping[0m
+      1201 011 [0mhas taken a left fork[0m
+      1201 011 [0mhas taken a right fork[0m
+      1201 011 [32mis eating[0m
+      1201 009 [32mis eating[0m
+      1201 019 [33mis thinking[0m
+      1201 021 [33mis thinking[0m
+      1201 023 [33mis thinking[0m
+      1201 017 [33mis thinking[0m
+      1201 015 [33mis thinking[0m
+      1201 016 [0mis sleeping[0m
+      1201 015 [0mhas taken a left fork[0m
+      1201 025 [33mis thinking[0m
+      1201 022 [0mis sleeping[0m
+      1201 021 [0mhas taken a left fork[0m
+      1201 014 [0mis sleeping[0m
+      1201 015 [0mhas taken a right fork[0m
+      1201 013 [0mhas taken a left fork[0m
+      1201 013 [0mhas taken a right fork[0m
+      1201 013 [32mis eating[0m
+      1201 015 [32mis eating[0m
+      1201 018 [0mis sleeping[0m
+      1201 017 [0mhas taken a left fork[0m
+      1201 017 [0mhas taken a right fork[0m
+      1201 017 [32mis eating[0m
+      1201 020 [0mis sleeping[0m
+      1201 021 [0mhas taken a right fork[0m
+      1201 021 [32mis eating[0m
+      1201 019 [0mhas taken a left fork[0m
+      1201 019 [0mhas taken a right fork[0m
+      1201 019 [32mis eating[0m
+      1201 026 [0mis sleeping[0m
+      1201 025 [0mhas taken a left fork[0m
+      1201 029 [33mis thinking[0m
+      1201 024 [0mis sleeping[0m
+      1201 023 [0mhas taken a left fork[0m
+      1201 025 [0mhas taken a right fork[0m
+      1201 028 [0mis sleeping[0m
+      1201 025 [32mis eating[0m
+      1201 023 [0mhas taken a right fork[0m
+      1201 023 [32mis eating[0m
+      1201 027 [33mis thinking[0m
+      1201 027 [0mhas taken a left fork[0m
+      1201 027 [0mhas taken a right fork[0m
+      1201 027 [32mis eating[0m
+      1202 035 [33mis thinking[0m
+      1202 031 [33mis thinking[0m
+      1202 037 [33mis thinking[0m
+      1202 040 [0mis sleeping[0m
+      1202 041 [33mis thinking[0m
+      1202 030 [0mis sleeping[0m
+      1202 029 [0mhas taken a left fork[0m
+      1202 029 [0mhas taken a right fork[0m
+      1202 029 [32mis eating[0m
+      1202 043 [33mis thinking[0m
+      1202 039 [33mis thinking[0m
+      1202 035 [0mhas taken a left fork[0m
+      1202 039 [0mhas taken a left fork[0m
+      1202 036 [0mis sleeping[0m
+      1202 033 [33mis thinking[0m
+      1202 045 [33mis thinking[0m
+      1202 044 [0mis sleeping[0m
+      1202 043 [0mhas taken a left fork[0m
+      1202 042 [0mis sleeping[0m
+      1202 043 [0mhas taken a right fork[0m
+      1202 043 [32mis eating[0m
+      1202 041 [0mhas taken a left fork[0m
+      1202 035 [0mhas taken a right fork[0m
+      1202 035 [32mis eating[0m
+      1202 033 [0mhas taken a left fork[0m
+      1202 033 [0mhas taken a right fork[0m
+      1202 041 [0mhas taken a right fork[0m
+      1202 031 [0mhas taken a left fork[0m
+      1202 034 [0mis sleeping[0m
+      1202 032 [0mis sleeping[0m
+      1202 041 [32mis eating[0m
+      1202 038 [0mis sleeping[0m
+      1202 037 [0mhas taken a left fork[0m
+      1202 037 [0mhas taken a right fork[0m
+      1202 037 [32mis eating[0m
+      1202 031 [0mhas taken a right fork[0m
+      1202 031 [32mis eating[0m
+      1202 039 [0mhas taken a right fork[0m
+      1202 039 [32mis eating[0m
+      1202 033 [32mis eating[0m
+      1202 049 [33mis thinking[0m
+      1202 049 [0mhas taken a left fork[0m
+      1202 052 [0mis sleeping[0m
+      1202 050 [0mis sleeping[0m
+      1202 051 [33mis thinking[0m
+      1202 048 [0mis sleeping[0m
+      1202 047 [33mis thinking[0m
+      1202 051 [0mhas taken a left fork[0m
+      1202 051 [0mhas taken a right fork[0m
+      1202 051 [32mis eating[0m
+      1202 053 [33mis thinking[0m
+      1202 049 [0mhas taken a right fork[0m
+      1202 049 [32mis eating[0m
+      1202 047 [0mhas taken a left fork[0m
+      1202 045 [0mhas taken a left fork[0m
+      1202 047 [0mhas taken a right fork[0m
+      1202 046 [0mis sleeping[0m
+      1202 047 [32mis eating[0m
+      1202 045 [0mhas taken a right fork[0m
+      1202 045 [32mis eating[0m
+      1202 055 [33mis thinking[0m
+      1202 054 [0mis sleeping[0m
+      1202 053 [0mhas taken a left fork[0m
+      1202 053 [0mhas taken a right fork[0m
+      1202 053 [32mis eating[0m
+      1202 057 [33mis thinking[0m
+      1202 056 [0mis sleeping[0m
+      1202 055 [0mhas taken a left fork[0m
+      1202 055 [0mhas taken a right fork[0m
+      1202 055 [32mis eating[0m
+      1202 059 [33mis thinking[0m
+      1202 058 [0mis sleeping[0m
+      1202 057 [0mhas taken a left fork[0m
+      1202 057 [0mhas taken a right fork[0m
+      1202 057 [32mis eating[0m
+      1202 061 [33mis thinking[0m
+      1202 060 [0mis sleeping[0m
+      1202 063 [33mis thinking[0m
+      1202 062 [0mis sleeping[0m
+      1202 061 [0mhas taken a left fork[0m
+      1202 061 [0mhas taken a right fork[0m
+      1202 061 [32mis eating[0m
+      1202 059 [0mhas taken a left fork[0m
+      1202 059 [0mhas taken a right fork[0m
+      1202 059 [32mis eating[0m
+      1202 065 [33mis thinking[0m
+      1202 064 [0mis sleeping[0m
+      1202 063 [0mhas taken a left fork[0m
+      1202 063 [0mhas taken a right fork[0m
+      1202 063 [32mis eating[0m
+      1202 067 [33mis thinking[0m
+      1202 066 [0mis sleeping[0m
+      1202 065 [0mhas taken a left fork[0m
+      1202 065 [0mhas taken a right fork[0m
+      1202 065 [32mis eating[0m
+      1202 068 [0mis sleeping[0m
+      1202 067 [0mhas taken a left fork[0m
+      1202 067 [0mhas taken a right fork[0m
+      1202 067 [32mis eating[0m
+      1203 069 [33mis thinking[0m
+      1203 071 [33mis thinking[0m
+      1203 070 [0mis sleeping[0m
+      1203 069 [0mhas taken a left fork[0m
+      1203 069 [0mhas taken a right fork[0m
+      1203 069 [32mis eating[0m
+      1203 073 [33mis thinking[0m
+      1203 072 [0mis sleeping[0m
+      1203 071 [0mhas taken a left fork[0m
+      1203 074 [0mis sleeping[0m
+      1203 073 [0mhas taken a left fork[0m
+      1203 071 [0mhas taken a right fork[0m
+      1203 075 [33mis thinking[0m
+      1203 073 [0mhas taken a right fork[0m
+      1203 073 [32mis eating[0m
+      1203 071 [32mis eating[0m
+      1203 077 [33mis thinking[0m
+      1203 076 [0mis sleeping[0m
+      1203 075 [0mhas taken a left fork[0m
+      1203 075 [0mhas taken a right fork[0m
+      1203 075 [32mis eating[0m
+      1203 081 [33mis thinking[0m
+      1203 080 [0mis sleeping[0m
+      1203 078 [0mis sleeping[0m
+      1203 077 [0mhas taken a left fork[0m
+      1203 077 [0mhas taken a right fork[0m
+      1203 077 [32mis eating[0m
+      1203 079 [33mis thinking[0m
+      1203 079 [0mhas taken a left fork[0m
+      1203 079 [0mhas taken a right fork[0m
+      1203 079 [32mis eating[0m
+      1203 083 [33mis thinking[0m
+      1203 084 [0mis sleeping[0m
+      1203 085 [33mis thinking[0m
+      1203 083 [0mhas taken a left fork[0m
+      1203 083 [0mhas taken a right fork[0m
+      1203 083 [32mis eating[0m
+      1203 082 [0mis sleeping[0m
+      1203 081 [0mhas taken a left fork[0m
+      1203 081 [0mhas taken a right fork[0m
+      1203 081 [32mis eating[0m
+      1204 003 [33mis thinking[0m
+      1204 002 [0mis sleeping[0m
+      1204 087 [33mis thinking[0m
+      1204 086 [0mis sleeping[0m
+      1204 091 [33mis thinking[0m
+      1204 089 [33mis thinking[0m
+      1204 089 [0mhas taken a left fork[0m
+      1204 001 [33mis thinking[0m
+      1204 001 [0mhas taken a left fork[0m
+      1204 085 [0mhas taken a left fork[0m
+      1204 085 [0mhas taken a right fork[0m
+      1204 085 [32mis eating[0m
+      1204 097 [33mis thinking[0m
+      1204 004 [0mis sleeping[0m
+      1204 092 [0mis sleeping[0m
+      1204 088 [0mis sleeping[0m
+      1204 091 [0mhas taken a left fork[0m
+      1204 091 [0mhas taken a right fork[0m
+      1204 003 [0mhas taken a left fork[0m
+      1204 091 [32mis eating[0m
+      1204 090 [0mis sleeping[0m
+      1204 093 [33mis thinking[0m
+      1204 089 [0mhas taken a right fork[0m
+      1204 089 [32mis eating[0m
+      1204 005 [0mhas taken a right fork[0m
+      1204 005 [32mis eating[0m
+      1204 003 [0mhas taken a right fork[0m
+      1204 003 [32mis eating[0m
+      1204 087 [0mhas taken a left fork[0m
+      1204 087 [0mhas taken a right fork[0m
+      1204 087 [32mis eating[0m
+      1204 094 [0mis sleeping[0m
+      1204 093 [0mhas taken a left fork[0m
+      1204 093 [0mhas taken a right fork[0m
+      1204 093 [32mis eating[0m
+      1204 099 [33mis thinking[0m
+      1204 095 [33mis thinking[0m
+      1204 096 [0mis sleeping[0m
+      1204 095 [0mhas taken a left fork[0m
+      1204 095 [0mhas taken a right fork[0m
+      1204 095 [32mis eating[0m
+      1204 098 [0mis sleeping[0m
+      1204 097 [0mhas taken a left fork[0m
+      1204 097 [0mhas taken a right fork[0m
+      1204 097 [32mis eating[0m
+      1204 001 [0mhas taken a right fork[0m
+      1204 099 [0mhas taken a left fork[0m
+      1204 099 [0mhas taken a right fork[0m
+      1204 099 [32mis eating[0m
+      1204 001 [32mis eating[0m
+      1204 100 [0mis sleeping[0m
+      1401 006 [33mis thinking[0m
+      1401 008 [33mis thinking[0m
+      1401 012 [33mis thinking[0m
+      1401 009 [0mis sleeping[0m
+      1401 010 [33mis thinking[0m
+      1401 008 [0mhas taken a left fork[0m
+      1401 011 [0mis sleeping[0m
+      1401 006 [0mhas taken a left fork[0m
+      1401 007 [0mis sleeping[0m
+      1401 010 [0mhas taken a left fork[0m
+      1401 010 [0mhas taken a right fork[0m
+      1401 010 [32mis eating[0m
+      1401 008 [0mhas taken a right fork[0m
+      1401 008 [32mis eating[0m
+      1401 016 [33mis thinking[0m
+      1401 022 [33mis thinking[0m
+      1401 013 [0mis sleeping[0m
+      1401 012 [0mhas taken a left fork[0m
+      1401 012 [0mhas taken a right fork[0m
+      1401 012 [32mis eating[0m
+      1401 014 [33mis thinking[0m
+      1401 021 [0mis sleeping[0m
+      1401 017 [0mis sleeping[0m
+      1401 019 [0mis sleeping[0m
+      1401 016 [0mhas taken a left fork[0m
+      1401 023 [0mis sleeping[0m
+      1401 016 [0mhas taken a right fork[0m
+      1401 022 [0mhas taken a left fork[0m
+      1401 018 [33mis thinking[0m
+      1401 018 [0mhas taken a left fork[0m
+      1401 018 [0mhas taken a right fork[0m
+      1401 018 [32mis eating[0m
+      1401 015 [0mis sleeping[0m
+      1401 022 [0mhas taken a right fork[0m
+      1401 022 [32mis eating[0m
+      1401 016 [32mis eating[0m
+      1401 014 [0mhas taken a left fork[0m
+      1401 014 [0mhas taken a right fork[0m
+      1401 028 [33mis thinking[0m
+      1401 020 [33mis thinking[0m
+      1401 027 [0mis sleeping[0m
+      1401 020 [0mhas taken a left fork[0m
+      1401 020 [0mhas taken a right fork[0m
+      1401 020 [32mis eating[0m
+      1401 026 [33mis thinking[0m
+      1401 026 [0mhas taken a left fork[0m
+      1401 014 [32mis eating[0m
+      1401 024 [33mis thinking[0m
+      1401 025 [0mis sleeping[0m
+      1401 026 [0mhas taken a right fork[0m
+      1401 026 [32mis eating[0m
+      1401 024 [0mhas taken a left fork[0m
+      1401 024 [0mhas taken a right fork[0m
+      1401 024 [32mis eating[0m
+      1402 040 [33mis thinking[0m
+      1402 029 [0mis sleeping[0m
+      1402 028 [0mhas taken a left fork[0m
+      1402 028 [0mhas taken a right fork[0m
+      1402 028 [32mis eating[0m
+      1402 030 [33mis thinking[0m
+      1402 044 [33mis thinking[0m
+      1402 043 [0mis sleeping[0m
+      1402 033 [0mis sleeping[0m
+      1402 036 [33mis thinking[0m
+      1402 035 [0mis sleeping[0m
+      1402 037 [0mis sleeping[0m
+      1402 036 [0mhas taken a left fork[0m
+      1402 036 [0mhas taken a right fork[0m
+      1402 042 [33mis thinking[0m
+      1402 034 [33mis thinking[0m
+      1402 034 [0mhas taken a left fork[0m
+      1402 034 [0mhas taken a right fork[0m
+      1402 034 [32mis eating[0m
+      1402 032 [33mis thinking[0m
+      1402 036 [32mis eating[0m
+      1402 042 [0mhas taken a left fork[0m
+      1402 031 [0mis sleeping[0m
+      1402 030 [0mhas taken a left fork[0m
+      1402 030 [0mhas taken a right fork[0m
+      1402 030 [32mis eating[0m
+      1402 038 [33mis thinking[0m
+      1402 032 [0mhas taken a left fork[0m
+      1402 042 [0mhas taken a right fork[0m
+      1402 032 [0mhas taken a right fork[0m
+      1402 038 [0mhas taken a left fork[0m
+      1402 032 [32mis eating[0m
+      1402 039 [0mis sleeping[0m
+      1402 038 [0mhas taken a right fork[0m
+      1402 038 [32mis eating[0m
+      1402 042 [32mis eating[0m
+      1402 040 [0mhas taken a left fork[0m
+      1402 040 [0mhas taken a right fork[0m
+      1402 040 [32mis eating[0m
+      1402 041 [0mis sleeping[0m
+      1402 050 [33mis thinking[0m
+      1402 045 [0mis sleeping[0m
+      1402 052 [33mis thinking[0m
+      1402 048 [33mis thinking[0m
+      1402 051 [0mis sleeping[0m
+      1402 050 [0mhas taken a left fork[0m
+      1402 048 [0mhas taken a left fork[0m
+      1402 050 [0mhas taken a right fork[0m
+      1402 046 [33mis thinking[0m
+      1402 044 [0mhas taken a left fork[0m
+      1402 047 [0mis sleeping[0m
+      1402 050 [32mis eating[0m
+      1402 049 [0mis sleeping[0m
+      1402 046 [0mhas taken a left fork[0m
+      1402 046 [0mhas taken a right fork[0m
+      1402 046 [32mis eating[0m
+      1402 044 [0mhas taken a right fork[0m
+      1402 044 [32mis eating[0m
+      1402 048 [0mhas taken a right fork[0m
+      1402 048 [32mis eating[0m
+      1402 054 [33mis thinking[0m
+      1402 053 [0mis sleeping[0m
+      1402 055 [0mis sleeping[0m
+      1402 052 [0mhas taken a left fork[0m
+      1402 052 [0mhas taken a right fork[0m
+      1402 054 [0mhas taken a left fork[0m
+      1402 054 [0mhas taken a right fork[0m
+      1402 054 [32mis eating[0m
+      1402 052 [32mis eating[0m
+      1402 056 [33mis thinking[0m
+      1402 058 [33mis thinking[0m
+      1402 057 [0mis sleeping[0m
+      1402 056 [0mhas taken a left fork[0m
+      1402 056 [0mhas taken a right fork[0m
+      1402 056 [32mis eating[0m
+      1402 060 [33mis thinking[0m
+      1402 062 [33mis thinking[0m
+      1402 061 [0mis sleeping[0m
+      1402 060 [0mhas taken a left fork[0m
+      1402 059 [0mis sleeping[0m
+      1402 058 [0mhas taken a left fork[0m
+      1402 058 [0mhas taken a right fork[0m
+      1402 058 [32mis eating[0m
+      1402 060 [0mhas taken a right fork[0m
+      1402 060 [32mis eating[0m
+      1402 064 [33mis thinking[0m
+      1402 063 [0mis sleeping[0m
+      1402 062 [0mhas taken a left fork[0m
+      1402 062 [0mhas taken a right fork[0m
+      1402 062 [32mis eating[0m
+      1403 066 [33mis thinking[0m
+      1403 065 [0mis sleeping[0m
+      1403 064 [0mhas taken a left fork[0m
+      1403 064 [0mhas taken a right fork[0m
+      1403 064 [32mis eating[0m
+      1403 068 [33mis thinking[0m
+      1403 067 [0mis sleeping[0m
+      1403 066 [0mhas taken a left fork[0m
+      1403 066 [0mhas taken a right fork[0m
+      1403 066 [32mis eating[0m
+      1403 070 [33mis thinking[0m
+      1403 069 [0mis sleeping[0m
+      1403 068 [0mhas taken a left fork[0m
+      1403 068 [0mhas taken a right fork[0m
+      1403 068 [32mis eating[0m
+      1403 074 [33mis thinking[0m
+      1403 072 [33mis thinking[0m
+      1403 073 [0mis sleeping[0m
+      1403 072 [0mhas taken a left fork[0m
+      1403 070 [0mhas taken a left fork[0m
+      1403 070 [0mhas taken a right fork[0m
+      1403 070 [32mis eating[0m
+      1403 072 [0mhas taken a right fork[0m
+      1403 072 [32mis eating[0m
+      1403 071 [0mis sleeping[0m
+      1403 076 [33mis thinking[0m
+      1403 075 [0mis sleeping[0m
+      1403 074 [0mhas taken a left fork[0m
+      1403 074 [0mhas taken a right fork[0m
+      1403 074 [32mis eating[0m
+      1403 080 [33mis thinking[0m
+      1403 078 [33mis thinking[0m
+      1403 077 [0mis sleeping[0m
+      1403 076 [0mhas taken a left fork[0m
+      1403 076 [0mhas taken a right fork[0m
+      1403 076 [32mis eating[0m
+      1403 079 [0mis sleeping[0m
+      1403 078 [0mhas taken a left fork[0m
+      1403 078 [0mhas taken a right fork[0m
+      1403 078 [32mis eating[0m
+      1403 084 [33mis thinking[0m
+      1403 082 [33mis thinking[0m
+      1403 082 [0mhas taken a left fork[0m
+      1403 082 [0mhas taken a right fork[0m
+      1403 083 [0mis sleeping[0m
+      1403 080 [0mhas taken a left fork[0m
+      1403 080 [0mhas taken a right fork[0m
+      1403 080 [32mis eating[0m
+      1403 081 [0mis sleeping[0m
+      1403 082 [32mis eating[0m
+      1404 086 [33mis thinking[0m
+      1404 088 [33mis thinking[0m
+      1404 004 [33mis thinking[0m
+      1404 090 [33mis thinking[0m
+      1404 003 [0mis sleeping[0m
+      1404 091 [0mis sleeping[0m
+      1404 096 [33mis thinking[0m
+      1404 088 [0mhas taken a left fork[0m
+      1404 088 [0mhas taken a right fork[0m
+      1404 087 [0mis sleeping[0m
+      1404 086 [0mhas taken a left fork[0m
+      1404 086 [0mhas taken a right fork[0m
+      1404 085 [0mis sleeping[0m
+      1404 092 [33mis thinking[0m
+      1404 086 [32mis eating[0m
+      1404 084 [0mhas taken a left fork[0m
+      1404 084 [0mhas taken a right fork[0m
+      1404 094 [33mis thinking[0m
+      1404 006 [0mhas taken a right fork[0m
+      1404 005 [0mis sleeping[0m
+      1404 006 [32mis eating[0m
+      1404 090 [0mhas taken a left fork[0m
+      1404 089 [0mis sleeping[0m
+      1404 090 [0mhas taken a right fork[0m
+      1404 090 [32mis eating[0m
+      1404 094 [0mhas taken a left fork[0m
+      1404 094 [0mhas taken a right fork[0m
+      1404 094 [32mis eating[0m
+      1404 098 [33mis thinking[0m
+      1404 097 [0mis sleeping[0m
+      1404 001 [0mis sleeping[0m
+      1404 002 [33mis thinking[0m
+      1404 004 [0mhas taken a left fork[0m
+      1404 002 [0mhas taken a left fork[0m
+      1404 002 [0mhas taken a right fork[0m
+      1404 002 [32mis eating[0m
+      1404 004 [0mhas taken a right fork[0m
+      1404 004 [32mis eating[0m
+      1404 084 [32mis eating[0m
+      1404 092 [0mhas taken a left fork[0m
+      1404 092 [0mhas taken a right fork[0m
+      1404 092 [32mis eating[0m
+      1404 093 [0mis sleeping[0m
+      1404 096 [0mhas taken a left fork[0m
+      1404 096 [0mhas taken a right fork[0m
+      1404 096 [32mis eating[0m
+      1404 088 [32mis eating[0m
+      1404 099 [0mis sleeping[0m
+      1404 100 [33mis thinking[0m
+      1404 100 [0mhas taken a left fork[0m
+      1404 100 [0mhas taken a right fork[0m
+      1404 100 [32mis eating[0m
+      1404 098 [0mhas taken a left fork[0m
+      1404 098 [0mhas taken a right fork[0m
+      1404 098 [32mis eating[0m
+      1404 095 [0mis sleeping[0m
+      1601 007 [33mis thinking[0m
+      1601 011 [33mis thinking[0m
+      1601 008 [0mis sleeping[0m
+      1601 007 [0mhas taken a left fork[0m
+      1601 009 [33mis thinking[0m
+      1601 009 [0mhas taken a left fork[0m
+      1601 009 [0mhas taken a right fork[0m
+      1601 009 [32mis eating[0m
+      1601 010 [0mis sleeping[0m
+      1601 019 [33mis thinking[0m
+      1601 013 [33mis thinking[0m
+      1601 017 [33mis thinking[0m
+      1601 021 [33mis thinking[0m
+      1601 013 [0mhas taken a left fork[0m
+      1601 014 [0mis sleeping[0m
+      1601 015 [33mis thinking[0m
+      1601 026 [0mis sleeping[0m
+      1601 016 [0mis sleeping[0m
+      1601 021 [0mhas taken a left fork[0m
+      1602 023 [33mis thinking[0m
+      1602 023 [0mhas taken a left fork[0m
+      1602 023 [0mhas taken a right fork[0m
+      1602 023 [32mis eating[0m
+      1602 015 [0mhas taken a left fork[0m
+      1602 015 [0mhas taken a right fork[0m
+      1602 015 [32mis eating[0m
+      1602 018 [0mis sleeping[0m
+      1602 022 [0mis sleeping[0m
+      1602 012 [0mis sleeping[0m
+      1602 025 [33mis thinking[0m
+      1602 024 [0mis sleeping[0m
+      1602 025 [0mhas taken a left fork[0m
+      1602 017 [0mhas taken a left fork[0m
+      1602 013 [0mhas taken a right fork[0m
+      1602 021 [0mhas taken a right fork[0m
+      1602 013 [32mis eating[0m
+      1602 020 [0mis sleeping[0m
+      1602 011 [0mhas taken a left fork[0m
+      1602 025 [0mhas taken a right fork[0m
+      1602 019 [0mhas taken a left fork[0m
+      1602 025 [32mis eating[0m
+      1602 021 [32mis eating[0m
+      1602 027 [33mis thinking[0m
+      1602 011 [0mhas taken a right fork[0m
+      1602 011 [32mis eating[0m
+      1602 019 [0mhas taken a right fork[0m
+      1602 019 [32mis eating[0m
+      1602 017 [0mhas taken a right fork[0m
+      1602 017 [32mis eating[0m
+      1602 029 [33mis thinking[0m
+      1602 028 [0mis sleeping[0m
+      1602 037 [33mis thinking[0m
+      1602 035 [33mis thinking[0m
+      1602 032 [0mis sleeping[0m
+      1602 043 [33mis thinking[0m
+      1602 039 [33mis thinking[0m
+      1602 039 [0mhas taken a left fork[0m
+      1602 034 [0mis sleeping[0m
+      1602 027 [0mhas taken a left fork[0m
+      1602 041 [33mis thinking[0m
+      1602 036 [0mis sleeping[0m
+      1602 031 [33mis thinking[0m
+      1602 038 [0mis sleeping[0m
+      1602 033 [33mis thinking[0m
+      1602 031 [0mhas taken a left fork[0m
+      1602 033 [0mhas taken a left fork[0m
+      1602 033 [0mhas taken a right fork[0m
+      1602 042 [0mis sleeping[0m
+      1602 041 [0mhas taken a left fork[0m
+      1602 039 [0mhas taken a right fork[0m
+      1602 031 [0mhas taken a right fork[0m
+      1602 029 [0mhas taken a left fork[0m
+      1602 039 [32mis eating[0m
+      1602 033 [32mis eating[0m
+      1602 031 [32mis eating[0m
+      1602 040 [0mis sleeping[0m
+      1602 035 [0mhas taken a left fork[0m
+      1602 037 [0mhas taken a left fork[0m
+      1602 037 [0mhas taken a right fork[0m
+      1602 037 [32mis eating[0m
+      1602 035 [0mhas taken a right fork[0m
+      1602 027 [0mhas taken a right fork[0m
+      1602 030 [0mis sleeping[0m
+      1602 027 [32mis eating[0m
+      1602 035 [32mis eating[0m
+      1602 029 [0mhas taken a right fork[0m
+      1602 029 [32mis eating[0m
+      1602 041 [0mhas taken a right fork[0m
+      1602 041 [32mis eating[0m
+      1602 045 [33mis thinking[0m
+      1602 047 [33mis thinking[0m
+      1602 046 [0mis sleeping[0m
+      1602 049 [33mis thinking[0m
+      1602 049 [0mhas taken a left fork[0m
+      1602 051 [33mis thinking[0m
+      1602 044 [0mis sleeping[0m
+      1602 043 [0mhas taken a left fork[0m
+      1602 050 [0mis sleeping[0m
+      1602 043 [0mhas taken a right fork[0m
+      1602 047 [0mhas taken a left fork[0m
+      1602 047 [0mhas taken a right fork[0m
+      1602 043 [32mis eating[0m
+      1602 047 [32mis eating[0m
+      1602 049 [0mhas taken a right fork[0m
+      1602 045 [0mhas taken a left fork[0m
+      1602 045 [0mhas taken a right fork[0m
+      1602 045 [32mis eating[0m
+      1602 048 [0mis sleeping[0m
+      1602 049 [32mis eating[0m
+      1602 053 [33mis thinking[0m
+      1602 055 [33mis thinking[0m
+      1602 054 [0mis sleeping[0m
+      1602 053 [0mhas taken a left fork[0m
+      1602 053 [0mhas taken a right fork[0m
+      1602 051 [0mhas taken a left fork[0m
+      1602 052 [0mis sleeping[0m
+      1602 051 [0mhas taken a right fork[0m
+      1602 051 [32mis eating[0m
+      1602 053 [32mis eating[0m
+      1602 057 [33mis thinking[0m
+      1602 056 [0mis sleeping[0m
+      1602 055 [0mhas taken a left fork[0m
+      1602 055 [0mhas taken a right fork[0m
+      1602 055 [32mis eating[0m
+      1602 061 [33mis thinking[0m
+      1602 059 [33mis thinking[0m
+      1602 058 [0mis sleeping[0m
+      1602 060 [0mis sleeping[0m
+      1602 059 [0mhas taken a left fork[0m
+      1602 059 [0mhas taken a right fork[0m
+      1602 059 [32mis eating[0m
+      1602 057 [0mhas taken a left fork[0m
+      1602 057 [0mhas taken a right fork[0m
+      1602 057 [32mis eating[0m
+      1603 063 [33mis thinking[0m
+      1603 062 [0mis sleeping[0m
+      1603 061 [0mhas taken a left fork[0m
+      1603 061 [0mhas taken a right fork[0m
+      1603 061 [32mis eating[0m
+      1603 065 [33mis thinking[0m
+      1603 064 [0mis sleeping[0m
+      1603 063 [0mhas taken a left fork[0m
+      1603 066 [0mis sleeping[0m
+      1603 063 [0mhas taken a right fork[0m
+      1603 065 [0mhas taken a left fork[0m
+      1603 065 [0mhas taken a right fork[0m
+      1603 065 [32mis eating[0m
+      1603 067 [33mis thinking[0m
+      1603 063 [32mis eating[0m
+      1603 069 [33mis thinking[0m
+      1603 067 [0mhas taken a left fork[0m
+      1603 067 [0mhas taken a right fork[0m
+      1603 067 [32mis eating[0m
+      1603 068 [0mis sleeping[0m
+      1603 073 [33mis thinking[0m
+      1603 072 [0mis sleeping[0m
+      1603 071 [33mis thinking[0m
+      1603 069 [0mhas taken a left fork[0m
+      1603 069 [0mhas taken a right fork[0m
+      1603 069 [32mis eating[0m
+      1603 071 [0mhas taken a left fork[0m
+      1603 071 [0mhas taken a right fork[0m
+      1603 071 [32mis eating[0m
+      1603 070 [0mis sleeping[0m
+      1603 075 [33mis thinking[0m
+      1603 074 [0mis sleeping[0m
+      1603 073 [0mhas taken a left fork[0m
+      1603 073 [0mhas taken a right fork[0m
+      1603 073 [32mis eating[0m
+      1603 077 [33mis thinking[0m
+      1603 079 [33mis thinking[0m
+      1603 076 [0mis sleeping[0m
+      1603 078 [0mis sleeping[0m
+      1603 075 [0mhas taken a left fork[0m
+      1603 075 [0mhas taken a right fork[0m
+      1603 075 [32mis eating[0m
+      1603 077 [0mhas taken a left fork[0m
+      1603 077 [0mhas taken a right fork[0m
+      1603 077 [32mis eating[0m
+      1603 083 [33mis thinking[0m
+      1603 082 [0mis sleeping[0m
+      1603 081 [33mis thinking[0m
+      1603 081 [0mhas taken a left fork[0m
+      1603 081 [0mhas taken a right fork[0m
+      1603 081 [32mis eating[0m
+      1603 079 [0mhas taken a left fork[0m
+      1603 079 [0mhas taken a right fork[0m
+      1603 079 [32mis eating[0m
+      1603 080 [0mis sleeping[0m
+      1604 003 [33mis thinking[0m
+      1604 091 [33mis thinking[0m
+      1604 002 [0mis sleeping[0m
+      1604 087 [33mis thinking[0m
+      1604 085 [33mis thinking[0m
+      1604 001 [33mis thinking[0m
+      1604 094 [0mis sleeping[0m
+      1604 005 [33mis thinking[0m
+      1604 093 [33mis thinking[0m
+      1604 095 [33mis thinking[0m
+      1604 007 [0mhas taken a right fork[0m
+      1604 093 [0mhas taken a left fork[0m
+      1604 083 [0mhas taken a left fork[0m
+      1604 089 [33mis thinking[0m
+      1604 098 [0mis sleeping[0m
+      1604 090 [0mis sleeping[0m
+      1604 006 [0mis sleeping[0m
+      1604 084 [0mis sleeping[0m
+      1604 086 [0mis sleeping[0m
+      1604 092 [0mis sleeping[0m
+      1604 085 [0mhas taken a left fork[0m
+      1604 100 [0mis sleeping[0m
+      1604 005 [0mhas taken a left fork[0m
+      1604 085 [0mhas taken a right fork[0m
+      1604 088 [0mis sleeping[0m
+      1604 085 [32mis eating[0m
+      1604 001 [0mhas taken a left fork[0m
+      1604 004 [0mis sleeping[0m
+      1604 001 [0mhas taken a right fork[0m
+      1604 096 [0mis sleeping[0m
+      1604 095 [0mhas taken a left fork[0m
+      1604 097 [33mis thinking[0m
+      1604 003 [0mhas taken a left fork[0m
+      1604 097 [0mhas taken a left fork[0m
+      1604 097 [0mhas taken a right fork[0m
+      1604 091 [0mhas taken a left fork[0m
+      1604 003 [0mhas taken a right fork[0m
+      1604 007 [32mis eating[0m
+      1604 005 [0mhas taken a right fork[0m
+      1604 005 [32mis eating[0m
+      1604 089 [0mhas taken a left fork[0m
+      1604 089 [0mhas taken a right fork[0m
+      1604 089 [32mis eating[0m
+      1604 095 [0mhas taken a right fork[0m
+      1604 095 [32mis eating[0m
+      1604 083 [0mhas taken a right fork[0m
+      1604 083 [32mis eating[0m
+      1604 097 [32mis eating[0m
+      1604 091 [0mhas taken a right fork[0m
+      1604 091 [32mis eating[0m
+      1604 003 [32mis eating[0m
+      1604 087 [0mhas taken a left fork[0m
+      1604 087 [0mhas taken a right fork[0m
+      1604 087 [32mis eating[0m
+      1604 093 [0mhas taken a right fork[0m
+      1604 093 [32mis eating[0m
+      1604 001 [32mis eating[0m
+      1604 099 [33mis thinking[0m
+      1604 099 [0mhas taken a left fork[0m
+      1604 099 [0mhas taken a right fork[0m
+      1604 099 [32mis eating[0m
+      1801 008 [33mis thinking[0m
+      1801 009 [0mis sleeping[0m
+      1801 010 [33mis thinking[0m
+      1801 008 [0mhas taken a left fork[0m
+      1802 014 [33mis thinking[0m
+      1802 026 [33mis thinking[0m
+      1802 016 [33mis thinking[0m
+      1802 023 [0mis sleeping[0m
+      1802 013 [0mis sleeping[0m
+      1802 015 [0mis sleeping[0m
+      1802 014 [0mhas taken a left fork[0m
+      1802 014 [0mhas taken a right fork[0m
+      1802 014 [32mis eating[0m
+      1802 022 [33mis thinking[0m
+      1802 022 [0mhas taken a left fork[0m
+      1802 018 [33mis thinking[0m
+      1802 025 [0mis sleeping[0m
+      1802 012 [33mis thinking[0m
+      1802 012 [0mhas taken a left fork[0m
+      1802 024 [33mis thinking[0m
+      1802 024 [0mhas taken a left fork[0m
+      1802 024 [0mhas taken a right fork[0m
+      1802 024 [32mis eating[0m
+      1802 020 [33mis thinking[0m
+      1802 021 [0mis sleeping[0m
+      1802 020 [0mhas taken a left fork[0m
+      1802 022 [0mhas taken a right fork[0m
+      1802 022 [32mis eating[0m
+      1802 011 [0mis sleeping[0m
+      1802 012 [0mhas taken a right fork[0m
+      1802 012 [32mis eating[0m
+      1802 010 [0mhas taken a left fork[0m
+      1802 010 [0mhas taken a right fork[0m
+      1802 010 [32mis eating[0m
+      1802 019 [0mis sleeping[0m
+      1802 020 [0mhas taken a right fork[0m
+      1802 020 [32mis eating[0m
+      1802 018 [0mhas taken a left fork[0m
+      1802 017 [0mis sleeping[0m
+      1802 016 [0mhas taken a left fork[0m
+      1802 016 [0mhas taken a right fork[0m
+      1802 016 [32mis eating[0m
+      1802 018 [0mhas taken a right fork[0m
+      1802 018 [32mis eating[0m
+      1802 028 [33mis thinking[0m
+      1802 032 [33mis thinking[0m
+      1802 034 [33mis thinking[0m
+      1802 036 [33mis thinking[0m
+      1802 038 [33mis thinking[0m
+      1802 042 [33mis thinking[0m
+      1802 031 [0mis sleeping[0m
+      1802 037 [0mis sleeping[0m
+      1802 027 [0mis sleeping[0m
+      1802 026 [0mhas taken a left fork[0m
+      1802 026 [0mhas taken a right fork[0m
+      1802 026 [32mis eating[0m
+      1802 041 [0mis sleeping[0m
+      1802 039 [0mis sleeping[0m
+      1802 033 [0mis sleeping[0m
+      1802 032 [0mhas taken a left fork[0m
+      1802 038 [0mhas taken a left fork[0m
+      1802 036 [0mhas taken a left fork[0m
+      1802 038 [0mhas taken a right fork[0m
+      1802 038 [32mis eating[0m
+      1802 032 [0mhas taken a right fork[0m
+      1802 030 [33mis thinking[0m
+      1802 030 [0mhas taken a left fork[0m
+      1802 032 [32mis eating[0m
+      1802 040 [33mis thinking[0m
+      1802 040 [0mhas taken a left fork[0m
+      1802 040 [0mhas taken a right fork[0m
+      1802 040 [32mis eating[0m
+      1802 029 [0mis sleeping[0m
+      1802 030 [0mhas taken a right fork[0m
+      1802 030 [32mis eating[0m
+      1802 028 [0mhas taken a left fork[0m
+      1802 028 [0mhas taken a right fork[0m
+      1802 028 [32mis eating[0m
+      1802 035 [0mis sleeping[0m
+      1802 034 [0mhas taken a left fork[0m
+      1802 034 [0mhas taken a right fork[0m
+      1802 034 [32mis eating[0m
+      1802 036 [0mhas taken a right fork[0m
+      1802 036 [32mis eating[0m
+      1802 047 [0mis sleeping[0m
+      1802 046 [33mis thinking[0m
+      1802 048 [33mis thinking[0m
+      1802 046 [0mhas taken a left fork[0m
+      1802 044 [33mis thinking[0m
+      1802 050 [33mis thinking[0m
+      1802 043 [0mis sleeping[0m
+      1802 042 [0mhas taken a left fork[0m
+      1802 042 [0mhas taken a right fork[0m
+      1802 042 [32mis eating[0m
+      1802 045 [0mis sleeping[0m
+      1802 044 [0mhas taken a left fork[0m
+      1802 044 [0mhas taken a right fork[0m
+      1802 044 [32mis eating[0m
+      1802 049 [0mis sleeping[0m
+      1802 048 [0mhas taken a left fork[0m
+      1802 048 [0mhas taken a right fork[0m
+      1802 046 [0mhas taken a right fork[0m
+      1802 046 [32mis eating[0m
+      1802 048 [32mis eating[0m
+      1802 054 [33mis thinking[0m
+      1802 052 [33mis thinking[0m
+      1802 051 [0mis sleeping[0m
+      1802 050 [0mhas taken a left fork[0m
+      1802 053 [0mis sleeping[0m
+      1802 052 [0mhas taken a left fork[0m
+      1802 052 [0mhas taken a right fork[0m
+      1802 052 [32mis eating[0m
+      1802 050 [0mhas taken a right fork[0m
+      1802 050 [32mis eating[0m
+      1802 056 [33mis thinking[0m
+      1802 055 [0mis sleeping[0m
+      1802 054 [0mhas taken a left fork[0m
+      1802 054 [0mhas taken a right fork[0m
+      1802 054 [32mis eating[0m
+      1803 058 [33mis thinking[0m
+      1803 060 [33mis thinking[0m
+      1803 057 [0mis sleeping[0m
+      1803 059 [0mis sleeping[0m
+      1803 056 [0mhas taken a left fork[0m
+      1803 056 [0mhas taken a right fork[0m
+      1803 056 [32mis eating[0m
+      1803 058 [0mhas taken a left fork[0m
+      1803 058 [0mhas taken a right fork[0m
+      1803 058 [32mis eating[0m
+      1803 062 [33mis thinking[0m
+      1803 061 [0mis sleeping[0m
+      1803 060 [0mhas taken a left fork[0m
+      1803 060 [0mhas taken a right fork[0m
+      1803 060 [32mis eating[0m
+      1803 064 [33mis thinking[0m
+      1803 066 [33mis thinking[0m
+      1803 065 [0mis sleeping[0m
+      1803 064 [0mhas taken a left fork[0m
+      1803 064 [0mhas taken a right fork[0m
+      1803 063 [0mis sleeping[0m
+      1803 062 [0mhas taken a left fork[0m
+      1803 062 [0mhas taken a right fork[0m
+      1803 062 [32mis eating[0m
+      1803 064 [32mis eating[0m
+      1803 068 [33mis thinking[0m
+      1803 067 [0mis sleeping[0m
+      1803 066 [0mhas taken a left fork[0m
+      1803 066 [0mhas taken a right fork[0m
+      1803 066 [32mis eating[0m
+      1803 072 [33mis thinking[0m
+      1803 069 [0mis sleeping[0m
+      1803 071 [0mis sleeping[0m
+      1803 068 [0mhas taken a left fork[0m
+      1803 070 [33mis thinking[0m
+      1803 070 [0mhas taken a left fork[0m
+      1803 070 [0mhas taken a right fork[0m
+      1803 070 [32mis eating[0m
+      1803 068 [0mhas taken a right fork[0m
+      1803 068 [32mis eating[0m
+      1803 074 [33mis thinking[0m
+      1803 073 [0mis sleeping[0m
+      1803 072 [0mhas taken a left fork[0m
+      1803 072 [0mhas taken a right fork[0m
+      1803 072 [32mis eating[0m
+      1803 076 [33mis thinking[0m
+      1803 078 [33mis thinking[0m
+      1803 075 [0mis sleeping[0m
+      1803 074 [0mhas taken a left fork[0m
+      1803 074 [0mhas taken a right fork[0m
+      1803 074 [32mis eating[0m
+      1803 077 [0mis sleeping[0m
+      1803 076 [0mhas taken a left fork[0m
+      1803 076 [0mhas taken a right fork[0m
+      1803 076 [32mis eating[0m
+      1803 080 [33mis thinking[0m
+      1804 081 [0mis sleeping[0m
+      1804 080 [0mhas taken a left fork[0m
+      1804 082 [33mis thinking[0m
+      1804 079 [0mis sleeping[0m
+      1804 078 [0mhas taken a left fork[0m
+      1804 078 [0mhas taken a right fork[0m
+      1804 078 [32mis eating[0m
+      1804 080 [0mhas taken a right fork[0m
+      1804 080 [32mis eating[0m
+      1804 002 [33mis thinking[0m
+      1804 094 [33mis thinking[0m
+      1804 086 [33mis thinking[0m
+      1804 006 [33mis thinking[0m
+      1804 090 [33mis thinking[0m
+      1804 004 [33mis thinking[0m
+      1804 092 [33mis thinking[0m
+      1804 085 [0mis sleeping[0m
+      1804 100 [33mis thinking[0m
+      1804 084 [33mis thinking[0m
+      1804 084 [0mhas taken a left fork[0m
+      1804 096 [33mis thinking[0m
+      1804 098 [33mis thinking[0m
+      1804 088 [33mis thinking[0m
+      1804 007 [0mis sleeping[0m
+      1804 097 [0mis sleeping[0m
+      1804 006 [0mhas taken a left fork[0m
+      1804 096 [0mhas taken a left fork[0m
+      1804 008 [0mhas taken a right fork[0m
+      1804 008 [32mis eating[0m
+      1804 083 [0mis sleeping[0m
+      1804 084 [0mhas taken a right fork[0m
+      1804 006 [0mhas taken a right fork[0m
+      1804 004 [0mhas taken a left fork[0m
+      1804 091 [0mis sleeping[0m
+      1804 006 [32mis eating[0m
+      1804 090 [0mhas taken a left fork[0m
+      1804 084 [32mis eating[0m
+      1804 005 [0mis sleeping[0m
+      1804 089 [0mis sleeping[0m
+      1804 090 [0mhas taken a right fork[0m
+      1804 088 [0mhas taken a left fork[0m
+      1804 088 [0mhas taken a right fork[0m
+      1804 088 [32mis eating[0m
+      1804 090 [32mis eating[0m
+      1804 082 [0mhas taken a left fork[0m
+      1804 096 [0mhas taken a right fork[0m
+      1804 082 [0mhas taken a right fork[0m
+      1804 086 [0mhas taken a left fork[0m
+      1804 094 [0mhas taken a left fork[0m
+      1804 086 [0mhas taken a right fork[0m
+      1804 096 [32mis eating[0m
+      1804 086 [32mis eating[0m
+      1804 095 [0mis sleeping[0m
+      1804 082 [32mis eating[0m
+      1804 087 [0mis sleeping[0m
+      1804 003 [0mis sleeping[0m
+      1804 004 [0mhas taken a right fork[0m
+      1804 004 [32mis eating[0m
+      1804 002 [0mhas taken a left fork[0m
+      1804 093 [0mis sleeping[0m
+      1804 094 [0mhas taken a right fork[0m
+      1804 094 [32mis eating[0m
+      1804 092 [0mhas taken a left fork[0m
+      1804 092 [0mhas taken a right fork[0m
+      1804 092 [32mis eating[0m
+      1804 002 [0mhas taken a right fork[0m
+      1804 002 [32mis eating[0m
+      1804 099 [0mis sleeping[0m
+      1804 001 [0mis sleeping[0m
+      1804 100 [0mhas taken a left fork[0m
+      1804 100 [0mhas taken a right fork[0m
+      1804 100 [32mis eating[0m
+      1804 098 [0mhas taken a left fork[0m
+      1804 098 [0mhas taken a right fork[0m
+      1804 098 [32mis eating[0m
+      2002 009 [33mis thinking[0m
+      2002 023 [33mis thinking[0m
+      2002 022 [0mis sleeping[0m
+      2002 011 [33mis thinking[0m
+      2002 020 [0mis sleeping[0m
+      2002 016 [0mis sleeping[0m
+      2002 025 [33mis thinking[0m
+      2002 017 [33mis thinking[0m
+      2002 012 [0mis sleeping[0m
+      2002 014 [0mis sleeping[0m
+      2002 011 [0mhas taken a left fork[0m
+      2002 024 [0mis sleeping[0m
+      2002 023 [0mhas taken a left fork[0m
+      2002 023 [0mhas taken a right fork[0m
+      2002 023 [32mis eating[0m
+      2002 018 [0mis sleeping[0m
+      2002 021 [33mis thinking[0m
+      2002 011 [0mhas taken a right fork[0m
+      2002 019 [33mis thinking[0m
+      2002 010 [0mis sleeping[0m
+      2002 015 [33mis thinking[0m
+      2002 009 [0mhas taken a left fork[0m
+      2002 015 [0mhas taken a left fork[0m
+      2002 015 [0mhas taken a right fork[0m
+      2002 015 [32mis eating[0m
+      2002 011 [32mis eating[0m
+      2002 013 [33mis thinking[0m
+      2002 017 [0mhas taken a left fork[0m
+      2002 013 [0mhas taken a left fork[0m
+      2002 013 [0mhas taken a right fork[0m
+      2002 019 [0mhas taken a left fork[0m
+      2002 021 [0mhas taken a left fork[0m
+      2002 019 [0mhas taken a right fork[0m
+      2002 017 [0mhas taken a right fork[0m
+      2002 013 [32mis eating[0m
+      2002 017 [32mis eating[0m
+      2002 019 [32mis eating[0m
+      2002 021 [0mhas taken a right fork[0m
+      2002 021 [32mis eating[0m
+      2002 027 [33mis thinking[0m
+      2002 027 [0mhas taken a left fork[0m
+      2002 027 [0mhas taken a right fork[0m
+      2002 027 [32mis eating[0m
+      2002 038 [0mis sleeping[0m
+      2002 025 [0mhas taken a left fork[0m
+      2002 025 [0mhas taken a right fork[0m
+      2002 025 [32mis eating[0m
+      2002 041 [33mis thinking[0m
+      2002 026 [0mis sleeping[0m
+      2002 034 [0mis sleeping[0m
+      2002 037 [33mis thinking[0m
+      2002 040 [0mis sleeping[0m
+      2002 029 [33mis thinking[0m
+      2002 033 [33mis thinking[0m
+      2002 029 [0mhas taken a left fork[0m
+      2002 029 [0mhas taken a right fork[0m
+      2002 029 [32mis eating[0m
+      2002 031 [33mis thinking[0m
+      2002 032 [0mis sleeping[0m
+      2002 030 [0mis sleeping[0m
+      2002 039 [33mis thinking[0m
+      2002 035 [33mis thinking[0m
+      2002 039 [0mhas taken a left fork[0m
+      2002 039 [0mhas taken a right fork[0m
+      2002 035 [0mhas taken a left fork[0m
+      2002 036 [0mis sleeping[0m
+      2002 035 [0mhas taken a right fork[0m
+      2002 035 [32mis eating[0m
+      2002 037 [0mhas taken a left fork[0m
+      2002 037 [0mhas taken a right fork[0m
+      2002 033 [0mhas taken a left fork[0m
+      2002 031 [0mhas taken a left fork[0m
+      2002 033 [0mhas taken a right fork[0m
+      2002 033 [32mis eating[0m
+      2002 031 [0mhas taken a right fork[0m
+      2002 028 [0mis sleeping[0m
+      2002 031 [32mis eating[0m
+      2002 037 [32mis eating[0m
+      2002 039 [32mis eating[0m
+      2002 047 [33mis thinking[0m
+      2002 043 [33mis thinking[0m
+      2002 045 [33mis thinking[0m
+      2002 042 [0mis sleeping[0m
+      2002 041 [0mhas taken a left fork[0m
+      2002 041 [0mhas taken a right fork[0m
+      2002 041 [32mis eating[0m
+      2002 044 [0mis sleeping[0m
+      2002 043 [0mhas taken a left fork[0m
+      2002 043 [0mhas taken a right fork[0m
+      2002 049 [33mis thinking[0m
+      2002 043 [32mis eating[0m
+      2002 048 [0mis sleeping[0m
+      2002 051 [33mis thinking[0m
+      2002 047 [0mhas taken a left fork[0m
+      2002 047 [0mhas taken a right fork[0m
+      2002 047 [32mis eating[0m
+      2002 050 [0mis sleeping[0m
+      2002 051 [0mhas taken a left fork[0m
+      2002 051 [0mhas taken a right fork[0m
+      2002 046 [0mis sleeping[0m
+      2002 053 [33mis thinking[0m
+      2002 045 [0mhas taken a left fork[0m
+      2002 045 [0mhas taken a right fork[0m
+      2002 049 [0mhas taken a left fork[0m
+      2002 052 [0mis sleeping[0m
+      2002 049 [0mhas taken a right fork[0m
+      2002 049 [32mis eating[0m
+      2002 045 [32mis eating[0m
+      2002 051 [32mis eating[0m
+      2003 055 [33mis thinking[0m
+      2003 054 [0mis sleeping[0m
+      2003 053 [0mhas taken a left fork[0m
+      2003 053 [0mhas taken a right fork[0m
+      2003 053 [32mis eating[0m
+      2003 059 [33mis thinking[0m
+      2003 057 [33mis thinking[0m
+      2003 056 [0mis sleeping[0m
+      2003 055 [0mhas taken a left fork[0m
+      2003 055 [0mhas taken a right fork[0m
+      2003 055 [32mis eating[0m
+      2003 058 [0mis sleeping[0m
+      2003 057 [0mhas taken a left fork[0m
+      2003 057 [0mhas taken a right fork[0m
+      2003 057 [32mis eating[0m
+      2003 061 [33mis thinking[0m
+      2003 060 [0mis sleeping[0m
+      2003 059 [0mhas taken a left fork[0m
+      2003 059 [0mhas taken a right fork[0m
+      2003 059 [32mis eating[0m
+      2003 065 [33mis thinking[0m
+      2003 062 [0mis sleeping[0m
+      2003 061 [0mhas taken a left fork[0m
+      2003 061 [0mhas taken a right fork[0m
+      2003 061 [32mis eating[0m
+      2003 063 [33mis thinking[0m
+      2003 064 [0mis sleeping[0m
+      2003 063 [0mhas taken a left fork[0m
+      2003 063 [0mhas taken a right fork[0m
+      2003 063 [32mis eating[0m
+      2003 067 [33mis thinking[0m
+      2003 066 [0mis sleeping[0m
+      2003 065 [0mhas taken a left fork[0m
+      2003 065 [0mhas taken a right fork[0m
+      2003 065 [32mis eating[0m
+      2003 069 [33mis thinking[0m
+      2003 069 [0mhas taken a left fork[0m
+      2003 070 [0mis sleeping[0m
+      2003 071 [33mis thinking[0m
+      2003 068 [0mis sleeping[0m
+      2003 067 [0mhas taken a left fork[0m
+      2003 069 [0mhas taken a right fork[0m
+      2003 069 [32mis eating[0m
+      2003 067 [0mhas taken a right fork[0m
+      2003 067 [32mis eating[0m
+      2003 073 [33mis thinking[0m
+      2003 072 [0mis sleeping[0m
+      2003 071 [0mhas taken a left fork[0m
+      2003 071 [0mhas taken a right fork[0m
+      2003 071 [32mis eating[0m
+      2003 075 [33mis thinking[0m
+      2003 077 [33mis thinking[0m
+      2003 074 [0mis sleeping[0m
+      2003 076 [0mis sleeping[0m
+      2003 075 [0mhas taken a left fork[0m
+      2003 075 [0mhas taken a right fork[0m
+      2003 075 [32mis eating[0m
+      2003 073 [0mhas taken a left fork[0m
+      2003 073 [0mhas taken a right fork[0m
+      2003 073 [32mis eating[0m
+      2004 081 [33mis thinking[0m
+      2004 079 [33mis thinking[0m
+      2004 078 [0mis sleeping[0m
+      2004 077 [0mhas taken a left fork[0m
+      2004 077 [0mhas taken a right fork[0m
+      2004 077 [32mis eating[0m
+      2004 080 [0mis sleeping[0m
+      2004 079 [0mhas taken a left fork[0m
+      2004 079 [0mhas taken a right fork[0m
+      2004 079 [32mis eating[0m
+      2004 085 [33mis thinking[0m
+      2004 007 [33mis thinking[0m
+      2004 096 [0mis sleeping[0m
+      2004 089 [33mis thinking[0m
+      2004 083 [33mis thinking[0m
+      2004 005 [33mis thinking[0m
+      2004 003 [33mis thinking[0m
+      2004 003 [0mhas taken a left fork[0m
+      2004 084 [0mis sleeping[0m
+      2004 091 [33mis thinking[0m
+      2004 088 [0mis sleeping[0m
+      2004 006 [0mis sleeping[0m
+      2004 007 [0mhas taken a left fork[0m
+      2004 089 [0mhas taken a left fork[0m
+      2004 004 [0mis sleeping[0m
+      2004 082 [0mis sleeping[0m
+      2004 005 [0mhas taken a left fork[0m
+      2004 087 [33mis thinking[0m
+      2004 005 [0mhas taken a right fork[0m
+      2004 005 [32mis eating[0m
+      2004 085 [0mhas taken a left fork[0m
+      2004 008 [0mis sleeping[0m
+      2004 085 [0mhas taken a right fork[0m
+      2004 085 [32mis eating[0m
+      2004 089 [0mhas taken a right fork[0m
+      2004 086 [0mis sleeping[0m
+      2004 089 [32mis eating[0m
+      2004 090 [0mis sleeping[0m
+      2004 095 [33mis thinking[0m
+      2004 095 [0mhas taken a left fork[0m
+      2004 087 [0mhas taken a left fork[0m
+      2004 087 [0mhas taken a right fork[0m
+      2004 087 [32mis eating[0m
+      2004 081 [0mhas taken a left fork[0m
+      2004 081 [0mhas taken a right fork[0m
+      2004 081 [32mis eating[0m
+      2004 097 [33mis thinking[0m
+      2004 100 [0mis sleeping[0m
+      2004 007 [0mhas taken a right fork[0m
+      2004 095 [0mhas taken a right fork[0m
+      2004 007 [32mis eating[0m
+      2004 095 [32mis eating[0m
+      2004 093 [33mis thinking[0m
+      2005 091 [0mhas taken a left fork[0m
+      2005 093 [0mhas taken a left fork[0m
+      2005 099 [33mis thinking[0m
+      2005 091 [0mhas taken a right fork[0m
+      2005 001 [33mis thinking[0m
+      2005 091 [32mis eating[0m
+      2005 083 [0mhas taken a left fork[0m
+      2005 098 [0mis sleeping[0m
+      2005 099 [0mhas taken a left fork[0m
+      2005 002 [0mis sleeping[0m
+      2005 003 [0mhas taken a right fork[0m
+      2005 099 [0mhas taken a right fork[0m
+      2005 094 [0mis sleeping[0m
+      2005 099 [32mis eating[0m
+      2005 009 [0mhas taken a right fork[0m
+      2005 083 [0mhas taken a right fork[0m
+      2005 093 [0mhas taken a right fork[0m
+      2005 083 [32mis eating[0m
+      2005 093 [32mis eating[0m
+      2005 097 [0mhas taken a left fork[0m
+      2005 097 [0mhas taken a right fork[0m
+      2005 097 [32mis eating[0m
+      2005 009 [32mis eating[0m
+      2005 003 [32mis eating[0m
+      2005 092 [0mis sleeping[0m
+      2005 001 [0mhas taken a left fork[0m
+      2005 001 [0mhas taken a right fork[0m
+      2005 001 [32mis eating[0m
+      2202 016 [33mis thinking[0m
+      2202 023 [0mis sleeping[0m
+      2202 020 [33mis thinking[0m
+      2202 024 [33mis thinking[0m
+      2202 022 [33mis thinking[0m
+      2202 022 [0mhas taken a left fork[0m
+      2202 013 [0mis sleeping[0m
+      2202 018 [33mis thinking[0m
+      2202 014 [33mis thinking[0m
+      2202 011 [0mis sleeping[0m
+      2202 014 [0mhas taken a left fork[0m
+      2202 014 [0mhas taken a right fork[0m
+      2202 014 [32mis eating[0m
+      2202 019 [0mis sleeping[0m
+      2202 010 [33mis thinking[0m
+      2202 010 [0mhas taken a left fork[0m
+      2202 021 [0mis sleeping[0m
+      2202 020 [0mhas taken a left fork[0m
+      2202 018 [0mhas taken a left fork[0m
+      2202 018 [0mhas taken a right fork[0m
+      2202 018 [32mis eating[0m
+      2202 022 [0mhas taken a right fork[0m
+      2202 016 [0mhas taken a left fork[0m
+      2202 016 [0mhas taken a right fork[0m
+      2202 016 [32mis eating[0m
+      2202 022 [32mis eating[0m
+      2202 020 [0mhas taken a right fork[0m
+      2202 017 [0mis sleeping[0m
+      2202 012 [33mis thinking[0m
+      2202 012 [0mhas taken a left fork[0m
+      2202 012 [0mhas taken a right fork[0m
+      2202 012 [32mis eating[0m
+      2202 020 [32mis eating[0m
+      2202 015 [0mis sleeping[0m
+      2202 026 [33mis thinking[0m
+      2202 040 [33mis thinking[0m
+      2202 027 [0mis sleeping[0m
+      2202 030 [33mis thinking[0m
+      2202 026 [0mhas taken a left fork[0m
+      2202 038 [33mis thinking[0m
+      2202 035 [0mis sleeping[0m
+      2202 030 [0mhas taken a left fork[0m
+      2202 034 [33mis thinking[0m
+      2202 039 [0mis sleeping[0m
+      2202 031 [0mis sleeping[0m
+      2202 037 [0mis sleeping[0m
+      2202 044 [33mis thinking[0m
+      2202 032 [33mis thinking[0m
+      2202 042 [33mis thinking[0m
+      2202 036 [33mis thinking[0m
+      2202 036 [0mhas taken a left fork[0m
+      2202 032 [0mhas taken a left fork[0m
+      2202 041 [0mis sleeping[0m
+      2202 025 [0mis sleeping[0m
+      2202 028 [33mis thinking[0m
+      2202 032 [0mhas taken a right fork[0m
+      2202 032 [32mis eating[0m
+      2202 030 [0mhas taken a right fork[0m
+      2202 034 [0mhas taken a left fork[0m
+      2202 038 [0mhas taken a left fork[0m
+      2202 038 [0mhas taken a right fork[0m
+      2202 034 [0mhas taken a right fork[0m
+      2202 034 [32mis eating[0m
+      2202 029 [0mis sleeping[0m
+      2202 030 [32mis eating[0m
+      2202 028 [0mhas taken a left fork[0m
+      2202 028 [0mhas taken a right fork[0m
+      2202 038 [32mis eating[0m
+      2202 036 [0mhas taken a right fork[0m
+      2202 033 [0mis sleeping[0m
+      2202 036 [32mis eating[0m
+      2202 024 [0mhas taken a left fork[0m
+      2202 024 [0mhas taken a right fork[0m
+      2202 024 [32mis eating[0m
+      2202 026 [0mhas taken a right fork[0m
+      2202 026 [32mis eating[0m
+      2202 028 [32mis eating[0m
+      2202 040 [0mhas taken a left fork[0m
+      2202 040 [0mhas taken a right fork[0m
+      2202 040 [32mis eating[0m
+      2202 047 [0mis sleeping[0m
+      2202 051 [0mis sleeping[0m
+      2202 043 [0mis sleeping[0m
+      2202 042 [0mhas taken a left fork[0m
+      2202 042 [0mhas taken a right fork[0m
+      2202 052 [33mis thinking[0m
+      2202 050 [33mis thinking[0m
+      2202 050 [0mhas taken a left fork[0m
+      2202 046 [33mis thinking[0m
+      2202 048 [33mis thinking[0m
+      2202 046 [0mhas taken a left fork[0m
+      2202 042 [32mis eating[0m
+      2202 049 [0mis sleeping[0m
+      2202 050 [0mhas taken a right fork[0m
+      2202 045 [0mis sleeping[0m
+      2202 046 [0mhas taken a right fork[0m
+      2202 048 [0mhas taken a left fork[0m
+      2202 046 [32mis eating[0m
+      2202 048 [0mhas taken a right fork[0m
+      2202 048 [32mis eating[0m
+      2202 050 [32mis eating[0m
+      2202 044 [0mhas taken a left fork[0m
+      2202 044 [0mhas taken a right fork[0m
+      2202 044 [32mis eating[0m
+      2203 054 [33mis thinking[0m
+      2203 053 [0mis sleeping[0m
+      2203 052 [0mhas taken a left fork[0m
+      2203 052 [0mhas taken a right fork[0m
+      2203 052 [32mis eating[0m
+      2203 056 [33mis thinking[0m
+      2203 055 [0mis sleeping[0m
+      2203 057 [0mis sleeping[0m
+      2203 058 [33mis thinking[0m
+      2203 054 [0mhas taken a left fork[0m
+      2203 054 [0mhas taken a right fork[0m
+      2203 054 [32mis eating[0m
+      2203 056 [0mhas taken a left fork[0m
+      2203 056 [0mhas taken a right fork[0m
+      2203 056 [32mis eating[0m
+      2203 060 [33mis thinking[0m
+      2203 059 [0mis sleeping[0m
+      2203 058 [0mhas taken a left fork[0m
+      2203 058 [0mhas taken a right fork[0m
+      2203 058 [32mis eating[0m
+      2203 062 [33mis thinking[0m
+      2203 061 [0mis sleeping[0m
+      2203 060 [0mhas taken a left fork[0m
+      2203 060 [0mhas taken a right fork[0m
+      2203 060 [32mis eating[0m
+      2203 064 [33mis thinking[0m
+      2203 063 [0mis sleeping[0m
+      2203 062 [0mhas taken a left fork[0m
+      2203 062 [0mhas taken a right fork[0m
+      2203 062 [32mis eating[0m
+      2203 066 [33mis thinking[0m
+      2203 065 [0mis sleeping[0m
+      2203 064 [0mhas taken a left fork[0m
+      2203 064 [0mhas taken a right fork[0m
+      2203 064 [32mis eating[0m
+      2203 070 [33mis thinking[0m
+      2203 068 [33mis thinking[0m
+      2203 067 [0mis sleeping[0m
+      2203 072 [33mis thinking[0m
+      2203 066 [0mhas taken a left fork[0m
+      2203 066 [0mhas taken a right fork[0m
+      2203 066 [32mis eating[0m
+      2203 069 [0mis sleeping[0m
+      2203 068 [0mhas taken a left fork[0m
+      2203 068 [0mhas taken a right fork[0m
+      2203 068 [32mis eating[0m
+      2203 071 [0mis sleeping[0m
+      2203 070 [0mhas taken a left fork[0m
+      2203 070 [0mhas taken a right fork[0m
+      2203 070 [32mis eating[0m
+      2203 074 [33mis thinking[0m
+      2203 076 [33mis thinking[0m
+      2203 075 [0mis sleeping[0m
+      2203 074 [0mhas taken a left fork[0m
+      2203 074 [0mhas taken a right fork[0m
+      2203 074 [32mis eating[0m
+      2203 073 [0mis sleeping[0m
+      2203 072 [0mhas taken a left fork[0m
+      2203 072 [0mhas taken a right fork[0m
+      2203 072 [32mis eating[0m
+      2204 078 [33mis thinking[0m
+      2204 077 [0mis sleeping[0m
+      2204 080 [33mis thinking[0m
+      2204 076 [0mhas taken a left fork[0m
+      2204 076 [0mhas taken a right fork[0m
+      2204 076 [32mis eating[0m
+      2204 078 [0mhas taken a left fork[0m
+      2204 078 [0mhas taken a right fork[0m
+      2204 078 [32mis eating[0m
+      2204 079 [0mis sleeping[0m
+      2205 096 [33mis thinking[0m
+      2205 084 [33mis thinking[0m
+      2205 090 [33mis thinking[0m
+      2205 099 [0mis sleeping[0m
+      2205 006 [33mis thinking[0m
+      2205 086 [33mis thinking[0m
+      2205 094 [33mis thinking[0m
+      2205 100 [33mis thinking[0m
+      2205 087 [0mis sleeping[0m
+      2205 003 [0mis sleeping[0m
+      2205 009 [0mis sleeping[0m
+      2205 007 [0mis sleeping[0m
+      2205 002 [33mis thinking[0m
+      2205 095 [0mis sleeping[0m
+      2205 010 [0mhas taken a right fork[0m
+      2205 002 [0mhas taken a left fork[0m
+      2205 083 [0mis sleeping[0m
+      2205 098 [33mis thinking[0m
+      2205 008 [33mis thinking[0m
+      2205 092 [33mis thinking[0m
+      2205 082 [33mis thinking[0m
+      2205 092 [0mhas taken a left fork[0m
+      2205 082 [0mhas taken a left fork[0m
+      2205 082 [0mhas taken a right fork[0m
+      2205 089 [0mis sleeping[0m
+      2205 086 [0mhas taken a left fork[0m
+      2205 086 [0mhas taken a right fork[0m
+      2205 086 [32mis eating[0m
+      2205 002 [0mhas taken a right fork[0m
+      2205 091 [0mis sleeping[0m
+      2205 002 [32mis eating[0m
+      2205 097 [0mis sleeping[0m
+      2205 088 [33mis thinking[0m
+      2205 100 [0mhas taken a left fork[0m
+      2205 088 [0mhas taken a left fork[0m
+      2205 088 [0mhas taken a right fork[0m
+      2205 088 [32mis eating[0m
+      2205 010 [32mis eating[0m
+      2205 094 [0mhas taken a left fork[0m
+      2205 094 [0mhas taken a right fork[0m
+      2205 094 [32mis eating[0m
+      2205 005 [0mis sleeping[0m
+      2205 098 [0mhas taken a left fork[0m
+      2205 098 [0mhas taken a right fork[0m
+      2205 098 [32mis eating[0m
+      2205 093 [0mis sleeping[0m
+      2205 006 [0mhas taken a left fork[0m
+      2205 006 [0mhas taken a right fork[0m
+      2205 006 [32mis eating[0m
+      2205 008 [0mhas taken a left fork[0m
+      2205 008 [0mhas taken a right fork[0m
+      2205 008 [32mis eating[0m
+      2205 085 [0mis sleeping[0m
+      2205 082 [32mis eating[0m
+      2205 084 [0mhas taken a left fork[0m
+      2205 084 [0mhas taken a right fork[0m
+      2205 084 [32mis eating[0m
+      2205 092 [0mhas taken a right fork[0m
+      2205 092 [32mis eating[0m
+      2205 080 [0mhas taken a left fork[0m
+      2205 080 [0mhas taken a right fork[0m
+      2205 080 [32mis eating[0m
+      2205 001 [0mis sleeping[0m
+      2205 004 [33mis thinking[0m
+      2205 004 [0mhas taken a left fork[0m
+      2205 004 [0mhas taken a right fork[0m
+      2205 004 [32mis eating[0m
+      2205 100 [0mhas taken a right fork[0m
+      2205 100 [32mis eating[0m
+      2205 090 [0mhas taken a left fork[0m
+      2205 090 [0mhas taken a right fork[0m
+      2205 090 [32mis eating[0m
+      2205 096 [0mhas taken a left fork[0m
+      2205 096 [0mhas taken a right fork[0m
+      2205 096 [32mis eating[0m
+      2205 081 [0mis sleeping[0m
+      2402 023 [33mis thinking[0m
+      2402 013 [33mis thinking[0m
+      2402 013 [0mhas taken a left fork[0m
+      2402 014 [0mis sleeping[0m
+      2402 021 [33mis thinking[0m
+      2402 016 [0mis sleeping[0m
+      2402 011 [33mis thinking[0m
+      2402 019 [33mis thinking[0m
+      2402 022 [0mis sleeping[0m
+      2402 021 [0mhas taken a left fork[0m
+      2402 018 [0mis sleeping[0m
+      2402 017 [33mis thinking[0m
+      2402 017 [0mhas taken a left fork[0m
+      2402 017 [0mhas taken a right fork[0m
+      2402 017 [32mis eating[0m
+      2402 015 [33mis thinking[0m
+      2402 015 [0mhas taken a left fork[0m
+      2402 020 [0mis sleeping[0m
+      2402 019 [0mhas taken a left fork[0m
+      2402 013 [0mhas taken a right fork[0m
+      2402 011 [0mhas taken a left fork[0m
+      2402 021 [0mhas taken a right fork[0m
+      2402 013 [32mis eating[0m
+      2402 012 [0mis sleeping[0m
+      2402 019 [0mhas taken a right fork[0m
+      2402 015 [0mhas taken a right fork[0m
+      2402 021 [32mis eating[0m
+      2402 015 [32mis eating[0m
+      2402 019 [32mis eating[0m
+      2402 027 [33mis thinking[0m
+      2402 035 [33mis thinking[0m
+      2402 032 [0mis sleeping[0m
+      2402 039 [33mis thinking[0m
+      2402 025 [33mis thinking[0m
+      2402 041 [33mis thinking[0m
+      2402 031 [33mis thinking[0m
+      2402 030 [0mis sleeping[0m
+      2402 034 [0mis sleeping[0m
+      2402 031 [0mhas taken a left fork[0m
+      2402 040 [0mis sleeping[0m
+      2402 037 [33mis thinking[0m
+      2402 039 [0mhas taken a left fork[0m
+      2402 031 [0mhas taken a right fork[0m
+      2402 029 [33mis thinking[0m
+      2402 029 [0mhas taken a left fork[0m
+      2402 029 [0mhas taken a right fork[0m
+      2402 029 [32mis eating[0m
+      2402 028 [0mis sleeping[0m
+      2402 043 [33mis thinking[0m
+      2402 031 [32mis eating[0m
+      2402 038 [0mis sleeping[0m
+      2402 039 [0mhas taken a right fork[0m
+      2402 026 [0mis sleeping[0m
+      2402 039 [32mis eating[0m
+      2402 027 [0mhas taken a left fork[0m
+      2402 024 [0mis sleeping[0m
+      2402 035 [0mhas taken a left fork[0m
+      2402 035 [0mhas taken a right fork[0m
+      2402 035 [32mis eating[0m
+      2402 046 [0mis sleeping[0m
+      2402 023 [0mhas taken a left fork[0m
+      2402 025 [0mhas taken a left fork[0m
+      2402 027 [0mhas taken a right fork[0m
+      2402 050 [0mis sleeping[0m
+      2402 033 [33mis thinking[0m
+      2402 033 [0mhas taken a left fork[0m
+      2402 033 [0mhas taken a right fork[0m
+      2402 033 [32mis eating[0m
+      2402 036 [0mis sleeping[0m
+      2402 025 [0mhas taken a right fork[0m
+      2402 025 [32mis eating[0m
+      2402 037 [0mhas taken a left fork[0m
+      2402 037 [0mhas taken a right fork[0m
+      2402 037 [32mis eating[0m
+      2402 047 [33mis thinking[0m
+      2403 023 [0mhas taken a right fork[0m
+      2403 047 [0mhas taken a left fork[0m
+      2403 047 [0mhas taken a right fork[0m
+      2403 023 [32mis eating[0m
+      2403 042 [0mis sleeping[0m
+      2403 047 [32mis eating[0m
+      2403 041 [0mhas taken a left fork[0m
+      2403 049 [33mis thinking[0m
+      2403 048 [0mis sleeping[0m
+      2403 049 [0mhas taken a left fork[0m
+      2403 027 [32mis eating[0m
+      2403 049 [0mhas taken a right fork[0m
+      2403 049 [32mis eating[0m
+      2403 044 [0mis sleeping[0m
+      2403 041 [0mhas taken a right fork[0m
+      2403 043 [0mhas taken a left fork[0m
+      2403 045 [33mis thinking[0m
+      2403 045 [0mhas taken a left fork[0m
+      2403 041 [32mis eating[0m
+      2403 051 [33mis thinking[0m
+      2403 045 [0mhas taken a right fork[0m
+      2403 045 [32mis eating[0m
+      2403 043 [0mhas taken a right fork[0m
+      2403 043 [32mis eating[0m
+      2403 053 [33mis thinking[0m
+      2403 052 [0mis sleeping[0m
+      2403 051 [0mhas taken a left fork[0m
+      2403 051 [0mhas taken a right fork[0m
+      2403 051 [32mis eating[0m
+      2403 057 [33mis thinking[0m
+      2403 056 [0mis sleeping[0m
+      2403 055 [33mis thinking[0m
+      2403 055 [0mhas taken a left fork[0m
+      2403 055 [0mhas taken a right fork[0m
+      2403 055 [32mis eating[0m
+      2403 054 [0mis sleeping[0m
+      2403 059 [33mis thinking[0m
+      2403 053 [0mhas taken a left fork[0m
+      2403 053 [0mhas taken a right fork[0m
+      2403 053 [32mis eating[0m
+      2403 058 [0mis sleeping[0m
+      2403 057 [0mhas taken a left fork[0m
+      2403 057 [0mhas taken a right fork[0m
+      2403 057 [32mis eating[0m
+      2403 061 [33mis thinking[0m
+      2403 060 [0mis sleeping[0m
+      2403 059 [0mhas taken a left fork[0m
+      2403 059 [0mhas taken a right fork[0m
+      2403 059 [32mis eating[0m
+      2403 063 [33mis thinking[0m
+      2403 062 [0mis sleeping[0m
+      2403 061 [0mhas taken a left fork[0m
+      2403 061 [0mhas taken a right fork[0m
+      2403 061 [32mis eating[0m
+      2403 065 [33mis thinking[0m
+      2403 064 [0mis sleeping[0m
+      2403 063 [0mhas taken a left fork[0m
+      2403 063 [0mhas taken a right fork[0m
+      2403 063 [32mis eating[0m
+      2403 067 [33mis thinking[0m
+      2403 069 [33mis thinking[0m
+      2403 068 [0mis sleeping[0m
+      2403 065 [0mhas taken a left fork[0m
+      2403 065 [0mhas taken a right fork[0m
+      2403 065 [32mis eating[0m
+      2403 066 [0mis sleeping[0m
+      2403 067 [0mhas taken a left fork[0m
+      2403 067 [0mhas taken a right fork[0m
+      2403 067 [32mis eating[0m
+      2403 070 [0mis sleeping[0m
+      2403 069 [0mhas taken a left fork[0m
+      2403 069 [0mhas taken a right fork[0m
+      2403 069 [32mis eating[0m
+      2403 071 [33mis thinking[0m
+      2404 075 [33mis thinking[0m
+      2404 073 [33mis thinking[0m
+      2404 073 [0mhas taken a left fork[0m
+      2404 074 [0mis sleeping[0m
+      2404 073 [0mhas taken a right fork[0m
+      2404 071 [0mhas taken a left fork[0m
+      2404 073 [32mis eating[0m
+      2404 072 [0mis sleeping[0m
+      2404 071 [0mhas taken a right fork[0m
+      2404 071 [32mis eating[0m
+      2404 077 [33mis thinking[0m
+      2404 076 [0mis sleeping[0m
+      2404 078 [0mis sleeping[0m
+      2404 079 [33mis thinking[0m
+      2404 075 [0mhas taken a left fork[0m
+      2404 075 [0mhas taken a right fork[0m
+      2404 075 [32mis eating[0m
+      2404 077 [0mhas taken a left fork[0m
+      2404 077 [0mhas taken a right fork[0m
+      2404 077 [32mis eating[0m
+      2405 099 [33mis thinking[0m
+      2405 003 [33mis thinking[0m
+      2405 009 [33mis thinking[0m
+      2405 087 [33mis thinking[0m
+      2405 089 [33mis thinking[0m
+      2405 002 [0mis sleeping[0m
+      2405 083 [33mis thinking[0m
+      2405 086 [0mis sleeping[0m
+      2405 088 [0mis sleeping[0m
+      2405 097 [33mis thinking[0m
+      2405 087 [0mhas taken a left fork[0m
+      2405 087 [0mhas taken a right fork[0m
+      2405 087 [32mis eating[0m
+      2405 007 [33mis thinking[0m
+      2405 095 [33mis thinking[0m
+      2405 094 [0mis sleeping[0m
+      2405 091 [33mis thinking[0m
+      2405 005 [33mis thinking[0m
+      2405 010 [0mis sleeping[0m
+      2405 011 [0mhas taken a right fork[0m
+      2405 011 [32mis eating[0m
+      2405 009 [0mhas taken a left fork[0m
+      2405 098 [0mis sleeping[0m
+      2405 097 [0mhas taken a left fork[0m
+      2405 093 [33mis thinking[0m
+      2405 093 [0mhas taken a left fork[0m
+      2405 006 [0mis sleeping[0m
+      2405 005 [0mhas taken a left fork[0m
+      2405 085 [33mis thinking[0m
+      2405 085 [0mhas taken a left fork[0m
+      2405 008 [0mis sleeping[0m
+      2405 007 [0mhas taken a left fork[0m
+      2405 007 [0mhas taken a right fork[0m
+      2405 007 [32mis eating[0m
+      2405 009 [0mhas taken a right fork[0m
+      2405 082 [0mis sleeping[0m
+      2405 085 [0mhas taken a right fork[0m
+      2405 084 [0mis sleeping[0m
+      2405 083 [0mhas taken a left fork[0m
+      2405 083 [0mhas taken a right fork[0m
+      2405 083 [32mis eating[0m
+      2405 085 [32mis eating[0m
+      2405 009 [32mis eating[0m
+      2405 092 [0mis sleeping[0m
+      2405 093 [0mhas taken a right fork[0m
+      2405 093 [32mis eating[0m
+      2405 080 [0mis sleeping[0m
+      2405 001 [33mis thinking[0m
+      2405 100 [0mis sleeping[0m
+      2405 091 [0mhas taken a left fork[0m
+      2405 003 [0mhas taken a left fork[0m
+      2405 099 [0mhas taken a left fork[0m
+      2405 079 [0mhas taken a left fork[0m
+      2405 003 [0mhas taken a right fork[0m
+      2405 005 [0mhas taken a right fork[0m
+      2405 079 [0mhas taken a right fork[0m
+      2405 079 [32mis eating[0m
+      2405 001 [0mhas taken a left fork[0m
+      2405 099 [0mhas taken a right fork[0m
+      2405 001 [0mhas taken a right fork[0m
+      2405 005 [32mis eating[0m
+      2405 001 [32mis eating[0m
+      2405 099 [32mis eating[0m
+      2405 090 [0mis sleeping[0m
+      2405 081 [33mis thinking[0m
+      2405 091 [0mhas taken a right fork[0m
+      2405 004 [0mis sleeping[0m
+      2405 097 [0mhas taken a right fork[0m
+      2405 091 [32mis eating[0m
+      2405 097 [32mis eating[0m
+      2405 095 [0mhas taken a left fork[0m
+      2405 003 [32mis eating[0m
+      2405 089 [0mhas taken a left fork[0m
+      2405 089 [0mhas taken a right fork[0m
+      2405 081 [0mhas taken a left fork[0m
+      2405 089 [32mis eating[0m
+      2405 081 [0mhas taken a right fork[0m
+      2405 081 [32mis eating[0m
+      2405 096 [0mis sleeping[0m
+      2405 095 [0mhas taken a right fork[0m
+      2405 095 [32mis eating[0m
+      2602 020 [33mis thinking[0m
+      2602 015 [0mis sleeping[0m
+      2602 014 [33mis thinking[0m
+      2602 014 [0mhas taken a left fork[0m
+      2602 021 [0mis sleeping[0m
+      2602 020 [0mhas taken a left fork[0m
+      2602 012 [33mis thinking[0m
+      2602 018 [33mis thinking[0m
+      2602 022 [33mis thinking[0m
+      2602 016 [33mis thinking[0m
+      2602 020 [0mhas taken a right fork[0m
+      2602 020 [32mis eating[0m
+      2602 013 [0mis sleeping[0m
+      2602 014 [0mhas taken a right fork[0m
+      2602 014 [32mis eating[0m
+      2602 019 [0mis sleeping[0m
+      2602 012 [0mhas taken a left fork[0m
+      2602 018 [0mhas taken a left fork[0m
+      2602 018 [0mhas taken a right fork[0m
+      2602 018 [32mis eating[0m
+      2602 016 [0mhas taken a left fork[0m
+      2602 016 [0mhas taken a right fork[0m
+      2602 016 [32mis eating[0m
+      2602 017 [0mis sleeping[0m
+      2602 032 [33mis thinking[0m
+      2602 038 [33mis thinking[0m
+      2602 040 [33mis thinking[0m
+      2602 031 [0mis sleeping[0m
+      2602 030 [33mis thinking[0m
+      2602 034 [33mis thinking[0m
+      2602 028 [33mis thinking[0m
+      2602 026 [33mis thinking[0m
+      2602 039 [0mis sleeping[0m
+      2602 030 [0mhas taken a left fork[0m
+      2602 029 [0mis sleeping[0m
+      2602 030 [0mhas taken a right fork[0m
+      2602 024 [33mis thinking[0m
+      2603 030 [32mis eating[0m
+      2603 050 [33mis thinking[0m
+      2603 033 [0mis sleeping[0m
+      2603 032 [0mhas taken a left fork[0m
+      2603 032 [0mhas taken a right fork[0m
+      2603 038 [0mhas taken a left fork[0m
+      2603 034 [0mhas taken a left fork[0m
+      2603 034 [0mhas taken a right fork[0m
+      2603 034 [32mis eating[0m
+      2603 046 [33mis thinking[0m
+      2603 032 [32mis eating[0m
+      2603 035 [0mis sleeping[0m
+      2603 028 [0mhas taken a left fork[0m
+      2603 036 [33mis thinking[0m
+      2603 042 [33mis thinking[0m
+      2603 049 [0mis sleeping[0m
+      2603 027 [0mis sleeping[0m
+      2603 036 [0mhas taken a left fork[0m
+      2603 025 [0mis sleeping[0m
+      2603 042 [0mhas taken a left fork[0m
+      2603 024 [0mhas taken a left fork[0m
+      2603 036 [0mhas taken a right fork[0m
+      2603 043 [0mis sleeping[0m
+      2603 048 [33mis thinking[0m
+      2603 037 [0mis sleeping[0m
+      2603 038 [0mhas taken a right fork[0m
+      2603 048 [0mhas taken a left fork[0m
+      2603 026 [0mhas taken a left fork[0m
+      2603 038 [32mis eating[0m
+      2603 042 [0mhas taken a right fork[0m
+      2603 045 [0mis sleeping[0m
+      2603 042 [32mis eating[0m
+      2603 047 [0mis sleeping[0m
+      2603 041 [0mis sleeping[0m
+      2603 024 [0mhas taken a right fork[0m
+      2603 040 [0mhas taken a left fork[0m
+      2603 028 [0mhas taken a right fork[0m
+      2603 026 [0mhas taken a right fork[0m
+      2603 024 [32mis eating[0m
+      2603 046 [0mhas taken a left fork[0m
+      2603 023 [0mis sleeping[0m
+      2603 026 [32mis eating[0m
+      2603 048 [0mhas taken a right fork[0m
+      2603 044 [33mis thinking[0m
+      2603 028 [32mis eating[0m
+      2603 044 [0mhas taken a left fork[0m
+      2603 036 [32mis eating[0m
+      2603 044 [0mhas taken a right fork[0m
+      2603 022 [0mhas taken a left fork[0m
+      2603 048 [32mis eating[0m
+      2603 022 [0mhas taken a right fork[0m
+      2603 022 [32mis eating[0m
+      2603 046 [0mhas taken a right fork[0m
+      2603 044 [32mis eating[0m
+      2603 040 [0mhas taken a right fork[0m
+      2603 040 [32mis eating[0m
+      2603 046 [32mis eating[0m
+      2603 052 [33mis thinking[0m
+      2603 051 [0mis sleeping[0m
+      2603 050 [0mhas taken a left fork[0m
+      2603 050 [0mhas taken a right fork[0m
+      2603 050 [32mis eating[0m
+      2603 056 [33mis thinking[0m
+      2603 055 [0mis sleeping[0m
+      2603 054 [33mis thinking[0m
+      2603 054 [0mhas taken a left fork[0m
+      2603 057 [0mis sleeping[0m
+      2603 056 [0mhas taken a left fork[0m
+      2603 053 [0mis sleeping[0m
+      2603 052 [0mhas taken a left fork[0m
+      2603 054 [0mhas taken a right fork[0m
+      2603 052 [0mhas taken a right fork[0m
+      2603 052 [32mis eating[0m
+      2603 054 [32mis eating[0m
+      2603 056 [0mhas taken a right fork[0m
+      2603 056 [32mis eating[0m
+      2603 058 [33mis thinking[0m
+      2603 060 [33mis thinking[0m
+      2603 059 [0mis sleeping[0m
+      2603 058 [0mhas taken a left fork[0m
+      2603 058 [0mhas taken a right fork[0m
+      2603 058 [32mis eating[0m
+      2603 062 [33mis thinking[0m
+      2603 061 [0mis sleeping[0m
+      2603 060 [0mhas taken a left fork[0m
+      2603 060 [0mhas taken a right fork[0m
+      2603 060 [32mis eating[0m
+      2603 064 [33mis thinking[0m
+      2603 063 [0mis sleeping[0m
+      2603 062 [0mhas taken a left fork[0m
+      2603 062 [0mhas taken a right fork[0m
+      2603 062 [32mis eating[0m
+      2603 068 [33mis thinking[0m
+      2603 066 [33mis thinking[0m
+      2603 067 [0mis sleeping[0m
+      2603 064 [0mhas taken a left fork[0m
+      2603 066 [0mhas taken a left fork[0m
+      2603 064 [0mhas taken a right fork[0m
+      2603 066 [0mhas taken a right fork[0m
+      2603 069 [0mis sleeping[0m
+      2603 066 [32mis eating[0m
+      2603 070 [33mis thinking[0m
+      2603 064 [32mis eating[0m
+      2603 065 [0mis sleeping[0m
+      2603 068 [0mhas taken a left fork[0m
+      2603 068 [0mhas taken a right fork[0m
+      2603 068 [32mis eating[0m
+      2604 074 [33mis thinking[0m
+      2604 073 [0mis sleeping[0m
+      2604 072 [33mis thinking[0m
+      2604 071 [0mis sleeping[0m
+      2604 070 [0mhas taken a left fork[0m
+      2604 070 [0mhas taken a right fork[0m
+      2604 070 [32mis eating[0m
+      2604 072 [0mhas taken a left fork[0m
+      2604 072 [0mhas taken a right fork[0m
+      2604 072 [32mis eating[0m
+      2604 075 [0mis sleeping[0m
+      2604 074 [0mhas taken a left fork[0m
+      2604 074 [0mhas taken a right fork[0m
+      2604 074 [32mis eating[0m
+      2604 078 [33mis thinking[0m
+      2604 077 [0mis sleeping[0m
+      2604 076 [33mis thinking[0m
+      2604 076 [0mhas taken a left fork[0m
+      2604 076 [0mhas taken a right fork[0m
+      2604 076 [32mis eating[0m
+      2605 086 [33mis thinking[0m
+      2605 088 [33mis thinking[0m
+      2605 094 [33mis thinking[0m
+      2605 087 [0mis sleeping[0m
+      2605 002 [33mis thinking[0m
+      2605 086 [0mhas taken a left fork[0m
+      2605 010 [33mis thinking[0m
+      2605 011 [0mis sleeping[0m
+      2605 012 [0mhas taken a right fork[0m
+      2605 012 [32mis eating[0m
+      2605 010 [0mhas taken a left fork[0m
+      2605 098 [33mis thinking[0m
+      2605 006 [33mis thinking[0m
+      2605 085 [0mis sleeping[0m
+      2605 086 [0mhas taken a right fork[0m
+      2605 086 [32mis eating[0m
+      2605 007 [0mis sleeping[0m
+      2605 008 [33mis thinking[0m
+      2605 082 [33mis thinking[0m
+      2605 084 [33mis thinking[0m
+      2605 084 [0mhas taken a left fork[0m
+      2605 006 [0mhas taken a left fork[0m
+      2605 083 [0mis sleeping[0m
+      2605 084 [0mhas taken a right fork[0m
+      2605 082 [0mhas taken a left fork[0m
+      2605 009 [0mis sleeping[0m
+      2605 008 [0mhas taken a left fork[0m
+      2605 008 [0mhas taken a right fork[0m
+      2605 008 [32mis eating[0m
+      2605 084 [32mis eating[0m
+      2605 010 [0mhas taken a right fork[0m
+      2605 010 [32mis eating[0m
+      2605 092 [33mis thinking[0m
+      2605 005 [0mis sleeping[0m
+      2605 006 [0mhas taken a right fork[0m
+      2605 006 [32mis eating[0m
+      2605 080 [33mis thinking[0m
+      2605 093 [0mis sleeping[0m
+      2605 003 [0mis sleeping[0m
+      2605 079 [0mis sleeping[0m
+      2605 092 [0mhas taken a left fork[0m
+      2605 081 [0mis sleeping[0m
+      2605 099 [0mis sleeping[0m
+      2605 091 [0mis sleeping[0m
+      2605 100 [33mis thinking[0m
+      2605 097 [0mis sleeping[0m
+      2605 089 [0mis sleeping[0m
+      2605 080 [0mhas taken a left fork[0m
+      2605 092 [0mhas taken a right fork[0m
+      2605 002 [0mhas taken a left fork[0m
+      2605 002 [0mhas taken a right fork[0m
+      2605 001 [0mis sleeping[0m
+      2605 092 [32mis eating[0m
+      2605 100 [0mhas taken a left fork[0m
+      2605 004 [33mis thinking[0m
+      2605 095 [0mis sleeping[0m
+      2605 100 [0mhas taken a right fork[0m
+      2605 002 [32mis eating[0m
+      2605 094 [0mhas taken a left fork[0m
+      2605 098 [0mhas taken a left fork[0m
+      2605 100 [32mis eating[0m
+      2605 094 [0mhas taken a right fork[0m
+      2605 098 [0mhas taken a right fork[0m
+      2605 098 [32mis eating[0m
+      2605 004 [0mhas taken a left fork[0m
+      2605 078 [0mhas taken a left fork[0m
+      2605 090 [33mis thinking[0m
+      2605 090 [0mhas taken a left fork[0m
+      2605 090 [0mhas taken a right fork[0m
+      2605 090 [32mis eating[0m
+      2605 004 [0mhas taken a right fork[0m
+      2605 004 [32mis eating[0m
+      2605 078 [0mhas taken a right fork[0m
+      2605 078 [32mis eating[0m
+      2605 082 [0mhas taken a right fork[0m
+      2605 082 [32mis eating[0m
+      2605 080 [0mhas taken a right fork[0m
+      2605 080 [32mis eating[0m
+      2605 096 [33mis thinking[0m
+      2605 096 [0mhas taken a left fork[0m
+      2605 096 [0mhas taken a right fork[0m
+      2605 096 [32mis eating[0m
+      2605 088 [0mhas taken a left fork[0m
+      2605 088 [0mhas taken a right fork[0m
+      2605 088 [32mis eating[0m
+      2605 094 [32mis eating[0m
+      2802 021 [33mis thinking[0m
+      2802 014 [0mis sleeping[0m
+      2802 015 [33mis thinking[0m
+      2802 020 [0mis sleeping[0m
+      2802 018 [0mis sleeping[0m
+      2802 013 [33mis thinking[0m
+      2802 013 [0mhas taken a left fork[0m
+      2802 016 [0mis sleeping[0m
+      2802 015 [0mhas taken a left fork[0m
+      2802 015 [0mhas taken a right fork[0m
+      2802 015 [32mis eating[0m
+      2802 017 [33mis thinking[0m
+      2802 017 [0mhas taken a left fork[0m
+      2802 017 [0mhas taken a right fork[0m
+      2802 019 [33mis thinking[0m
+      2802 019 [0mhas taken a left fork[0m
+      2802 019 [0mhas taken a right fork[0m
+      2802 019 [32mis eating[0m
+      2802 017 [32mis eating[0m
+      2803 039 [33mis thinking[0m
+      2803 033 [33mis thinking[0m
+      2803 031 [33mis thinking[0m
+      2803 035 [33mis thinking[0m
+      2803 030 [0mis sleeping[0m
+      2803 029 [33mis thinking[0m
+      2803 029 [0mhas taken a left fork[0m
+      2803 032 [0mis sleeping[0m
+      2803 031 [0mhas taken a left fork[0m
+      2803 031 [0mhas taken a right fork[0m
+      2803 031 [32mis eating[0m
+      2803 027 [33mis thinking[0m
+      2803 034 [0mis sleeping[0m
+      2803 033 [0mhas taken a left fork[0m
+      2803 033 [0mhas taken a right fork[0m
+      2803 033 [32mis eating[0m
+      2803 047 [33mis thinking[0m
+      2803 048 [0mis sleeping[0m
+      2803 047 [0mhas taken a left fork[0m
+      2803 049 [33mis thinking[0m
+      2803 044 [0mis sleeping[0m
+      2803 023 [33mis thinking[0m
+      2803 041 [33mis thinking[0m
+      2803 025 [33mis thinking[0m
+      2803 043 [33mis thinking[0m
+      2803 043 [0mhas taken a left fork[0m
+      2803 043 [0mhas taken a right fork[0m
+      2803 043 [32mis eating[0m
+      2803 024 [0mis sleeping[0m
+      2803 040 [0mis sleeping[0m
+      2803 045 [33mis thinking[0m
+      2803 042 [0mis sleeping[0m
+      2803 025 [0mhas taken a left fork[0m
+      2803 022 [0mis sleeping[0m
+      2803 039 [0mhas taken a left fork[0m
+      2803 025 [0mhas taken a right fork[0m
+      2803 038 [0mis sleeping[0m
+      2803 035 [0mhas taken a left fork[0m
+      2803 035 [0mhas taken a right fork[0m
+      2803 035 [32mis eating[0m
+      2803 021 [0mhas taken a left fork[0m
+      2803 047 [0mhas taken a right fork[0m
+      2803 028 [0mis sleeping[0m
+      2803 045 [0mhas taken a left fork[0m
+      2803 027 [0mhas taken a left fork[0m
+      2803 027 [0mhas taken a right fork[0m
+      2803 047 [32mis eating[0m
+      2803 039 [0mhas taken a right fork[0m
+      2803 046 [0mis sleeping[0m
+      2803 045 [0mhas taken a right fork[0m
+      2803 039 [32mis eating[0m
+      2803 021 [0mhas taken a right fork[0m
+      2803 036 [0mis sleeping[0m
+      2803 037 [33mis thinking[0m
+      2803 045 [32mis eating[0m
+      2803 021 [32mis eating[0m
+      2803 037 [0mhas taken a left fork[0m
+      2803 029 [0mhas taken a right fork[0m
+      2803 037 [0mhas taken a right fork[0m
+      2803 027 [32mis eating[0m
+      2803 029 [32mis eating[0m
+      2803 037 [32mis eating[0m
+      2803 026 [0mis sleeping[0m
+      2803 025 [32mis eating[0m
+      2803 041 [0mhas taken a left fork[0m
+      2803 041 [0mhas taken a right fork[0m
+      2803 041 [32mis eating[0m
+      2803 023 [0mhas taken a left fork[0m
+      2803 023 [0mhas taken a right fork[0m
+      2803 023 [32mis eating[0m
+      2803 051 [33mis thinking[0m
+      2803 050 [0mis sleeping[0m
+      2803 049 [0mhas taken a left fork[0m
+      2803 049 [0mhas taken a right fork[0m
+      2803 049 [32mis eating[0m
+      2803 055 [33mis thinking[0m
+      2803 052 [0mis sleeping[0m
+      2803 051 [0mhas taken a left fork[0m
+      2803 051 [0mhas taken a right fork[0m
+      2803 057 [33mis thinking[0m
+      2803 054 [0mis sleeping[0m
+      2803 053 [33mis thinking[0m
+      2803 053 [0mhas taken a left fork[0m
+      2803 053 [0mhas taken a right fork[0m
+      2803 053 [32mis eating[0m
+      2803 051 [32mis eating[0m
+      2803 056 [0mis sleeping[0m
+      2803 055 [0mhas taken a left fork[0m
+      2803 055 [0mhas taken a right fork[0m
+      2803 055 [32mis eating[0m
+      2803 059 [33mis thinking[0m
+      2803 058 [0mis sleeping[0m
+      2803 057 [0mhas taken a left fork[0m
+      2803 057 [0mhas taken a right fork[0m
+      2803 057 [32mis eating[0m
+      2803 061 [33mis thinking[0m
+      2803 060 [0mis sleeping[0m
+      2803 059 [0mhas taken a left fork[0m
+      2803 059 [0mhas taken a right fork[0m
+      2803 059 [32mis eating[0m
+      2803 063 [33mis thinking[0m
+      2803 062 [0mis sleeping[0m
+      2803 061 [0mhas taken a left fork[0m
+      2803 061 [0mhas taken a right fork[0m
+      2803 061 [32mis eating[0m
+      2803 069 [33mis thinking[0m
+      2803 066 [0mis sleeping[0m
+      2803 068 [0mis sleeping[0m
+      2804 067 [33mis thinking[0m
+      2804 067 [0mhas taken a left fork[0m
+      2804 067 [0mhas taken a right fork[0m
+      2804 067 [32mis eating[0m
+      2804 064 [0mis sleeping[0m
+      2804 065 [33mis thinking[0m
+      2804 065 [0mhas taken a left fork[0m
+      2804 065 [0mhas taken a right fork[0m
+      2804 065 [32mis eating[0m
+      2804 063 [0mhas taken a left fork[0m
+      2804 063 [0mhas taken a right fork[0m
+      2804 063 [32mis eating[0m
+      2804 073 [33mis thinking[0m
+      2804 071 [33mis thinking[0m
+      2804 070 [0mis sleeping[0m
+      2804 069 [0mhas taken a left fork[0m
+      2804 069 [0mhas taken a right fork[0m
+      2804 069 [32mis eating[0m
+      2804 072 [0mis sleeping[0m
+      2804 071 [0mhas taken a left fork[0m
+      2804 071 [0mhas taken a right fork[0m
+      2804 071 [32mis eating[0m
+      2804 075 [33mis thinking[0m
+      2804 077 [33mis thinking[0m
+      2804 076 [0mis sleeping[0m
+      2804 075 [0mhas taken a left fork[0m
+      2804 074 [0mis sleeping[0m
+      2804 075 [0mhas taken a right fork[0m
+      2804 075 [32mis eating[0m
+      2804 073 [0mhas taken a left fork[0m
+      2804 073 [0mhas taken a right fork[0m
+      2804 073 [32mis eating[0m
+      2805 012 [0mis sleeping[0m
+      2805 011 [33mis thinking[0m
+      2805 011 [0mhas taken a left fork[0m
+      2805 013 [0mhas taken a right fork[0m
+      2805 013 [32mis eating[0m
+      2805 085 [33mis thinking[0m
+      2805 087 [33mis thinking[0m
+      2805 007 [33mis thinking[0m
+      2805 084 [0mis sleeping[0m
+      2805 086 [0mis sleeping[0m
+      2805 085 [0mhas taken a left fork[0m
+      2805 085 [0mhas taken a right fork[0m
+      2805 085 [32mis eating[0m
+      2805 083 [33mis thinking[0m
+      2805 083 [0mhas taken a left fork[0m
+      2805 009 [33mis thinking[0m
+      2805 008 [0mis sleeping[0m
+      2805 007 [0mhas taken a left fork[0m
+      2805 010 [0mis sleeping[0m
+      2805 009 [0mhas taken a left fork[0m
+      2805 009 [0mhas taken a right fork[0m
+      2805 011 [0mhas taken a right fork[0m
+      2805 011 [32mis eating[0m
+      2805 009 [32mis eating[0m
+      2805 005 [33mis thinking[0m
+      2805 002 [0mis sleeping[0m
+      2805 099 [33mis thinking[0m
+      2805 093 [33mis thinking[0m
+      2805 095 [33mis thinking[0m
+      2805 100 [0mis sleeping[0m
+      2805 001 [33mis thinking[0m
+      2805 001 [0mhas taken a left fork[0m
+      2805 001 [0mhas taken a right fork[0m
+      2805 001 [32mis eating[0m
+      2805 006 [0mis sleeping[0m
+      2805 089 [33mis thinking[0m
+      2805 089 [0mhas taken a left fork[0m
+      2805 003 [33mis thinking[0m
+      2805 004 [0mis sleeping[0m
+      2805 003 [0mhas taken a left fork[0m
+      2805 003 [0mhas taken a right fork[0m
+      2805 003 [32mis eating[0m
+      2805 078 [0mis sleeping[0m
+      2805 082 [0mis sleeping[0m
+      2805 091 [33mis thinking[0m
+      2805 091 [0mhas taken a left fork[0m
+      2805 091 [0mhas taken a right fork[0m
+      2805 091 [32mis eating[0m
+      2805 005 [0mhas taken a left fork[0m
+      2805 083 [0mhas taken a right fork[0m
+      2805 083 [32mis eating[0m
+      2805 005 [0mhas taken a right fork[0m
+      2805 005 [32mis eating[0m
+      2805 079 [33mis thinking[0m
+      2805 077 [0mhas taken a left fork[0m
+      2805 007 [0mhas taken a right fork[0m
+      2805 077 [0mhas taken a right fork[0m
+      2805 099 [0mhas taken a left fork[0m
+      2805 077 [32mis eating[0m
+      2805 097 [33mis thinking[0m
+      2805 099 [0mhas taken a right fork[0m
+      2805 097 [0mhas taken a left fork[0m
+      2805 080 [0mis sleeping[0m
+      2805 007 [32mis eating[0m
+      2805 098 [0mis sleeping[0m
+      2805 096 [0mis sleeping[0m
+      2805 095 [0mhas taken a left fork[0m
+      2805 099 [32mis eating[0m
+      2805 092 [0mis sleeping[0m
+      2805 097 [0mhas taken a right fork[0m
+      2805 090 [0mis sleeping[0m
+      2805 079 [0mhas taken a left fork[0m
+      2805 079 [0mhas taken a right fork[0m
+      2805 081 [33mis thinking[0m
+      2805 097 [32mis eating[0m
+      2805 081 [0mhas taken a left fork[0m
+      2805 081 [0mhas taken a right fork[0m
+      2805 081 [32mis eating[0m
+      2805 079 [32mis eating[0m
+      2805 089 [0mhas taken a right fork[0m
+      2805 089 [32mis eating[0m
+      2805 088 [0mis sleeping[0m
+      2805 087 [0mhas taken a left fork[0m
+      2805 087 [0mhas taken a right fork[0m
+      2805 087 [32mis eating[0m
+      2805 094 [0mis sleeping[0m
+      2805 095 [0mhas taken a right fork[0m
+      2805 095 [32mis eating[0m
+      2805 093 [0mhas taken a left fork[0m
+      2805 093 [0mhas taken a right fork[0m
+      2805 093 [32mis eating[0m
+      3002 014 [33mis thinking[0m
+      3002 018 [33mis thinking[0m
+      3002 016 [33mis thinking[0m
+      3002 020 [33mis thinking[0m
+      3002 014 [0mhas taken a left fork[0m
+      3002 015 [0mis sleeping[0m
+      3003 017 [0mis sleeping[0m
+      3003 016 [0mhas taken a left fork[0m
+      3003 016 [0mhas taken a right fork[0m
+      3003 016 [32mis eating[0m
+      3003 019 [0mis sleeping[0m
+      3003 018 [0mhas taken a left fork[0m
+      3003 018 [0mhas taken a right fork[0m
+      3003 018 [32mis eating[0m
+      3003 030 [33mis thinking[0m
+      3003 033 [0mis sleeping[0m
+      3003 032 [33mis thinking[0m
+      3003 034 [33mis thinking[0m
+      3003 030 [0mhas taken a left fork[0m
+      3003 031 [0mis sleeping[0m
+      3003 032 [0mhas taken a left fork[0m
+      3003 032 [0mhas taken a right fork[0m
+      3003 032 [32mis eating[0m
+      3003 048 [33mis thinking[0m
+      3003 044 [33mis thinking[0m
+      3003 035 [0mis sleeping[0m
+      3003 034 [0mhas taken a left fork[0m
+      3003 034 [0mhas taken a right fork[0m
+      3003 034 [32mis eating[0m
+      3003 042 [33mis thinking[0m
+      3003 039 [0mis sleeping[0m
+      3003 024 [33mis thinking[0m
+      3003 040 [33mis thinking[0m
+      3003 036 [33mis thinking[0m
+      3003 028 [33mis thinking[0m
+      3003 047 [0mis sleeping[0m
+      3003 022 [33mis thinking[0m
+      3003 026 [33mis thinking[0m
+      3003 042 [0mhas taken a left fork[0m
+      3003 043 [0mis sleeping[0m
+      3003 037 [0mis sleeping[0m
+      3003 030 [0mhas taken a right fork[0m
+      3003 029 [0mis sleeping[0m
+      3003 036 [0mhas taken a left fork[0m
+      3003 036 [0mhas taken a right fork[0m
+      3003 036 [32mis eating[0m
+      3003 038 [33mis thinking[0m
+      3003 038 [0mhas taken a left fork[0m
+      3003 038 [0mhas taken a right fork[0m
+      3003 038 [32mis eating[0m
+      3003 021 [0mis sleeping[0m
+      3003 020 [0mhas taken a left fork[0m
+      3003 020 [0mhas taken a right fork[0m
+      3003 020 [32mis eating[0m
+      3003 028 [0mhas taken a left fork[0m
+      3003 041 [0mis sleeping[0m
+      3003 028 [0mhas taken a right fork[0m
+      3003 028 [32mis eating[0m
+      3003 025 [0mis sleeping[0m
+      3003 040 [0mhas taken a left fork[0m
+      3003 040 [0mhas taken a right fork[0m
+      3003 040 [32mis eating[0m
+      3003 023 [0mis sleeping[0m
+      3003 044 [0mhas taken a left fork[0m
+      3003 044 [0mhas taken a right fork[0m
+      3003 044 [32mis eating[0m
+      3003 024 [0mhas taken a left fork[0m
+      3003 024 [0mhas taken a right fork[0m
+      3003 024 [32mis eating[0m
+      3003 046 [33mis thinking[0m
+      3003 046 [0mhas taken a left fork[0m
+      3003 046 [0mhas taken a right fork[0m
+      3003 046 [32mis eating[0m
+      3003 030 [32mis eating[0m
+      3003 022 [0mhas taken a left fork[0m
+      3003 022 [0mhas taken a right fork[0m
+      3003 022 [32mis eating[0m
+      3003 027 [0mis sleeping[0m
+      3003 026 [0mhas taken a left fork[0m
+      3003 026 [0mhas taken a right fork[0m
+      3003 026 [32mis eating[0m
+      3003 042 [0mhas taken a right fork[0m
+      3003 042 [32mis eating[0m
+      3003 050 [33mis thinking[0m
+      3003 049 [0mis sleeping[0m
+      3003 048 [0mhas taken a left fork[0m
+      3003 048 [0mhas taken a right fork[0m
+      3003 048 [32mis eating[0m
+      3003 045 [0mis sleeping[0m
+      3003 052 [33mis thinking[0m
+      3003 051 [0mis sleeping[0m
+      3003 054 [33mis thinking[0m
+      3003 056 [33mis thinking[0m
+      3003 053 [0mis sleeping[0m
+      3003 052 [0mhas taken a left fork[0m
+      3003 052 [0mhas taken a right fork[0m
+      3003 052 [32mis eating[0m
+      3003 055 [0mis sleeping[0m
+      3003 050 [0mhas taken a left fork[0m
+      3003 050 [0mhas taken a right fork[0m
+      3003 050 [32mis eating[0m
+      3003 054 [0mhas taken a left fork[0m
+      3003 054 [0mhas taken a right fork[0m
+      3003 054 [32mis eating[0m
+      3003 058 [33mis thinking[0m
+      3003 057 [0mis sleeping[0m
+      3003 056 [0mhas taken a left fork[0m
+      3003 056 [0mhas taken a right fork[0m
+      3003 056 [32mis eating[0m
+      3003 060 [33mis thinking[0m
+      3003 059 [0mis sleeping[0m
+      3003 058 [0mhas taken a left fork[0m
+      3003 058 [0mhas taken a right fork[0m
+      3003 058 [32mis eating[0m
+      3003 062 [33mis thinking[0m
+      3003 061 [0mis sleeping[0m
+      3003 060 [0mhas taken a left fork[0m
+      3003 060 [0mhas taken a right fork[0m
+      3003 060 [32mis eating[0m
+      3004 063 [0mis sleeping[0m
+      3004 062 [0mhas taken a left fork[0m
+      3004 062 [0mhas taken a right fork[0m
+      3004 062 [32mis eating[0m
+      3004 066 [33mis thinking[0m
+      3004 068 [33mis thinking[0m
+      3004 067 [0mis sleeping[0m
+      3004 066 [0mhas taken a left fork[0m
+      3004 064 [33mis thinking[0m
+      3004 065 [0mis sleeping[0m
+      3004 064 [0mhas taken a left fork[0m
+      3004 064 [0mhas taken a right fork[0m
+      3004 064 [32mis eating[0m
+      3004 066 [0mhas taken a right fork[0m
+      3004 066 [32mis eating[0m
+      3004 070 [33mis thinking[0m
+      3004 069 [0mis sleeping[0m
+      3004 072 [33mis thinking[0m
+      3004 068 [0mhas taken a left fork[0m
+      3004 068 [0mhas taken a right fork[0m
+      3004 068 [32mis eating[0m
+      3004 071 [0mis sleeping[0m
+      3004 070 [0mhas taken a left fork[0m
+      3004 070 [0mhas taken a right fork[0m
+      3004 070 [32mis eating[0m
+      3004 076 [33mis thinking[0m
+      3004 075 [0mis sleeping[0m
+      3004 073 [0mis sleeping[0m
+      3004 072 [0mhas taken a left fork[0m
+      3004 072 [0mhas taken a right fork[0m
+      3004 072 [32mis eating[0m
+      3004 074 [33mis thinking[0m
+      3004 074 [0mhas taken a left fork[0m
+      3004 074 [0mhas taken a right fork[0m
+      3004 074 [32mis eating[0m
+      3005 012 [33mis thinking[0m
+      3005 013 [0mis sleeping[0m
+      3005 014 [0mhas taken a right fork[0m
+      3005 014 [32mis eating[0m
+      3005 012 [0mhas taken a left fork[0m
+      3005 084 [33mis thinking[0m
+      3005 009 [0mis sleeping[0m
+      3005 086 [33mis thinking[0m
+      3005 008 [33mis thinking[0m
+      3005 008 [0mhas taken a left fork[0m
+      3005 010 [33mis thinking[0m
+      3005 085 [0mis sleeping[0m
+      3005 010 [0mhas taken a left fork[0m
+      3005 012 [0mhas taken a right fork[0m
+      3005 012 [32mis eating[0m
+      3005 011 [0mis sleeping[0m
+      3005 084 [0mhas taken a left fork[0m
+      3005 010 [0mhas taken a right fork[0m
+      3005 010 [32mis eating[0m
+      3005 100 [33mis thinking[0m
+      3005 078 [33mis thinking[0m
+      3005 002 [33mis thinking[0m
+      3005 077 [0mis sleeping[0m
+      3005 076 [0mhas taken a left fork[0m
+      3005 076 [0mhas taken a right fork[0m
+      3005 076 [32mis eating[0m
+      3005 004 [33mis thinking[0m
+      3005 082 [33mis thinking[0m
+      3005 096 [33mis thinking[0m
+      3005 005 [0mis sleeping[0m
+      3005 090 [33mis thinking[0m
+      3005 006 [33mis thinking[0m
+      3005 100 [0mhas taken a left fork[0m
+      3005 003 [0mis sleeping[0m
+      3005 092 [33mis thinking[0m
+      3005 004 [0mhas taken a left fork[0m
+      3005 001 [0mis sleeping[0m
+      3005 004 [0mhas taken a right fork[0m
+      3005 004 [32mis eating[0m
+      3005 006 [0mhas taken a left fork[0m
+      3005 006 [0mhas taken a right fork[0m
+      3005 006 [32mis eating[0m
+      3005 091 [0mis sleeping[0m
+      3005 083 [0mis sleeping[0m
+      3005 002 [0mhas taken a left fork[0m
+      3005 082 [0mhas taken a left fork[0m
+      3005 097 [0mis sleeping[0m
+      3005 002 [0mhas taken a right fork[0m
+      3005 084 [0mhas taken a right fork[0m
+      3005 096 [0mhas taken a left fork[0m
+      3005 002 [32mis eating[0m
+      3005 084 [32mis eating[0m
+      3005 008 [0mhas taken a right fork[0m
+      3005 008 [32mis eating[0m
+      3005 079 [0mis sleeping[0m
+      3005 088 [33mis thinking[0m
+      3005 078 [0mhas taken a left fork[0m
+      3005 078 [0mhas taken a right fork[0m
+      3005 081 [0mis sleeping[0m
+      3005 007 [0mis sleeping[0m
+      3005 098 [33mis thinking[0m
+      3005 099 [0mis sleeping[0m
+      3005 098 [0mhas taken a left fork[0m
+      3005 080 [33mis thinking[0m
+      3005 090 [0mhas taken a left fork[0m
+      3005 080 [0mhas taken a left fork[0m
+      3005 080 [0mhas taken a right fork[0m
+      3005 080 [32mis eating[0m
+      3005 078 [32mis eating[0m
+      3005 100 [0mhas taken a right fork[0m
+      3005 100 [32mis eating[0m
+      3005 087 [0mis sleeping[0m
+      3005 086 [0mhas taken a left fork[0m
+      3005 098 [0mhas taken a right fork[0m
+      3005 082 [0mhas taken a right fork[0m
+      3005 098 [32mis eating[0m
+      3005 086 [0mhas taken a right fork[0m
+      3005 086 [32mis eating[0m
+      3005 082 [32mis eating[0m
+      3005 089 [0mis sleeping[0m
+      3005 092 [0mhas taken a left fork[0m
+      3005 092 [0mhas taken a right fork[0m
+      3005 092 [32mis eating[0m
+      3005 088 [0mhas taken a left fork[0m
+      3005 088 [0mhas taken a right fork[0m
+      3005 088 [32mis eating[0m
+      3005 093 [0mis sleeping[0m
+      3005 094 [33mis thinking[0m
+      3005 096 [0mhas taken a right fork[0m
+      3005 096 [32mis eating[0m
+      3005 090 [0mhas taken a right fork[0m
+      3005 095 [0mis sleeping[0m
+      3005 094 [0mhas taken a left fork[0m
+      3005 094 [0mhas taken a right fork[0m
+      3005 094 [32mis eating[0m
+      3005 090 [32mis eating[0m
+      3203 015 [33mis thinking[0m
+      3203 017 [33mis thinking[0m
+      3203 019 [33mis thinking[0m
+      3203 016 [0mis sleeping[0m
+      3203 015 [0mhas taken a left fork[0m
+      3203 017 [0mhas taken a left fork[0m
+      3203 017 [0mhas taken a right fork[0m
+      3203 017 [32mis eating[0m
+      3203 018 [0mis sleeping[0m
+      3203 031 [33mis thinking[0m
+      3203 033 [33mis thinking[0m
+      3203 032 [0mis sleeping[0m
+      3203 031 [0mhas taken a left fork[0m
+      3203 035 [33mis thinking[0m
+      3203 043 [33mis thinking[0m
+      3203 034 [0mis sleeping[0m
+      3203 033 [0mhas taken a left fork[0m
+      3203 033 [0mhas taken a right fork[0m
+      3203 033 [32mis eating[0m
+      3203 039 [33mis thinking[0m
+      3203 047 [33mis thinking[0m
+      3203 036 [0mis sleeping[0m
+      3203 035 [0mhas taken a left fork[0m
+      3203 035 [0mhas taken a right fork[0m
+      3203 035 [32mis eating[0m
+      3203 037 [33mis thinking[0m
+      3203 020 [0mis sleeping[0m
+      3203 019 [0mhas taken a left fork[0m
+      3203 019 [0mhas taken a right fork[0m
+      3203 019 [32mis eating[0m
+      3203 029 [33mis thinking[0m
+      3203 023 [33mis thinking[0m
+      3203 021 [33mis thinking[0m
+      3203 028 [0mis sleeping[0m
+      3203 037 [0mhas taken a left fork[0m
+      3203 037 [0mhas taken a right fork[0m
+      3203 037 [32mis eating[0m
+      3203 049 [33mis thinking[0m
+      3203 027 [33mis thinking[0m
+      3203 024 [0mis sleeping[0m
+      3203 025 [33mis thinking[0m
+      3203 027 [0mhas taken a left fork[0m
+      3203 023 [0mhas taken a left fork[0m
+      3203 040 [0mis sleeping[0m
+      3203 047 [0mhas taken a left fork[0m
+      3203 026 [0mis sleeping[0m
+      3203 042 [0mis sleeping[0m
+      3203 029 [0mhas taken a left fork[0m
+      3203 029 [0mhas taken a right fork[0m
+      3203 047 [0mhas taken a right fork[0m
+      3203 041 [33mis thinking[0m
+      3203 048 [0mis sleeping[0m
+      3203 027 [0mhas taken a right fork[0m
+      3203 044 [0mis sleeping[0m
+      3203 030 [0mis sleeping[0m
+      3203 027 [32mis eating[0m
+      3203 029 [32mis eating[0m
+      3203 047 [32mis eating[0m
+      3203 039 [0mhas taken a left fork[0m
+      3203 038 [0mis sleeping[0m
+      3203 039 [0mhas taken a right fork[0m
+      3203 039 [32mis eating[0m
+      3203 046 [0mis sleeping[0m
+      3203 025 [0mhas taken a left fork[0m
+      3203 025 [0mhas taken a right fork[0m
+      3203 021 [0mhas taken a left fork[0m
+      3203 021 [0mhas taken a right fork[0m
+      3203 021 [32mis eating[0m
+      3203 025 [32mis eating[0m
+      3203 031 [0mhas taken a right fork[0m
+      3203 023 [0mhas taken a right fork[0m
+      3203 023 [32mis eating[0m
+      3203 043 [0mhas taken a left fork[0m
+      3203 043 [0mhas taken a right fork[0m
+      3203 043 [32mis eating[0m
+      3203 031 [32mis eating[0m
+      3203 022 [0mis sleeping[0m
+      3203 041 [0mhas taken a left fork[0m
+      3203 041 [0mhas taken a right fork[0m
+      3203 041 [32mis eating[0m
+      3203 045 [33mis thinking[0m
+      3203 045 [0mhas taken a left fork[0m
+      3203 045 [0mhas taken a right fork[0m
+      3203 045 [32mis eating[0m
+      3203 051 [33mis thinking[0m
+      3203 053 [33mis thinking[0m
+      3203 052 [0mis sleeping[0m
+      3203 051 [0mhas taken a left fork[0m
+      3203 055 [33mis thinking[0m
+      3203 051 [0mhas taken a right fork[0m
+      3203 049 [0mhas taken a left fork[0m
+      3203 051 [32mis eating[0m
+      3203 053 [0mhas taken a left fork[0m
+      3203 053 [0mhas taken a right fork[0m
+      3203 053 [32mis eating[0m
+      3203 049 [0mhas taken a right fork[0m
+      3203 049 [32mis eating[0m
+      3203 050 [0mis sleeping[0m
+      3203 054 [0mis sleeping[0m
+      3203 057 [33mis thinking[0m
+      3203 056 [0mis sleeping[0m
+      3203 055 [0mhas taken a left fork[0m
+      3203 055 [0mhas taken a right fork[0m
+      3203 055 [32mis eating[0m
+      3203 059 [33mis thinking[0m
+      3203 058 [0mis sleeping[0m
+      3203 057 [0mhas taken a left fork[0m
+      3203 057 [0mhas taken a right fork[0m
+      3203 057 [32mis eating[0m
+      3203 060 [0mis sleeping[0m
+      3203 059 [0mhas taken a left fork[0m
+      3203 059 [0mhas taken a right fork[0m
+      3203 059 [32mis eating[0m
+      3203 061 [33mis thinking[0m
+      3204 063 [33mis thinking[0m
+      3204 062 [0mis sleeping[0m
+      3204 061 [0mhas taken a left fork[0m
+      3204 061 [0mhas taken a right fork[0m
+      3204 061 [32mis eating[0m
+      3204 067 [33mis thinking[0m
+      3204 065 [33mis thinking[0m
+      3204 064 [0mis sleeping[0m
+      3204 063 [0mhas taken a left fork[0m
+      3204 063 [0mhas taken a right fork[0m
+      3204 063 [32mis eating[0m
+      3204 066 [0mis sleeping[0m
+      3204 065 [0mhas taken a left fork[0m
+      3204 065 [0mhas taken a right fork[0m
+      3204 065 [32mis eating[0m
+      3204 069 [33mis thinking[0m
+      3204 068 [0mis sleeping[0m
+      3204 067 [0mhas taken a left fork[0m
+      3204 067 [0mhas taken a right fork[0m
+      3204 067 [32mis eating[0m
+      3204 071 [33mis thinking[0m
+      3204 070 [0mis sleeping[0m
+      3204 069 [0mhas taken a left fork[0m
+      3204 069 [0mhas taken a right fork[0m
+      3204 069 [32mis eating[0m
+      3204 075 [33mis thinking[0m
+      3204 073 [33mis thinking[0m
+      3204 072 [0mis sleeping[0m
+      3204 074 [0mis sleeping[0m
+      3204 071 [0mhas taken a left fork[0m
+      3204 071 [0mhas taken a right fork[0m
+      3204 073 [0mhas taken a left fork[0m
+      3204 073 [0mhas taken a right fork[0m
+      3204 073 [32mis eating[0m
+      3204 071 [32mis eating[0m
+      3205 014 [0mis sleeping[0m
+      3205 015 [0mhas taken a right fork[0m
+      3205 015 [32mis eating[0m
+      3205 013 [33mis thinking[0m
+      3205 013 [0mhas taken a left fork[0m
+      3205 011 [33mis thinking[0m
+      3205 013 [0mhas taken a right fork[0m
+      3205 013 [32mis eating[0m
+      3205 012 [0mis sleeping[0m
+      3205 011 [0mhas taken a left fork[0m
+      3205 011 [0mhas taken a right fork[0m
+      3205 011 [32mis eating[0m
+      3205 010 [0mis sleeping[0m
+      3205 077 [33mis thinking[0m
+      3205 004 [0mis sleeping[0m
+      3205 003 [33mis thinking[0m
+      3205 003 [0mhas taken a left fork[0m
+      3205 080 [0mis sleeping[0m
+      3205 100 [0mis sleeping[0m
+      3205 001 [33mis thinking[0m
+      3205 086 [0mis sleeping[0m
+      3205 081 [33mis thinking[0m
+      3205 097 [33mis thinking[0m
+      3205 091 [33mis thinking[0m
+      3205 005 [33mis thinking[0m
+      3205 007 [33mis thinking[0m
+      3205 097 [0mhas taken a left fork[0m
+      3205 079 [33mis thinking[0m
+      3205 006 [0mis sleeping[0m
+      3205 099 [33mis thinking[0m
+      3205 098 [0mis sleeping[0m
+      3205 085 [33mis thinking[0m
+      3205 003 [0mhas taken a right fork[0m
+      3205 009 [33mis thinking[0m
+      3205 083 [33mis thinking[0m
+      3205 009 [0mhas taken a left fork[0m
+      3205 009 [0mhas taken a right fork[0m
+      3205 001 [0mhas taken a left fork[0m
+      3205 009 [32mis eating[0m
+      3205 078 [0mis sleeping[0m
+      3205 081 [0mhas taken a left fork[0m
+      3205 008 [0mis sleeping[0m
+      3205 096 [0mis sleeping[0m
+      3205 076 [0mis sleeping[0m
+      3205 084 [0mis sleeping[0m
+      3205 083 [0mhas taken a left fork[0m
+      3205 087 [33mis thinking[0m
+      3205 088 [0mis sleeping[0m
+      3205 079 [0mhas taken a left fork[0m
+      3205 087 [0mhas taken a left fork[0m
+      3205 005 [0mhas taken a left fork[0m
+      3205 079 [0mhas taken a right fork[0m
+      3205 001 [0mhas taken a right fork[0m
+      3205 003 [32mis eating[0m
+      3205 077 [0mhas taken a left fork[0m
+      3205 079 [32mis eating[0m
+      3205 075 [0mhas taken a left fork[0m
+      3205 077 [0mhas taken a right fork[0m
+      3205 085 [0mhas taken a left fork[0m
+      3205 075 [0mhas taken a right fork[0m
+      3205 077 [32mis eating[0m
+      3205 089 [33mis thinking[0m
+      3205 082 [0mis sleeping[0m
+      3205 075 [32mis eating[0m
+      3205 094 [0mis sleeping[0m
+      3205 097 [0mhas taken a right fork[0m
+      3205 083 [0mhas taken a right fork[0m
+      3205 097 [32mis eating[0m
+      3205 001 [32mis eating[0m
+      3205 093 [33mis thinking[0m
+      3205 002 [0mis sleeping[0m
+      3205 090 [0mis sleeping[0m
+      3205 092 [0mis sleeping[0m
+      3205 005 [0mhas taken a right fork[0m
+      3205 005 [32mis eating[0m
+      3205 095 [33mis thinking[0m
+      3205 095 [0mhas taken a left fork[0m
+      3205 081 [0mhas taken a right fork[0m
+      3205 095 [0mhas taken a right fork[0m
+      3205 095 [32mis eating[0m
+      3205 085 [0mhas taken a right fork[0m
+      3205 099 [0mhas taken a left fork[0m
+      3205 087 [0mhas taken a right fork[0m
+      3205 099 [0mhas taken a right fork[0m
+      3205 099 [32mis eating[0m
+      3205 087 [32mis eating[0m
+      3205 083 [32mis eating[0m
+      3205 093 [0mhas taken a left fork[0m
+      3205 093 [0mhas taken a right fork[0m
+      3205 093 [32mis eating[0m
+      3205 091 [0mhas taken a left fork[0m
+      3205 091 [0mhas taken a right fork[0m
+      3205 089 [0mhas taken a left fork[0m
+      3205 089 [0mhas taken a right fork[0m
+      3205 081 [32mis eating[0m
+      3205 085 [32mis eating[0m
+      3205 091 [32mis eating[0m
+      3205 089 [32mis eating[0m
+      3205 007 [0mhas taken a left fork[0m
+      3205 007 [0mhas taken a right fork[0m
+      3205 007 [32mis eating[0m
+      3403 016 [33mis thinking[0m
+      3403 018 [33mis thinking[0m
+      3403 016 [0mhas taken a left fork[0m
+      3403 017 [0mis sleeping[0m
+      3403 032 [33mis thinking[0m
+      3403 020 [33mis thinking[0m
+      3403 034 [33mis thinking[0m
+      3403 032 [0mhas taken a left fork[0m
+      3403 034 [0mhas taken a left fork[0m
+      3403 034 [0mhas taken a right fork[0m
+      3403 034 [32mis eating[0m
+      3403 035 [0mis sleeping[0m
+      3403 033 [0mis sleeping[0m
+      3403 036 [33mis thinking[0m
+      3403 028 [33mis thinking[0m
+      3403 019 [0mis sleeping[0m
+      3403 018 [0mhas taken a left fork[0m
+      3403 018 [0mhas taken a right fork[0m
+      3403 018 [32mis eating[0m
+      3403 044 [33mis thinking[0m
+      3403 025 [0mis sleeping[0m
+      3403 037 [0mis sleeping[0m
+      3403 036 [0mhas taken a left fork[0m
+      3403 036 [0mhas taken a right fork[0m
+      3403 036 [32mis eating[0m
+      3403 030 [33mis thinking[0m
+      3403 039 [0mis sleeping[0m
+      3403 024 [33mis thinking[0m
+      3403 024 [0mhas taken a left fork[0m
+      3403 023 [0mis sleeping[0m
+      3403 024 [0mhas taken a right fork[0m
+      3403 024 [32mis eating[0m
+      3403 026 [33mis thinking[0m
+      3403 041 [0mis sleeping[0m
+      3403 040 [33mis thinking[0m
+      3403 042 [33mis thinking[0m
+      3403 040 [0mhas taken a left fork[0m
+      3403 021 [0mis sleeping[0m
+      3403 022 [33mis thinking[0m
+      3403 022 [0mhas taken a left fork[0m
+      3403 022 [0mhas taken a right fork[0m
+      3403 022 [32mis eating[0m
+      3403 031 [0mis sleeping[0m
+      3403 030 [0mhas taken a left fork[0m
+      3403 040 [0mhas taken a right fork[0m
+      3403 040 [32mis eating[0m
+      3403 029 [0mis sleeping[0m
+      3403 030 [0mhas taken a right fork[0m
+      3403 030 [32mis eating[0m
+      3403 020 [0mhas taken a left fork[0m
+      3403 032 [0mhas taken a right fork[0m
+      3403 046 [33mis thinking[0m
+      3403 047 [0mis sleeping[0m
+      3403 038 [33mis thinking[0m
+      3403 020 [0mhas taken a right fork[0m
+      3403 026 [0mhas taken a left fork[0m
+      3403 027 [0mis sleeping[0m
+      3403 038 [0mhas taken a left fork[0m
+      3403 038 [0mhas taken a right fork[0m
+      3403 020 [32mis eating[0m
+      3403 026 [0mhas taken a right fork[0m
+      3403 026 [32mis eating[0m
+      3403 042 [0mhas taken a left fork[0m
+      3403 038 [32mis eating[0m
+      3403 028 [0mhas taken a left fork[0m
+      3403 028 [0mhas taken a right fork[0m
+      3403 032 [32mis eating[0m
+      3403 048 [33mis thinking[0m
+      3403 042 [0mhas taken a right fork[0m
+      3403 042 [32mis eating[0m
+      3403 043 [0mis sleeping[0m
+      3403 028 [32mis eating[0m
+      3403 046 [0mhas taken a left fork[0m
+      3403 046 [0mhas taken a right fork[0m
+      3403 046 [32mis eating[0m
+      3403 045 [0mis sleeping[0m
+      3403 044 [0mhas taken a left fork[0m
+      3403 044 [0mhas taken a right fork[0m
+      3403 044 [32mis eating[0m
+      3403 052 [33mis thinking[0m
+      3403 051 [0mis sleeping[0m
+      3403 053 [0mis sleeping[0m
+      3403 052 [0mhas taken a left fork[0m
+      3403 052 [0mhas taken a right fork[0m
+      3403 052 [32mis eating[0m
+      3403 050 [33mis thinking[0m
+      3403 050 [0mhas taken a left fork[0m
+      3403 050 [0mhas taken a right fork[0m
+      3403 050 [32mis eating[0m
+      3403 054 [33mis thinking[0m
+      3403 048 [0mhas taken a left fork[0m
+      3403 048 [0mhas taken a right fork[0m
+      3403 048 [32mis eating[0m
+      3403 049 [0mis sleeping[0m
+      3403 056 [33mis thinking[0m
+      3403 056 [0mhas taken a left fork[0m
+      3403 055 [0mis sleeping[0m
+      3403 054 [0mhas taken a left fork[0m
+      3403 054 [0mhas taken a right fork[0m
+      3403 054 [32mis eating[0m
+      3403 057 [0mis sleeping[0m
+      3403 056 [0mhas taken a right fork[0m
+      3403 056 [32mis eating[0m
+      3403 058 [33mis thinking[0m
+      3403 060 [33mis thinking[0m
+      3403 059 [0mis sleeping[0m
+      3403 058 [0mhas taken a left fork[0m
+      3403 058 [0mhas taken a right fork[0m
+      3403 058 [32mis eating[0m
+      3404 062 [33mis thinking[0m
+      3404 061 [0mis sleeping[0m
+      3404 060 [0mhas taken a left fork[0m
+      3404 060 [0mhas taken a right fork[0m
+      3404 060 [32mis eating[0m
+      3404 064 [33mis thinking[0m
+      3404 063 [0mis sleeping[0m
+      3404 062 [0mhas taken a left fork[0m
+      3404 062 [0mhas taken a right fork[0m
+      3404 062 [32mis eating[0m
+      3404 066 [33mis thinking[0m
+      3404 065 [0mis sleeping[0m
+      3404 064 [0mhas taken a left fork[0m
+      3404 064 [0mhas taken a right fork[0m
+      3404 064 [32mis eating[0m
+      3404 068 [33mis thinking[0m
+      3404 067 [0mis sleeping[0m
+      3404 070 [33mis thinking[0m
+      3404 066 [0mhas taken a left fork[0m
+      3404 066 [0mhas taken a right fork[0m
+      3404 066 [32mis eating[0m
+      3404 069 [0mis sleeping[0m
+      3404 068 [0mhas taken a left fork[0m
+      3404 068 [0mhas taken a right fork[0m
+      3404 068 [32mis eating[0m
+      3404 072 [33mis thinking[0m
+      3404 074 [33mis thinking[0m
+      3404 073 [0mis sleeping[0m
+      3404 072 [0mhas taken a left fork[0m
+      3404 072 [0mhas taken a right fork[0m
+      3404 072 [32mis eating[0m
+      3404 071 [0mis sleeping[0m
+      3404 070 [0mhas taken a left fork[0m
+      3404 070 [0mhas taken a right fork[0m
+      3404 070 [32mis eating[0m
+      3405 014 [33mis thinking[0m
+      3405 015 [0mis sleeping[0m
+      3405 014 [0mhas taken a left fork[0m
+      3405 016 [0mhas taken a right fork[0m
+      3405 016 [32mis eating[0m
+      3405 013 [0mis sleeping[0m
+      3405 012 [33mis thinking[0m
+      3405 012 [0mhas taken a left fork[0m
+      3405 014 [0mhas taken a right fork[0m
+      3405 014 [32mis eating[0m
+      3405 011 [0mis sleeping[0m
+      3405 012 [0mhas taken a right fork[0m
+      3405 012 [32mis eating[0m
+      3405 004 [33mis thinking[0m
+      3405 010 [33mis thinking[0m
+      3405 010 [0mhas taken a left fork[0m
+      3405 080 [33mis thinking[0m
+      3405 076 [33mis thinking[0m
+      3405 100 [33mis thinking[0m
+      3405 086 [33mis thinking[0m
+      3405 078 [33mis thinking[0m
+      3405 006 [33mis thinking[0m
+      3405 074 [0mhas taken a left fork[0m
+      3405 074 [0mhas taken a right fork[0m
+      3405 074 [32mis eating[0m
+      3405 088 [33mis thinking[0m
+      3405 092 [33mis thinking[0m
+      3405 009 [0mis sleeping[0m
+      3405 096 [33mis thinking[0m
+      3405 003 [0mis sleeping[0m
+      3405 096 [0mhas taken a left fork[0m
+      3405 008 [33mis thinking[0m
+      3405 094 [33mis thinking[0m
+      3405 084 [33mis thinking[0m
+      3405 004 [0mhas taken a left fork[0m
+      3405 004 [0mhas taken a right fork[0m
+      3405 004 [32mis eating[0m
+      3405 079 [0mis sleeping[0m
+      3405 093 [0mis sleeping[0m
+      3405 098 [33mis thinking[0m
+      3405 002 [33mis thinking[0m
+      3405 090 [33mis thinking[0m
+      3405 089 [0mis sleeping[0m
+      3405 088 [0mhas taken a left fork[0m
+      3405 083 [0mis sleeping[0m
+      3405 091 [0mis sleeping[0m
+      3405 077 [0mis sleeping[0m
+      3405 090 [0mhas taken a left fork[0m
+      3405 094 [0mhas taken a left fork[0m
+      3405 075 [0mis sleeping[0m
+      3405 099 [0mis sleeping[0m
+      3405 094 [0mhas taken a right fork[0m
+      3405 092 [0mhas taken a left fork[0m
+      3405 006 [0mhas taken a left fork[0m
+      3405 006 [0mhas taken a right fork[0m
+      3405 010 [0mhas taken a right fork[0m
+      3405 094 [32mis eating[0m
+      3405 006 [32mis eating[0m
+      3405 010 [32mis eating[0m
+      3405 098 [0mhas taken a left fork[0m
+      3405 098 [0mhas taken a right fork[0m
+      3405 087 [0mis sleeping[0m
+      3405 092 [0mhas taken a right fork[0m
+      3405 098 [32mis eating[0m
+      3405 088 [0mhas taken a right fork[0m
+      3405 088 [32mis eating[0m
+      3405 092 [32mis eating[0m
+      3405 081 [0mis sleeping[0m
+      3405 080 [0mhas taken a left fork[0m
+      3405 095 [0mis sleeping[0m
+      3405 090 [0mhas taken a right fork[0m
+      3405 080 [0mhas taken a right fork[0m
+      3405 097 [0mis sleeping[0m
+      3405 076 [0mhas taken a left fork[0m
+      3405 080 [32mis eating[0m
+      3405 100 [0mhas taken a left fork[0m
+      3405 086 [0mhas taken a left fork[0m
+      3405 076 [0mhas taken a right fork[0m
+      3405 002 [0mhas taken a left fork[0m
+      3405 076 [32mis eating[0m
+      3405 086 [0mhas taken a right fork[0m
+      3405 084 [0mhas taken a left fork[0m
+      3405 002 [0mhas taken a right fork[0m
+      3405 002 [32mis eating[0m
+      3405 084 [0mhas taken a right fork[0m
+      3405 090 [32mis eating[0m
+      3405 085 [0mis sleeping[0m
+      3405 082 [33mis thinking[0m
+      3405 005 [0mis sleeping[0m
+      3405 007 [0mis sleeping[0m
+      3405 082 [0mhas taken a left fork[0m
+      3405 086 [32mis eating[0m
+      3405 082 [0mhas taken a right fork[0m
+      3405 082 [32mis eating[0m
+      3405 084 [32mis eating[0m
+      3405 100 [0mhas taken a right fork[0m
+      3405 096 [0mhas taken a right fork[0m
+      3405 100 [32mis eating[0m
+      3405 078 [0mhas taken a left fork[0m
+      3405 096 [32mis eating[0m
+      3405 008 [0mhas taken a left fork[0m
+      3405 008 [0mhas taken a right fork[0m
+      3405 008 [32mis eating[0m
+      3405 001 [0mis sleeping[0m
+      3405 078 [0mhas taken a right fork[0m
+      3405 078 [32mis eating[0m
+      3603 017 [33mis thinking[0m
+      3603 033 [33mis thinking[0m
+      3603 034 [0mis sleeping[0m
+      3603 033 [0mhas taken a left fork[0m
+      3603 035 [33mis thinking[0m
+      3603 019 [33mis thinking[0m
+      3603 018 [0mis sleeping[0m
+      3603 017 [0mhas taken a left fork[0m
+      3603 025 [33mis thinking[0m
+      3603 041 [33mis thinking[0m
+      3603 022 [0mis sleeping[0m
+      3603 037 [33mis thinking[0m
+      3603 035 [0mhas taken a left fork[0m
+      3603 035 [0mhas taken a right fork[0m
+      3603 039 [33mis thinking[0m
+      3603 040 [0mis sleeping[0m
+      3603 035 [32mis eating[0m
+      3603 030 [0mis sleeping[0m
+      3603 026 [0mis sleeping[0m
+      3603 047 [33mis thinking[0m
+      3603 042 [0mis sleeping[0m
+      3603 027 [33mis thinking[0m
+      3603 029 [33mis thinking[0m
+      3603 037 [0mhas taken a left fork[0m
+      3603 025 [0mhas taken a left fork[0m
+      3603 043 [33mis thinking[0m
+      3603 041 [0mhas taken a left fork[0m
+      3603 041 [0mhas taken a right fork[0m
+      3603 041 [32mis eating[0m
+      3603 032 [0mis sleeping[0m
+      3603 036 [0mis sleeping[0m
+      3603 019 [0mhas taken a left fork[0m
+      3603 053 [33mis thinking[0m
+      3603 050 [0mis sleeping[0m
+      3603 049 [33mis thinking[0m
+      3603 020 [0mis sleeping[0m
+      3603 023 [33mis thinking[0m
+      3603 048 [0mis sleeping[0m
+      3603 046 [0mis sleeping[0m
+      3603 039 [0mhas taken a left fork[0m
+      3603 021 [33mis thinking[0m
+      3603 047 [0mhas taken a left fork[0m
+      3603 044 [0mis sleeping[0m
+      3603 021 [0mhas taken a left fork[0m
+      3603 021 [0mhas taken a right fork[0m
+      3603 047 [0mhas taken a right fork[0m
+      3603 043 [0mhas taken a left fork[0m
+      3603 029 [0mhas taken a left fork[0m
+      3603 021 [32mis eating[0m
+      3603 047 [32mis eating[0m
+      3603 043 [0mhas taken a right fork[0m
+      3603 029 [0mhas taken a right fork[0m
+      3603 029 [32mis eating[0m
+      3603 025 [0mhas taken a right fork[0m
+      3603 038 [0mis sleeping[0m
+      3603 019 [0mhas taken a right fork[0m
+      3603 027 [0mhas taken a left fork[0m
+      3603 055 [33mis thinking[0m
+      3603 051 [33mis thinking[0m
+      3603 049 [0mhas taken a left fork[0m
+      3603 051 [0mhas taken a left fork[0m
+      3603 031 [33mis thinking[0m
+      3603 051 [0mhas taken a right fork[0m
+      3603 039 [0mhas taken a right fork[0m
+      3603 031 [0mhas taken a left fork[0m
+      3603 024 [0mis sleeping[0m
+      3603 039 [32mis eating[0m
+      3603 057 [33mis thinking[0m
+      3603 028 [0mis sleeping[0m
+      3603 025 [32mis eating[0m
+      3603 037 [0mhas taken a right fork[0m
+      3603 054 [0mis sleeping[0m
+      3603 043 [32mis eating[0m
+      3603 037 [32mis eating[0m
+      3603 027 [0mhas taken a right fork[0m
+      3603 056 [0mis sleeping[0m
+      3603 052 [0mis sleeping[0m
+      3603 031 [0mhas taken a right fork[0m
+      3603 049 [0mhas taken a right fork[0m
+      3603 055 [0mhas taken a left fork[0m
+      3603 031 [32mis eating[0m
+      3603 049 [32mis eating[0m
+      3603 051 [32mis eating[0m
+      3603 033 [0mhas taken a right fork[0m
+      3603 045 [33mis thinking[0m
+      3603 045 [0mhas taken a left fork[0m
+      3603 045 [0mhas taken a right fork[0m
+      3603 033 [32mis eating[0m
+      3603 053 [0mhas taken a left fork[0m
+      3603 045 [32mis eating[0m
+      3603 019 [32mis eating[0m
+      3603 023 [0mhas taken a left fork[0m
+      3603 027 [32mis eating[0m
+      3603 055 [0mhas taken a right fork[0m
+      3603 055 [32mis eating[0m
+      3603 023 [0mhas taken a right fork[0m
+      3603 023 [32mis eating[0m
+      3603 053 [0mhas taken a right fork[0m
+      3603 053 [32mis eating[0m
+      3603 059 [33mis thinking[0m
+      3603 058 [0mis sleeping[0m
+      3603 057 [0mhas taken a left fork[0m
+      3603 057 [0mhas taken a right fork[0m
+      3603 057 [32mis eating[0m
+      3604 061 [33mis thinking[0m
+      3604 060 [0mis sleeping[0m
+      3604 059 [0mhas taken a left fork[0m
+      3604 059 [0mhas taken a right fork[0m
+      3604 059 [32mis eating[0m
+      3604 063 [33mis thinking[0m
+      3604 062 [0mis sleeping[0m
+      3604 061 [0mhas taken a left fork[0m
+      3604 061 [0mhas taken a right fork[0m
+      3604 061 [32mis eating[0m
+      3604 065 [33mis thinking[0m
+      3604 064 [0mis sleeping[0m
+      3604 063 [0mhas taken a left fork[0m
+      3604 063 [0mhas taken a right fork[0m
+      3604 063 [32mis eating[0m
+      3604 067 [33mis thinking[0m
+      3604 069 [33mis thinking[0m
+      3604 066 [0mis sleeping[0m
+      3604 065 [0mhas taken a left fork[0m
+      3604 065 [0mhas taken a right fork[0m
+      3604 065 [32mis eating[0m
+      3604 068 [0mis sleeping[0m
+      3604 067 [0mhas taken a left fork[0m
+      3604 067 [0mhas taken a right fork[0m
+      3604 067 [32mis eating[0m
+      3604 073 [33mis thinking[0m
+      3604 071 [33mis thinking[0m
+      3604 071 [0mhas taken a left fork[0m
+      3604 071 [0mhas taken a right fork[0m
+      3604 071 [32mis eating[0m
+      3604 072 [0mis sleeping[0m
+      3604 070 [0mis sleeping[0m
+      3604 069 [0mhas taken a left fork[0m
+      3604 069 [0mhas taken a right fork[0m
+      3604 069 [32mis eating[0m
+      3605 015 [33mis thinking[0m
+      3605 012 [0mis sleeping[0m
+      3605 015 [0mhas taken a left fork[0m
+      3605 017 [0mhas taken a right fork[0m
+      3605 016 [0mis sleeping[0m
+      3605 013 [33mis thinking[0m
+      3605 014 [0mis sleeping[0m
+      3605 015 [0mhas taken a right fork[0m
+      3605 015 [32mis eating[0m
+      3605 017 [32mis eating[0m
+      3605 013 [0mhas taken a left fork[0m
+      3605 013 [0mhas taken a right fork[0m
+      3605 013 [32mis eating[0m
+      3605 011 [33mis thinking[0m
+      3605 011 [0mhas taken a left fork[0m
+      3605 074 [0mis sleeping[0m
+      3605 073 [0mhas taken a left fork[0m
+      3605 073 [0mhas taken a right fork[0m
+      3605 073 [32mis eating[0m
+      3605 003 [33mis thinking[0m
+      3605 089 [33mis thinking[0m
+      3605 009 [33mis thinking[0m
+      3605 006 [0mis sleeping[0m
+      3605 079 [33mis thinking[0m
+      3605 088 [0mis sleeping[0m
+      3605 095 [33mis thinking[0m
+      3605 004 [0mis sleeping[0m
+      3605 083 [33mis thinking[0m
+      3605 093 [33mis thinking[0m
+      3605 098 [0mis sleeping[0m
+      3605 093 [0mhas taken a left fork[0m
+      3605 093 [0mhas taken a right fork[0m
+      3605 093 [32mis eating[0m
+      3605 003 [0mhas taken a left fork[0m
+      3605 091 [33mis thinking[0m
+      3605 084 [0mis sleeping[0m
+      3605 097 [33mis thinking[0m
+      3605 099 [33mis thinking[0m
+      3605 075 [33mis thinking[0m
+      3605 094 [0mis sleeping[0m
+      3605 091 [0mhas taken a left fork[0m
+      3605 075 [0mhas taken a left fork[0m
+      3605 075 [0mhas taken a right fork[0m
+      3605 075 [32mis eating[0m
+      3605 097 [0mhas taken a left fork[0m
+      3605 092 [0mis sleeping[0m
+      3605 008 [0mis sleeping[0m
+      3605 081 [33mis thinking[0m
+      3605 011 [0mhas taken a right fork[0m
+      3605 011 [32mis eating[0m
+      3605 010 [0mis sleeping[0m
+      3605 077 [33mis thinking[0m
+      3605 087 [33mis thinking[0m
+      3605 083 [0mhas taken a left fork[0m
+      3605 001 [33mis thinking[0m
+      3605 076 [0mis sleeping[0m
+      3605 001 [0mhas taken a left fork[0m
+      3605 086 [0mis sleeping[0m
+      3605 003 [0mhas taken a right fork[0m
+      3605 003 [32mis eating[0m
+      3605 002 [0mis sleeping[0m
+      3605 090 [0mis sleeping[0m
+      3605 005 [33mis thinking[0m
+      3605 005 [0mhas taken a left fork[0m
+      3605 005 [0mhas taken a right fork[0m
+      3605 080 [0mis sleeping[0m
+      3605 078 [0mis sleeping[0m
+      3605 005 [32mis eating[0m
+      3605 009 [0mhas taken a left fork[0m
+      3605 100 [0mis sleeping[0m
+      3605 009 [0mhas taken a right fork[0m
+      3605 099 [0mhas taken a left fork[0m
+      3605 007 [33mis thinking[0m
+      3605 081 [0mhas taken a left fork[0m
+      3605 099 [0mhas taken a right fork[0m
+      3605 089 [0mhas taken a left fork[0m
+      3605 081 [0mhas taken a right fork[0m
+      3605 099 [32mis eating[0m
+      3605 095 [0mhas taken a left fork[0m
+      3605 097 [0mhas taken a right fork[0m
+      3605 096 [0mis sleeping[0m
+      3605 095 [0mhas taken a right fork[0m
+      3605 082 [0mis sleeping[0m
+      3605 091 [0mhas taken a right fork[0m
+      3605 007 [0mhas taken a left fork[0m
+      3605 085 [33mis thinking[0m
+      3605 007 [0mhas taken a right fork[0m
+      3605 007 [32mis eating[0m
+      3605 009 [32mis eating[0m
+      3605 001 [0mhas taken a right fork[0m
+      3605 083 [0mhas taken a right fork[0m
+      3605 087 [0mhas taken a left fork[0m
+      3605 095 [32mis eating[0m
+      3605 079 [0mhas taken a left fork[0m
+      3605 091 [32mis eating[0m
+      3605 079 [0mhas taken a right fork[0m
+      3605 079 [32mis eating[0m
+      3605 097 [32mis eating[0m
+      3605 001 [32mis eating[0m
+      3605 083 [32mis eating[0m
+      3605 087 [0mhas taken a right fork[0m
+      3605 087 [32mis eating[0m
+      3605 081 [32mis eating[0m
+      3606 085 [0mhas taken a left fork[0m
+      3606 085 [0mhas taken a right fork[0m
+      3606 085 [32mis eating[0m
+      3606 089 [0mhas taken a right fork[0m
+      3606 089 [32mis eating[0m
+      3606 077 [0mhas taken a left fork[0m
+      3606 077 [0mhas taken a right fork[0m
+      3606 077 [32mis eating[0m
+      3803 018 [33mis thinking[0m
+      3803 042 [33mis thinking[0m
+      3803 022 [33mis thinking[0m
+      3803 034 [33mis thinking[0m
+      3803 026 [33mis thinking[0m
+      3803 034 [0mhas taken a left fork[0m
+      3803 035 [0mis sleeping[0m
+      3803 041 [0mis sleeping[0m
+      3803 040 [33mis thinking[0m
+      3803 040 [0mhas taken a left fork[0m
+      3803 030 [33mis thinking[0m
+      3803 032 [33mis thinking[0m
+      3803 036 [33mis thinking[0m
+      3803 048 [33mis thinking[0m
+      3803 050 [33mis thinking[0m
+      3803 020 [33mis thinking[0m
+      3803 047 [0mis sleeping[0m
+      3803 046 [33mis thinking[0m
+      3803 046 [0mhas taken a left fork[0m
+      3803 044 [33mis thinking[0m
+      3803 038 [33mis thinking[0m
+      3803 021 [0mis sleeping[0m
+      3803 020 [0mhas taken a left fork[0m
+      3803 029 [0mis sleeping[0m
+      3803 024 [33mis thinking[0m
+      3803 028 [33mis thinking[0m
+      3803 028 [0mhas taken a left fork[0m
+      3803 039 [0mis sleeping[0m
+      3803 040 [0mhas taken a right fork[0m
+      3803 040 [32mis eating[0m
+      3803 038 [0mhas taken a left fork[0m
+      3803 051 [0mis sleeping[0m
+      3803 050 [0mhas taken a left fork[0m
+      3803 025 [0mis sleeping[0m
+      3803 031 [0mis sleeping[0m
+      3803 024 [0mhas taken a left fork[0m
+      3803 030 [0mhas taken a left fork[0m
+      3803 030 [0mhas taken a right fork[0m
+      3803 030 [32mis eating[0m
+      3803 054 [33mis thinking[0m
+      3803 043 [0mis sleeping[0m
+      3803 042 [0mhas taken a left fork[0m
+      3803 042 [0mhas taken a right fork[0m
+      3803 042 [32mis eating[0m
+      3803 056 [33mis thinking[0m
+      3803 019 [0mis sleeping[0m
+      3803 018 [0mhas taken a left fork[0m
+      3803 033 [0mis sleeping[0m
+      3803 045 [0mis sleeping[0m
+      3803 044 [0mhas taken a left fork[0m
+      3803 044 [0mhas taken a right fork[0m
+      3803 020 [0mhas taken a right fork[0m
+      3803 020 [32mis eating[0m
+      3803 054 [0mhas taken a left fork[0m
+      3803 044 [32mis eating[0m
+      3803 048 [0mhas taken a left fork[0m
+      3803 048 [0mhas taken a right fork[0m
+      3803 048 [32mis eating[0m
+      3803 055 [0mis sleeping[0m
+      3803 050 [0mhas taken a right fork[0m
+      3803 050 [32mis eating[0m
+      3803 046 [0mhas taken a right fork[0m
+      3803 038 [0mhas taken a right fork[0m
+      3803 052 [33mis thinking[0m
+      3803 038 [32mis eating[0m
+      3803 046 [32mis eating[0m
+      3803 036 [0mhas taken a left fork[0m
+      3803 032 [0mhas taken a left fork[0m
+      3803 049 [0mis sleeping[0m
+      3803 032 [0mhas taken a right fork[0m
+      3803 032 [32mis eating[0m
+      3803 036 [0mhas taken a right fork[0m
+      3803 037 [0mis sleeping[0m
+      3803 034 [0mhas taken a right fork[0m
+      3803 034 [32mis eating[0m
+      3803 036 [32mis eating[0m
+      3803 027 [0mis sleeping[0m
+      3803 028 [0mhas taken a right fork[0m
+      3803 026 [0mhas taken a left fork[0m
+      3803 026 [0mhas taken a right fork[0m
+      3803 026 [32mis eating[0m
+      3803 028 [32mis eating[0m
+      3803 023 [0mis sleeping[0m
+      3803 024 [0mhas taken a right fork[0m
+      3803 024 [32mis eating[0m
+      3803 022 [0mhas taken a left fork[0m
+      3803 053 [0mis sleeping[0m
+      3803 052 [0mhas taken a left fork[0m
+      3803 052 [0mhas taken a right fork[0m
+      3803 052 [32mis eating[0m
+      3803 054 [0mhas taken a right fork[0m
+      3803 054 [32mis eating[0m
+      3803 022 [0mhas taken a right fork[0m
+      3803 022 [32mis eating[0m
+      3804 058 [33mis thinking[0m
+      3804 057 [0mis sleeping[0m
+      3804 056 [0mhas taken a left fork[0m
+      3804 056 [0mhas taken a right fork[0m
+      3804 056 [32mis eating[0m
+      3804 060 [33mis thinking[0m
+      3804 059 [0mis sleeping[0m
+      3804 058 [0mhas taken a left fork[0m
+      3804 058 [0mhas taken a right fork[0m
+      3804 058 [32mis eating[0m
+      3804 062 [33mis thinking[0m
+      3804 061 [0mis sleeping[0m
+      3804 060 [0mhas taken a left fork[0m
+      3804 060 [0mhas taken a right fork[0m
+      3804 060 [32mis eating[0m
+      3804 064 [33mis thinking[0m
+      3804 063 [0mis sleeping[0m
+      3804 062 [0mhas taken a left fork[0m
+      3804 062 [0mhas taken a right fork[0m
+      3804 062 [32mis eating[0m
+      3804 066 [33mis thinking[0m
+      3804 065 [0mis sleeping[0m
+      3804 064 [0mhas taken a left fork[0m
+      3804 064 [0mhas taken a right fork[0m
+      3804 064 [32mis eating[0m
+      3804 068 [33mis thinking[0m
+      3804 067 [0mis sleeping[0m
+      3804 066 [0mhas taken a left fork[0m
+      3804 066 [0mhas taken a right fork[0m
+      3804 066 [32mis eating[0m
+      3804 071 [0mis sleeping[0m
+      3804 072 [33mis thinking[0m
+      3804 070 [33mis thinking[0m
+      3804 070 [0mhas taken a left fork[0m
+      3804 070 [0mhas taken a right fork[0m
+      3804 070 [32mis eating[0m
+      3804 069 [0mis sleeping[0m
+      3804 068 [0mhas taken a left fork[0m
+      3804 068 [0mhas taken a right fork[0m
+      3804 068 [32mis eating[0m
+      3805 016 [33mis thinking[0m
+      3805 017 [0mis sleeping[0m
+      3805 012 [33mis thinking[0m
+      3805 012 [0mhas taken a left fork[0m
+      3805 014 [33mis thinking[0m
+      3805 014 [0mhas taken a left fork[0m
+      3805 014 [0mhas taken a right fork[0m
+      3805 014 [32mis eating[0m
+      3805 015 [0mis sleeping[0m
+      3805 013 [0mis sleeping[0m
+      3805 016 [0mhas taken a left fork[0m
+      3805 016 [0mhas taken a right fork[0m
+      3805 016 [32mis eating[0m
+      3805 018 [0mhas taken a right fork[0m
+      3805 018 [32mis eating[0m
+      3805 074 [33mis thinking[0m
+      3805 006 [33mis thinking[0m
+      3805 004 [33mis thinking[0m
+      3805 073 [0mis sleeping[0m
+      3805 072 [0mhas taken a left fork[0m
+      3805 072 [0mhas taken a right fork[0m
+      3805 072 [32mis eating[0m
+      3805 088 [33mis thinking[0m
+      3805 093 [0mis sleeping[0m
+      3805 098 [33mis thinking[0m
+      3805 090 [33mis thinking[0m
+      3805 094 [33mis thinking[0m
+      3805 092 [33mis thinking[0m
+      3805 092 [0mhas taken a left fork[0m
+      3805 002 [33mis thinking[0m
+      3805 084 [33mis thinking[0m
+      3805 008 [33mis thinking[0m
+      3805 011 [0mis sleeping[0m
+      3805 012 [0mhas taken a right fork[0m
+      3805 012 [32mis eating[0m
+      3805 005 [0mis sleeping[0m
+      3805 074 [0mhas taken a left fork[0m
+      3805 074 [0mhas taken a right fork[0m
+      3805 074 [32mis eating[0m
+      3805 096 [33mis thinking[0m
+      3805 075 [0mis sleeping[0m
+      3805 100 [33mis thinking[0m
+      3805 086 [33mis thinking[0m
+      3805 009 [0mis sleeping[0m
+      3805 008 [0mhas taken a left fork[0m
+      3805 010 [33mis thinking[0m
+      3805 002 [0mhas taken a left fork[0m
+      3805 007 [0mis sleeping[0m
+      3805 004 [0mhas taken a left fork[0m
+      3805 010 [0mhas taken a left fork[0m
+      3805 010 [0mhas taken a right fork[0m
+      3805 003 [0mis sleeping[0m
+      3805 008 [0mhas taken a right fork[0m
+      3805 004 [0mhas taken a right fork[0m
+      3805 090 [0mhas taken a left fork[0m
+      3805 078 [33mis thinking[0m
+      3805 091 [0mis sleeping[0m
+      3805 006 [0mhas taken a left fork[0m
+      3805 004 [32mis eating[0m
+      3805 080 [33mis thinking[0m
+      3806 006 [0mhas taken a right fork[0m
+      3806 006 [32mis eating[0m
+      3806 008 [32mis eating[0m
+      3806 010 [32mis eating[0m
+      3806 095 [0mis sleeping[0m
+      3806 099 [0mis sleeping[0m
+      3806 092 [0mhas taken a right fork[0m
+      3806 092 [32mis eating[0m
+      3806 094 [0mhas taken a left fork[0m
+      3806 094 [0mhas taken a right fork[0m
+      3806 094 [32mis eating[0m
+      3806 079 [0mis sleeping[0m
+      3806 082 [33mis thinking[0m
+      3806 076 [33mis thinking[0m
+      3806 078 [0mhas taken a left fork[0m
+      3806 097 [0mis sleeping[0m
+      3806 083 [0mis sleeping[0m
+      3806 082 [0mhas taken a left fork[0m
+      3806 001 [0mis sleeping[0m
+      3806 081 [0mis sleeping[0m
+      3806 080 [0mhas taken a left fork[0m
+      3806 087 [0mis sleeping[0m
+      3806 080 [0mhas taken a right fork[0m
+      3806 086 [0mhas taken a left fork[0m
+      3806 002 [0mhas taken a right fork[0m
+      3806 082 [0mhas taken a right fork[0m
+      3806 098 [0mhas taken a left fork[0m
+      3806 100 [0mhas taken a left fork[0m
+      3806 082 [32mis eating[0m
+      3806 080 [32mis eating[0m
+      3806 100 [0mhas taken a right fork[0m
+      3806 098 [0mhas taken a right fork[0m
+      3806 096 [0mhas taken a left fork[0m
+      3806 002 [32mis eating[0m
+      3806 100 [32mis eating[0m
+      3806 096 [0mhas taken a right fork[0m
+      3806 096 [32mis eating[0m
+      3806 098 [32mis eating[0m
+      3806 089 [0mis sleeping[0m
+      3806 090 [0mhas taken a right fork[0m
+      3806 088 [0mhas taken a left fork[0m
+      3806 085 [0mis sleeping[0m
+      3806 088 [0mhas taken a right fork[0m
+      3806 088 [32mis eating[0m
+      3806 086 [0mhas taken a right fork[0m
+      3806 078 [0mhas taken a right fork[0m
+      3806 086 [32mis eating[0m
+      3806 076 [0mhas taken a left fork[0m
+      3806 084 [0mhas taken a left fork[0m
+      3806 078 [32mis eating[0m
+      3806 090 [32mis eating[0m
+      3806 077 [0mis sleeping[0m
+      3806 076 [0mhas taken a right fork[0m
+      3806 076 [32mis eating[0m
+      3806 084 [0mhas taken a right fork[0m
+      3806 084 [32mis eating[0m
+      4003 035 [33mis thinking[0m
+      4003 041 [33mis thinking[0m
+      4003 047 [33mis thinking[0m
+      4003 021 [33mis thinking[0m
+      4003 029 [33mis thinking[0m
+      4003 039 [33mis thinking[0m
+      4003 043 [33mis thinking[0m
+      4003 051 [33mis thinking[0m
+      4003 037 [33mis thinking[0m
+      4003 025 [33mis thinking[0m
+      4003 046 [0mis sleeping[0m
+      4003 034 [0mis sleeping[0m
+      4003 044 [0mis sleeping[0m
+      4003 036 [0mis sleeping[0m
+      4003 020 [0mis sleeping[0m
+      4003 049 [33mis thinking[0m
+      4003 024 [0mis sleeping[0m
+      4003 053 [33mis thinking[0m
+      4003 055 [33mis thinking[0m
+      4003 030 [0mis sleeping[0m
+      4003 023 [33mis thinking[0m
+      4003 042 [0mis sleeping[0m
+      4003 052 [0mis sleeping[0m
+      4003 050 [0mis sleeping[0m
+      4003 048 [0mis sleeping[0m
+      4003 022 [0mis sleeping[0m
+      4003 033 [33mis thinking[0m
+      4003 038 [0mis sleeping[0m
+      4003 028 [0mis sleeping[0m
+      4003 026 [0mis sleeping[0m
+      4003 019 [33mis thinking[0m
+      4003 045 [33mis thinking[0m
+      4004 040 [0mis sleeping[0m
+      4004 027 [33mis thinking[0m
+      4004 032 [0mis sleeping[0m
+      4004 054 [0mis sleeping[0m
+      4004 031 [33mis thinking[0m
+      4004 057 [33mis thinking[0m
+      4004 056 [0mis sleeping[0m
+      4004 059 [33mis thinking[0m
+      4004 061 [33mis thinking[0m
+      4004 058 [0mis sleeping[0m
+      4004 060 [0mis sleeping[0m
+      4004 063 [33mis thinking[0m
+      4004 062 [0mis sleeping[0m
+      4004 065 [33mis thinking[0m
+      4004 064 [0mis sleeping[0m
+      4004 066 [0mis sleeping[0m
+      4004 067 [33mis thinking[0m
+      4004 071 [33mis thinking[0m
+      4005 068 [0mis sleeping[0m
+      4005 069 [33mis thinking[0m
+      4005 070 [0mis sleeping[0m
+      4005 017 [33mis thinking[0m
+      4005 014 [0mis sleeping[0m
+      4005 013 [33mis thinking[0m
+      4005 016 [0mis sleeping[0m
+      4005 018 [0mis sleeping[0m
+      4005 015 [33mis thinking[0m
+      4005 073 [33mis thinking[0m
+      4005 072 [0mis sleeping[0m
+      4005 011 [33mis thinking[0m
+      4005 093 [33mis thinking[0m
+      4006 012 [0mis sleeping[0m
+      4006 091 [33mis thinking[0m
+      4006 005 [33mis thinking[0m
+      4006 074 [0mis sleeping[0m
+      4006 075 [33mis thinking[0m
+      4006 009 [33mis thinking[0m
+      4006 095 [33mis thinking[0m
+      4006 003 [33mis thinking[0m
+      4006 007 [33mis thinking[0m
+      4006 010 [0mis sleeping[0m
+      4006 004 [0mis sleeping[0m
+      4006 006 [0mis sleeping[0m
+      4006 079 [33mis thinking[0m
+      4006 008 [0mis sleeping[0m
+      4006 099 [33mis thinking[0m
+      4006 100 [0mis sleeping[0m
+      4006 092 [0mis sleeping[0m
+      4006 001 [33mis thinking[0m
+      4006 080 [0mis sleeping[0m
+      4006 094 [0mis sleeping[0m
+      4006 098 [0mis sleeping[0m
+      4006 083 [33mis thinking[0m
+      4006 082 [0mis sleeping[0m
+      4006 087 [33mis thinking[0m
+      4006 097 [33mis thinking[0m
+      4006 002 [0mis sleeping[0m
+      4006 081 [33mis thinking[0m
+      4006 096 [0mis sleeping[0m
+      4006 085 [33mis thinking[0m
+      4006 077 [33mis thinking[0m
+      4006 089 [33mis thinking[0m
+      4006 088 [0mis sleeping[0m
+      4006 086 [0mis sleeping[0m
+      4006 078 [0mis sleeping[0m
+      4006 076 [0mis sleeping[0m
+      4006 090 [0mis sleeping[0m
+      4006 084 [0mis sleeping[0m
+      4006 100 [34mover on me[0m

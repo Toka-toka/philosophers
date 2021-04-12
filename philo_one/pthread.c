@@ -1,122 +1,118 @@
 #include "philo.h"
 
-void    block_print(t_philo *philo, char *str)
-{
-    pthread_mutex_lock(philo->out);
-    if (philo->stop == 0)
-        printf("%10.ld %d %s\n", get_time(philo->lim->start), philo->index + 1, str);
-    pthread_mutex_unlock(philo->out);
+int	block_print(t_philo *philo, char *str, char *color)
+{	
+	static char	end;
+
+	pthread_mutex_lock(philo->out);
+	if (end == 1)
+	{
+		pthread_mutex_unlock(philo->out);
+		pthread_mutex_unlock(philo->left);
+		pthread_mutex_unlock(philo->right);
+		return (1);
+	}
+	if (philo->lim->die == 0)
+		end = 1;
+	printf("%10.1ld %3.3d %s%s%s\n",
+		get_time(philo->lim->start), philo->index + 1, color, str, NRM);
+	pthread_mutex_unlock(philo->out);
+	return (0);
 }
 
-void	fork_left(t_philo *philo)
+void	forks_move(t_philo *philo, int i)
 {
-	pthread_mutex_unlock(philo->left);
-//    block_print(philo, "has taken a fork");
-	pthread_mutex_unlock(philo->right);
-//    block_print(philo, "has taken a fork");
-}
-
-void	fork_take(t_philo *philo)
-{
-	if (philo->index % 2 == 0)
-    {
-        pthread_mutex_lock(philo->left);
-        block_print(philo, "has taken a fork");
-	    pthread_mutex_lock(philo->right);
-        block_print(philo, "has taken a fork");
-    }
-    else
-    {
-        pthread_mutex_lock(philo->right);
-        block_print(philo, "has taken a fork");
-	    pthread_mutex_lock(philo->left);
-        block_print(philo, "has taken a fork");
-    }
+	if (i == 0)
+	{
+		pthread_mutex_lock(philo->left);
+		block_print(philo, "has taken a left fork", NRM);
+		pthread_mutex_lock(philo->right);
+		block_print(philo, "has taken a right fork", NRM);
+	}
+	else
+	{
+		pthread_mutex_unlock(philo->left);
+		pthread_mutex_unlock(philo->right);
+	}
 }
 
 void	*life(void *data)
 {
 	t_philo	*philo;
 
-    int check;
-
 	philo = (t_philo *)data;
-    while (philo->stop == 0)
-    {
-//	    pthread_detach(philo->ptr);
-		fork_take(philo);
-        gettimeofday(&philo->hungry, NULL);
-        block_print(philo, "is eating");
-        usleep(philo->lim->eat * 1000);
-        fork_left(philo);
-        block_print(philo, "is sleeping");
-        usleep(philo->lim->sleep * 1000);
-        block_print(philo, "is thinking");
+	if (philo->index % 2 != 0)
+		usleep(philo->lim->eat * 0.9 * 1000);
+	while (philo->eat != 0)
+	{
+		forks_move(philo, 0);
+		gettimeofday(&philo->hungry, NULL);
+		if (block_print(philo, "is eating", GRN) == 1)
+			return (NULL);
+		usleep(philo->lim->eat * 1000);
+		forks_move(philo, 1);
+		if (philo->eat > 0)
+			philo->eat--;
+		if (block_print(philo, "is sleeping", NRM) == 1)
+			return (NULL);
+		usleep(philo->lim->sleep * 1000);
+		if (block_print(philo, "is thinking", YEL) == 1)
+			return (NULL);
 	}
 	return (NULL);
 }
 
-void	*death_catch(void *data)
+int	death_catch(t_all *all)
 {
-	t_all	*all;
-
-	int i;
+	int		i;
+	int		max_i;
 
 	i = 0;
-	all = (t_all *)data;
-    gettimeofday(&all->lim->start, NULL);
-    while(1)
-    {
-	    i = 0;
-        while (i < all->lim->philo)
-	    {
-            if (get_time(all->philo[i].hungry) > all->lim->die)
-            {
-                printf("%d Die!", all->philo[i].index + 1);
-                exit(0);
-            }
-            i++;
-        }
-    }
-	return(NULL);
+	while (i < all->lim->philo)
+	{
+		max_i = -1;
+		if (get_time(all->philo[i].hungry) > all->lim->die)
+		{
+			all->lim->die = 0;
+			block_print(&all->philo[i], "died", RED);
+			return (0);
+		}
+		if (max_i < all->philo[i].eat)
+			max_i = all->philo[i].eat;
+		i++;
+	}
+	usleep(100);
+	if (max_i == 0)
+	{
+		all->lim->die = 0;
+		block_print(&all->philo[i - 1], "over on me", BLU);
+		return (0);
+	}
+	return (1);
 }
 
 int	start_party(t_all *all)
 {
 	int	i;
-	
+
 	i = 0;
-    gettimeofday(&all->lim->start, NULL);
+	gettimeofday(&all->lim->start, NULL);
 	while (i < all->lim->philo)
 	{
-//		if (i % 2 == 0)
-//		{
-            gettimeofday(&all->philo[i].hungry, NULL);
-			pthread_create(&all->philo[i].ptr, NULL, life,
-				(void *)&all->philo[i]);
-//		}
+		all->philo[i].hungry = all->lim->start;
+		pthread_create(&all->philo[i].ptr, NULL, life, (void *)&all->philo[i]);
 		i++;
-        usleep(10);
 	}
 	i = 0;
-/*	while (i < all->lim->philo)
-	{
-		if (i % 2 != 0)
-		{
-			gettimeofday(&all->philo[i].hungry, NULL);
-			pthread_create(&all->philo[i].ptr, NULL, life,
-				(void *)&all->philo[i]);
-		}
-		i++;
-	}*/
-	pthread_create(&all->wizard, NULL, death_catch,(void *)all);
-	pthread_join(all->wizard, NULL);
+	while (death_catch(all) == 1)
+		;
 	i = 0;
-/*	while (i < all->lim->philo)
+	while (i < all->lim->philo)
 	{
 		pthread_join(all->philo[i].ptr, NULL);
 		i++;
-	}*/
+	}
 	free(all->philo);
+	free(all->fork);
 	return (0);
 }
