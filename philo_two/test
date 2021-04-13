@@ -1,0 +1,19 @@
+         0 001 [0mhas taken a fork[0m
+         0 001 [0mhas taken a fork[0m
+         0 001 [32mis eating (1)[0m
+         0 003 [0mhas taken a fork[0m
+       200 001 [0mis sleeping[0m
+       200 003 [0mhas taken a fork[0m
+       200 003 [32mis eating (1)[0m
+       200 002 [0mhas taken a fork[0m
+       400 001 [33mis thinking[0m
+       400 003 [0mis sleeping[0m
+       400 002 [0mhas taken a fork[0m
+       400 002 [32mis eating (1)[0m
+       400 001 [0mhas taken a fork[0m
+       600 003 [33mis thinking[0m
+       600 002 [0mis sleeping[0m
+       600 003 [0mhas taken a fork[0m
+       600 003 [0mhas taken a fork[0m
+       600 003 [32mis eating (2)[0m
+       801 001 [31mdied[0m
