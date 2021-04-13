@@ -1,12 +1,28 @@
 #include "philo.h"
 
-long	get_time(struct timeval p_time)
+int	cuba_libre(t_all *all, int status, int i)
 {
-	struct timeval	time;
-
-	gettimeofday(&time, NULL);
-	return (((time.tv_sec * 1000 + time.tv_usec / 1000)
-			-(p_time.tv_sec * 1000 + p_time.tv_usec / 1000)));
+	if (all->philo != NULL)
+	{
+		free(all->philo);
+		all->philo = NULL;
+	}
+	if (all->fork != NULL)
+	{
+		free(all->fork);
+		all->fork = NULL;
+	}
+	if (status == 0)
+		return (0);
+	else if (status == 1)
+		printf("%sInvalid number of arguments\n%s", RED, WHT);
+	else if (status == 2)
+		printf("%s%d argument is invalid\n%s", RED, i, WHT);
+	else if (status == 3)
+		printf("%s%d argument is out of rulls of simulation\n%s", RED, i, WHT);
+	else if (status == 4)
+		printf("%sFatal error\n%s", RED, WHT);
+	return (1);
 }
 
 int	init(t_all *all)
@@ -16,10 +32,13 @@ int	init(t_all *all)
 	i = 0;
 	all->philo = malloc(all->lim->philo * sizeof(t_philo));
 	all->fork = malloc(all->lim->philo * sizeof(pthread_mutex_t));
-	pthread_mutex_init(&all->out, NULL);
+	if (all->fork == NULL || all->philo == NULL
+		|| pthread_mutex_init(&all->out, NULL) != 0)
+		return (cuba_libre(all, 4, 0));
 	while (i < all->lim->philo)
 	{
-		pthread_mutex_init(&all->fork[i], NULL);
+		if (pthread_mutex_init(&all->fork[i], NULL) != 0)
+			return (cuba_libre(all, 4, 0));
 		all->philo[i].lim = all->lim;
 		all->philo[i].out = &all->out;
 		all->philo[i].index = i;
@@ -65,18 +84,17 @@ int	check_argv(char **argv, t_all *all)
 		status = 0;
 		value = ft_atoi(argv[i]);
 		temp = ft_itoa(value);
-		if (ft_strncmp(argv[i], temp, ft_strlen(argv[i])) != 0 || value <= 0)
-			status = 1;
-		else if (pars_argv(i, value, all) != 0)
+		if (temp == NULL)
+			return (cuba_libre(all, 4, 0));
+		if (ft_strncmp(argv[i], temp, ft_strlen(argv[i])) != 0
+			|| value <= 0)
 			status = 2;
+		else if (pars_argv(i, value, all) != 0)
+			status = 3;
 		free(temp);
-		if (status == 0 && i++)
-			continue ;
-		else if (status == 1)
-			printf("%d argument is invalid\n", i);
-		else if (status == 2)
-			printf("%d argument is out of rulls of simulation\n", i);
-		return (1);
+		if (status != 0)
+			return (cuba_libre(all, status, i));
+		i++;
 	}
 	return (0);
 }
@@ -87,19 +105,19 @@ int	main(int argc, char **argv)
 	t_lim	lim;
 
 	all.lim = &lim;
+	all.philo = NULL;
+	all.fork = NULL;
 	all.lim->philo = 2;
 	all.lim->die = 60;
 	all.lim->eat = 60;
 	all.lim->sleep = 60;
 	all.lim->num_eat = -1;
+	all.lim->error = 0;
 	if (argc < 5 || argc > 6)
-	{
-		printf("Invalid number of arguments\n");
+		return (cuba_libre(&all, 1, 0));
+	if (check_argv(argv, &all) != 0
+		|| init(&all) != 0
+		|| start_party(&all) != 0)
 		return (1);
-	}
-	if (check_argv(argv, &all) != 0)
-		return (1);
-	init(&all);
-	start_party(&all);
-	return (0);
+	return (cuba_libre(&all, 0, 0));
 }

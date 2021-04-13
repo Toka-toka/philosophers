@@ -25,6 +25,7 @@ typedef struct s_lim
 	int				eat;
 	int				sleep;
 	int				num_eat;
+	int				error;
 }				t_lim;
 
 typedef struct s_philo
@@ -48,6 +49,7 @@ typedef struct s_all
 	t_lim			*lim;
 }				t_all;
 
+int		cuba_libre(t_all *all, int status, int i);
 int		start_party(t_all *all);
 long	get_time(struct timeval p_time);
 
@@ -55,5 +57,6 @@ int		ft_atoi(const char *str);
 char	*ft_itoa(int n);
 int		ft_strncmp(const char *s1, const char *s2, size_t n);
 size_t	ft_strlen(const char *s);
+int		ft_mutex(t_philo *philo, int i);
 
 #endif

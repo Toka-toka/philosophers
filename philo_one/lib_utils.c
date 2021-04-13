@@ -87,12 +87,11 @@ int	ft_strncmp(const char *s1, const char *s2, size_t n)
 	return (0);
 }
 
-size_t	ft_strlen(const char *s)
+long	get_time(struct timeval start)
 {
-	size_t	len;
+	struct timeval	now;
 
-	len = 0;
-	while (s[len] != '\0')
-		len++;
-	return (len);
+	gettimeofday(&now, NULL);
+	return (((now.tv_sec * 1000 + now.tv_usec / 1000)
+			-(start.tv_sec * 1000 + start.tv_usec / 1000)));
 }
