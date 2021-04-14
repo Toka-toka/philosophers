@@ -12,12 +12,12 @@ OBJ = $(SRC:.c=.o)
 FLAGS = -Wall -Wextra -Werror -pthread -Os
 
 %.o: %.c $(HEADER)
-	@gcc $(FLAGS) -c $< -o $@
+	gcc $(FLAGS) -c $< -o $@
 
 all: $(NAME)
 
 $(NAME): $(OBJ)
-	@gcc $(FLAGS) $(OBJ) -o $(NAME) $(HEADER)
+	gcc $(FLAGS) $(OBJ) -o $(NAME) $(HEADER)
 
 clean:
 	rm -f $(OBJ)
