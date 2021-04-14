@@ -33,27 +33,19 @@ int	forks_move(t_philo *philo, int i)
 	if (i == 0)
 	{
 		if (usleep (500) || sem_wait(philo->fork)
+			|| block_print(philo, "has taken a fork", NRM)
+			|| sem_wait(philo->fork)
 			|| block_print(philo, "has taken a fork", NRM))
 		{
 			philo->lim->error = 1;
 			return (1);
 		}
-		philo->num_fork = 1;
-		if (sem_wait(philo->fork)
-			|| block_print(philo, "has taken a fork", NRM))
-		{
-			philo->lim->error = 1;
-			return (1);
-		}
-		philo->num_fork = 2;
-		return (0);
 	}
-	if (sem_post(philo->fork) || sem_post(philo->fork))
+	else if (sem_post(philo->fork) || sem_post(philo->fork))
 	{
 		philo->lim->error = 1;
 		return (1);
 	}
-	philo->num_fork = 0;
 	return (0);
 }
 
