@@ -93,7 +93,7 @@ int	death_catch(t_all *all)
 	}
 	if (max_eat == 0)
 	{
-		usleep(100);
+		usleep(1000);
 		block_print(&all->philo[all->lim->philo - 1], "philos are full", BLU);
 		return (0);
 	}

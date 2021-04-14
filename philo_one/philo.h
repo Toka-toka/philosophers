@@ -43,7 +43,6 @@ typedef struct s_philo
 typedef struct s_all
 {
 	t_philo			*philo;
-	pthread_t		wizard;
 	pthread_mutex_t	out;
 	pthread_mutex_t	*fork;
 	t_lim			*lim;

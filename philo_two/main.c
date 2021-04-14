@@ -82,10 +82,10 @@ int	check_argv(char **argv, t_all *all)
 		temp = ft_itoa(value);
 		if (temp == NULL)
 			return (cuba_libre(all, 4, 0));
-		if (ft_strncmp(argv[i], temp, ft_strlen(argv[i])) != 0
+		if (ft_strncmp(argv[i], temp, ft_strlen(argv[i]))
 			|| value <= 0)
 			status = 2;
-		else if (pars_argv(i, value, all) != 0)
+		else if (pars_argv(i, value, all))
 			status = 3;
 		free(temp);
 		if (status != 0)
@@ -110,9 +110,9 @@ int	main(int argc, char **argv)
 	all.lim->error = 0;
 	if (argc < 5 || argc > 6)
 		return (cuba_libre(&all, 1, 0));
-	if (check_argv(argv, &all) != 0
-		|| init(&all) != 0
-		|| start_party(&all) != 0)
+	if (check_argv(argv, &all)
+		|| init(&all)
+		|| start_party(&all))
 		return (1);
 	return (cuba_libre(&all, 0, 0));
 }

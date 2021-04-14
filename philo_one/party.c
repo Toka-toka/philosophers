@@ -4,7 +4,7 @@ int	block_print(t_philo *philo, char *str, char *color)
 {	
 	static char	end;
 
-	if (ft_mutex(philo, 0) != 0)
+	if (ft_mutex(philo, 0))
 		return (1);
 	if (end == 1)
 	{
@@ -22,7 +22,7 @@ int	block_print(t_philo *philo, char *str, char *color)
 		printf("%10.1ld %3.3d %s%s (%d)%s\n",
 			get_time(philo->lim->start), philo->index + 1, color,
 			str, philo->lim->num_eat - philo->eat + 1, NRM);
-	if (ft_mutex(philo, 1) != 0)
+	if (ft_mutex(philo, 1))
 		return (1);
 	return (0);
 }
@@ -31,10 +31,10 @@ int	forks_move(t_philo *philo, int i)
 {
 	if (i == 0)
 	{
-		if (pthread_mutex_lock(philo->left) != 0
-			|| block_print(philo, "has taken a fork", NRM) != 0
-			|| pthread_mutex_lock(philo->right) != 0
-			|| block_print(philo, "has taken a fork", NRM) != 0)
+		if (pthread_mutex_lock(philo->left)
+			|| block_print(philo, "has taken a fork", NRM)
+			|| pthread_mutex_lock(philo->right)
+			|| block_print(philo, "has taken a fork", NRM))
 		{
 			philo->lim->error = 1;
 			return (1);
@@ -43,8 +43,8 @@ int	forks_move(t_philo *philo, int i)
 	}
 	else
 	{
-		if (pthread_mutex_unlock(philo->left) != 0
-			|| pthread_mutex_unlock(philo->right) != 0)
+		if (pthread_mutex_unlock(philo->left)
+			|| pthread_mutex_unlock(philo->right))
 		{
 			philo->lim->error = 1;
 			return (1);
@@ -62,17 +62,17 @@ void	*life(void *data)
 		usleep(philo->lim->eat * 0.9 * 1000);
 	while (1)
 	{
-		if (forks_move(philo, 0) != 0
-			|| gettimeofday(&philo->hungry, NULL) != 0
-			|| block_print(philo, "is eating", GRN) != 0
-			|| usleep(philo->lim->eat * 1000) != 0
-			|| forks_move(philo, 1) != 0)
+		if (forks_move(philo, 0)
+			|| gettimeofday(&philo->hungry, NULL)
+			|| block_print(philo, "is eating", GRN)
+			|| usleep(philo->lim->eat * 1000)
+			|| forks_move(philo, 1))
 			return (NULL);
 		if (philo->eat > 0)
 			philo->eat--;
-		if (block_print(philo, "is sleeping", NRM) != 0
-			|| usleep(philo->lim->sleep * 1000) != 0
-			|| block_print(philo, "is thinking", YEL) != 0)
+		if (block_print(philo, "is sleeping", NRM)
+			|| usleep(philo->lim->sleep * 1000)
+			|| block_print(philo, "is thinking", YEL))
 			return (NULL);
 	}
 }
@@ -99,7 +99,7 @@ int	death_catch(t_all *all)
 	}
 	if (max_eat == 0)
 	{
-		usleep(100);
+		usleep(1000);
 		block_print(&all->philo[all->lim->philo - 1], "philos are full", BLU);
 		return (0);
 	}

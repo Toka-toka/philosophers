@@ -115,9 +115,9 @@ int	main(int argc, char **argv)
 	all.lim->error = 0;
 	if (argc < 5 || argc > 6)
 		return (cuba_libre(&all, 1, 0));
-	if (check_argv(argv, &all) != 0
-		|| init(&all) != 0
-		|| start_party(&all) != 0)
+	if (check_argv(argv, &all)
+		|| init(&all)
+		|| start_party(&all))
 		return (1);
 	return (cuba_libre(&all, 0, 0));
 }
